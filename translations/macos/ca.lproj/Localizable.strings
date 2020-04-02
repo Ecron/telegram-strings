@@ -1,0 +1,4143 @@
+﻿
+"Messages.UnreadMark" = "Missatges per llegir";
+"Messages.ForwardHeader" = "Missatges reenviats";
+"Messages.File.State.FetchingIn_1" = "%d% baixat";
+"Messages.File.State.FetchingOut_1" = "%d% pujat";
+
+"Messages.File.State.Remote" = "Baixa";
+"Messages.File.State.Local" = "Mostra al Finder";
+"Messages.DeletedMessage" = "Missatge eliminat";
+
+"Messages.Placeholder.SentMessage" = "Escriviu un missatge...";
+"SearchField.Search" = "Cerca";
+"Contacts.ContacsSeparator" = "Contactes";
+"Navigation.back" = "Enrere";
+"Navigation.Edit" = "Edita";
+"Navigation.Done" = "Fet";
+"Navigation.Close" = "Tanca";
+"Navigation.Cancel" = "Cancel·la";
+"Navigation.Next" = "Següent";
+"Navigation.Add" = "Afegeix";
+
+
+"Peer.Status.online" = "en línia";
+"Peer.Status.recently" = "vist fa poc";
+"Peer.Status.justNow" = "vist ara mateix";
+"Peer.Status.lastWeek" = "vist fa uns dies";
+"Peer.Status.lastMonth" = "vist fa unes setmanes";
+"Peer.Status.longTimeAgo" = "vist fa molt de temps";
+
+"Peer.Status.Today" = "avui";
+"Peer.Status.Yesterday" = "ahir";
+"Peer.Status.LastSeenAt" = "vist: %@ a les %@";
+
+
+/* do not translate key with 'countable' suffix */
+
+"Peer.Status.Member_countable" = "%d";
+
+"Peer.Status.Member_one" = "%d membre";
+
+
+
+"Peer.Status.Member_other" = "%d membres";
+
+
+"Peer.Status.Subscribers_countable" = "%d";
+
+"Peer.Status.Subscribers_one" = "%d subscriptor";
+
+
+
+"Peer.Status.Subscribers_other" = "%d subscriptors";
+
+/* do not translate key with 'countable' suffix */
+"Peer.Status.Member.Online_countable" = "%d";
+
+"Peer.Status.Member.Online_one" = "%d en línia";
+
+
+
+"Peer.Status.Member.Online_other" = "%d en línia";
+
+
+/* do not translate key with 'countable' suffix */
+"Peer.Status.minAgo_countable" = "%d";
+
+"Peer.Status.minAgo_one" = "vist fa %d minut";
+
+
+
+"Peer.Status.minAgo_other" = "vist fa %d minuts";
+
+"Peer.Status.channel" = "canal";
+"Peer.Status.group" = "grup";
+
+"Telegram.PeerInfoController" = "Informació";
+"PeerInfo.SendMessage" = "Envia-li un missatge";
+"PeerInfo.ShareContact" = "Comparteix el contacte";
+"PeerInfo.ShareMyInfo" = "Envia el meu número";
+"PeerInfo.StartSecretChat" = "Inicia un xat secret";
+"PeerInfo.SharedMedia" = "Fitxers compartits";
+"PeerInfo.Notifications" = "Notificacions";
+"PeerInfo.BlockUser" = "Bloca l'usuari";
+"PeerInfo.UnblockUser" = "Desbloca l'usuari";
+"PeerInfo.username" = "nom d'usuari";
+"PeerInfo.about" = "informació";
+"PeerInfo.bio" = "biografia";
+"PeerInfo.scam" = "estafa";
+"PeerInfo.info" = "Informació";
+"PeerInfo.SetGroupPhoto" = "Estableix una foto";
+"PeerInfo.AddMember" = "Afegeix un membre";
+"PeerInfo.DeleteAndExit" = "Elimina i abandona";
+"PeerInfo.DeleteGroup" = "Elimina el grup";
+"PeerInfo.Permissions" = "Permisos";
+"PeerInfo.Administrators" = "Administradors";
+
+"PeerInfo.Statistics" = "Estadístiques";
+
+"PeerInfo.Confirm.DeleteGroupConfirmation" = "Espereu! En suprimir aquest grup, s'eliminaran tots els membres i es perdran tots els missatges. Voleu eliminar el grup de totes maneres?";
+
+
+"PeerInfo.ShowMore" = "Mostra més";
+"PeerInfo.LeaveGroup" = "Abandona el grup";
+
+"PeerInfo.StopBot" = "Atura el bot";
+"PeerInfo.RestartBot" = "Reinicia el bot";
+
+"PeerInfo.LeaveChannel" = "Abandona el canal";
+"PeerInfo.Report" = "Notifica";
+"PeerInfo.sharelink" = "enllaç per a compartir";
+"PeerInfo.Confirm.LeaveChannel" = "Segur que voleu abandonar el canal?";
+"PeerInfo.Confirm.LeaveGroup" = "Segur que voleu abandonar aquest grup?\n\nAquesta acció no es pot desfer.";
+"PeerInfo.Confirm.DeleteChat" = "Segur que voleu eliminar tot l'historial de missatges i abandonar «%@»?\n\nAquesta acció no es pot desfer.";
+"Confirm.DeleteAdminedChannel" = "Ep! En eliminar el canal s'expulsaran tots els membres i els subscriptors es perdran. Voleu eliminar-lo?";
+"Confirm.DeleteChatUser" = "Segur que voleu eliminar tot l'historial de missatges?\n\nAquesta acció no es pot desfer.";
+"Confirm.LeaveGroup" = "Segur que voleu abandonar el grup?";
+
+
+"PeerInfo.Confirm.DeleteUserChat" = "Segur que voleu eliminar el xat?";
+
+"PeerMedia.SharedMedia" = "Fitxers compartits";
+"EmptyPeer.Description" = "Trieu un xat per a començar a conversar";
+
+"Emoji.Recent" = "Usats freqüentment";
+"Emoji.SmilesAndPeople" = "Emoticones i persones";
+"Emoji.AnimalsAndNature" = "Animals i natura";
+"Emoji.FoodAndDrink" = "Menjar i beguda";
+"Emoji.ActivityAndSport" = "Activitat i esport";
+"Emoji.TravelAndPlaces" = "Viatges i llocs";
+"Emoji.Objects" = "Objectes";
+"Emoji.Symbols" = "Símbols";
+"Emoji.Flags" = "Banderes";
+
+
+"Chat.DropTitle" = "Deixeu anar els fitxers per a enviar-los";
+"Chat.DropQuickDesc" = "de manera ràpida";
+"Chat.DropAsFilesDesc" = "sense compressió";
+
+
+"Chat.DropEditDesc" = "Edita el fitxer";
+
+
+
+
+"Chat.DropFolder.Title" = "Deixeu anar la carpeta aquí per a enviar-la";
+"Chat.DropFolder.Desc" = "com a arxiu";
+
+"Message.ActionsPanel.Delete" = "Elimina";
+"Message.ActionsPanel.Forward" = "Reenvia";
+"Message.ActionsPanel.EmptySelected" = "Seleccioneu missatges";
+
+
+/* do not translate key with 'countable' suffix */
+"Message.ActionsPanel.SelectedCount_countable" = "%d";
+
+"Message.ActionsPanel.SelectedCount_one" = "%d missatge seleccionat";
+
+
+
+"Message.ActionsPanel.SelectedCount_other" = "%d missatges seleccionats";
+
+
+/* do not translate key with 'countable' suffix */
+"Message.AccessoryPanel.Forwarded_countable" = "%d";
+
+"Message.AccessoryPanel.Forwarded_one" = "%d missatge reenviat";
+
+
+
+"Message.AccessoryPanel.Forwarded_other" = "%d missatges reenviats";
+
+
+
+/* do not translate key with 'countable' suffix */
+"ForwardModalAction.Title_countable" = "%d";
+
+"ForwardModalAction.Title_one" = "S'està reenviant el missatge";
+
+
+
+"ForwardModalAction.Title_other" = "S'estan reenviant els missatges";
+
+
+/*
+ _zero
+ _one
+ _two
+ _few
+ _many
+ _other
+ */
+
+/* do not translate key with 'countable' suffix */
+"ForwardModalAction.description_countable" = "%d %@";
+
+"ForwardModalAction.description_one" = "Seleccioneu un usuari o xat per a reenviar el missatge de %@";
+
+
+
+"ForwardModalAction.description_other" = "Seleccioneu un usuari o xat per a reenviar els missatges de %@";
+
+
+"Alert.OK" = "D'acord";
+"Alert.Cancel" = "Cancel·la";
+"Alert.Discard" = "Descarta";
+"Alert.NO" = "No";
+
+"Alert.Forward.Error" = "No es poden reenviar missatges a aquesta conversa.";
+
+"PreviewSender.CompressFile" = "Envia com a comprimit";
+"PreviewSender.CaptionPlaceholder" = "Afegiu una llegenda...";
+"PreviewSender.CommentPlaceholder" = "Afegeix un comentari...";
+"PreviewSender.FileTooltip" = "Envia sense comprimir";
+"PreviewSender.MediaTooltip" = "Envia-ho de manera ràpida";
+"PreviewSender.CollageTooltip" = "Agrupa tots els fitxers en un missatge";
+"PreviewSender.ArchiveTooltip" = "Arxiva tots els fitxers en un fitxer zip";
+
+
+
+"Modal.Send" = "Envia";
+"Modal.Share" = "Comparteix";
+"Modal.CopyLink" = "Copia l'enllaç";
+"Modal.Cancel" = "Cancel·la";
+"Modal.OK" = "D'acord";
+"Modal.Apply" = "Aplica";
+"Modal.Set" = "Estableix";
+"QuickLook.Preview" = "Vista prèvia";
+
+
+"Chat.Service.You" = "Jo";
+"Chat.Service.Group.Created" = "%@ ha creat el grup «%@»";
+"Chat.Service.Group.AddedMembers" = "%@ ha afegit %@";
+"Chat.Service.Group.AddedSelf" = "%@ s'ha unit al grup";
+"Chat.Service.Group.RemovedMembers" = "%@ ha expulsat %@";
+"Chat.Service.Group.RemovedSelf" = "%@ ha deixat el grup";
+"Chat.Service.Group.UpdatedPhoto" = "%@ ha actualitzat la foto del grup";
+"Chat.Service.Group.RemovedPhoto" = "%@ ha eliminat la foto del grup";
+"Chat.Service.Group.UpdatedTitle" = "%@ ha canviat el nom del grup a «%@»";
+"Chat.Service.Group.UpdatedPinnedMessage" = "%@ ha fixat «%@»";
+"Chat.Service.Group.JoinedByLink" = "%@ s'ha unit al grup via l'enllaç d'invitació";
+"Chat.Service.Group.MigratedToSupergroup" = "Aquest grup s'ha actualitzat a un supergrup";
+"Chat.Service.Group.TookScreenshot" = "%@ ha fet una captura de pantalla";
+"Chat.Service.PinnedMessage" = "s'ha fixat el missatge";
+"Chat.Service.PeerJoinedTelegram" = "%@ s'ha unit al Telegram";
+
+
+
+"Chat.Service.Channel.UpdatedPhoto" = "s'ha actualitzat la foto del canal";
+"Chat.Service.Channel.RemovedPhoto" = "s'ha eliminat la foto del canal";
+"Chat.Service.Channel.UpdatedTitle" = "s'ha canviat el nom del canal a «%@»";
+
+
+"Chat.Service.SecretChat.SetTimer" = "%@ ha establert l'autodestrucció a %@";
+"Chat.Service.SecretChat.SetTimer.Self" = "Heu establert l'autodestrucció a %@";
+"Chat.Service.SecretChat.DisabledTimer" = "%@ ha desactivat l'autodestrucció";
+"Chat.Service.SecretChat.DisabledTimer.Self" = "Heu desactivat l'autodestrucció";
+
+"Chat.Input.Mute" = "Silencia";
+"Chat.Input.Unmute" = "Activa el so";
+"Chat.Input.Return" = "Retorna'm al grup";
+"Chat.Input.SecretChat.WaitingToUserOnline" = "Esperant que %@ es connecti...";
+
+"Chat.Input.Delete" = "Elimina i abandona";
+"Chat.Input.Join" = "Afegeix-m'hi";
+"Chat.Input.Discuss" = "Debat";
+"Chat.Input.Unblock" = "Desbloca";
+"Chat.Input.Restart" = "Reinicia";
+"Chat.Input.Close" = "Tanca";
+
+"Message.Context.Reply1" = "Respon";
+"Message.Context.ReplyHelp" = "doble clic";
+"Message.Context.Report" = "Notifica";
+"Message.Context.Forward" = "Reenvia";
+"Message.Context.Delete" = "Elimina";
+"Message.Context.Select" = "Selecciona";
+"Message.Context.Edit" = "Edita";
+"Message.Context.Goto" = "Mostra el missatge";
+"Message.Context.Pin" = "Fixa";
+
+"Message.Context.Report.AlertOK" = "Gràcies. El nostre equip revisarà la denúncia el més aviat possible.";
+
+
+"Message.Context.Confirm.Pin1" = "Voleu fixar aquest missatge?";
+"Message.Context.Confirm.NotifyPin" = "Notifica a tots els membres";
+
+"Message.Context.ForwardToCloud" = "Desa a l'emmagatzematge al núvol";
+
+"Entertainment.Switch.GifAndStickers" = "Adhesius i GIF";
+"Entertainment.Switch.Emoji" = "Emojis";
+"Telegram.LayoutAccountController" = "Configuració";
+
+"AccountSettings.SetProfilePhoto" = "Trieu la foto de perfil";
+"AccountSettings.General" = "General";
+"AccountSettings.Proxy" = "Servidor intermediari";
+"AccountSettings.Proxy.Connecting" = "S'està connectant";
+"AccountSettings.Proxy.Connected" = "Connectat";
+"AccountSettings.Proxy.Disabled" = "Desactivat";
+"AccountSettings.Stickers" = "Adhesius";
+"AccountSettings.Notifications" = "Notificacions i sons";
+"AccountSettings.Username" = "Nom d'usuari";
+"AccountSettings.Language" = "Llengua";
+"AccountSettings.PrivacyAndSecurity" = "Privadesa i seguretat";
+"AccountSettings.Filters" = "Carpetes de xat";
+
+"AccountSettings.About" = "Quant a";
+"AccountSettings.FAQ" = "PMF del Telegram";
+"AccountSettings.AskQuestion" = "Cap dubte?";
+
+"AccountSettings.Wallet" = "Moneder de Gram";
+
+
+"ConnectingStatus.connecting" = "connexió";
+"ConnectingStatus.online" = "en línia";
+"ConnectingStatus.updating" = "actualització";
+"ConnectingStatus.waitingNetwork" = "esperant una connexió";
+"ConnectingStatus.connectingToProxy" = "connectant al servidor intermediari";
+
+"Chat.ConnectingStatus.connecting" = "S'està connectant";
+"Chat.ConnectingStatus.updating" = "S'està actualitzant";
+"Chat.ConnectingStatus.waitingNetwork" = "Esperant una connexió";
+"Chat.ConnectingStatus.connectingToProxy" = "Connectant al servidor intermediari";
+
+"InputAttach.Popover.PhotoOrVideo" = "Foto o vídeo";
+"InputAttach.Popover.Picture" = "Càmera";
+"InputAttach.Popover.File" = "Fitxer";
+"InputAttach.Popover.Location" = "Ubicació";
+"InputAttach.Popover.Poll" = "Enquesta";
+
+"Compose.Popover.NewGroup" = "Crea un grup";
+"Compose.Popover.NewChannel" = "Crea un canal";
+"Compose.Popover.NewSecretChat" = "Crea un xat secret";
+
+
+"Chat.Cancel" = "Cancel·la";
+"Gallery.Context.SaveAs" = "Anomena i desa...";
+"Gallery.Context.ShowMessage" = "Mostra el missatge";
+"Gallery.Context.CopyToClipboard" = "Copia el fitxer";
+"Gallery.ContextDeletePhoto" = "Elimina";
+
+"Gallery.WaitDownload.Photo" = "Espereu que la foto s'hagi baixat completament.";
+"Gallery.WaitDownload.Video" = "Espereu que el vídeo s'hagi baixat completament.";
+
+"Chat.Input.Accessory.EditMessage" = "Edita el missatge";
+"Chat.Message.edited" = "editat";
+
+
+"Chat.Input.Error.MessageTooLong_countable" = "%d";
+
+"Chat.Input.Error.MessageTooLong_one" = "El missatge és massa llarg per a desar-lo. Elimineu-ne %d caràcter.";
+
+
+
+"Chat.Input.Error.MessageTooLong_other" = "El missatge és massa llarg per a desar-lo. Elimineu-ne %d caràcters.";
+
+
+"PeerMedia.Popover.SharedMedia" = "Multimèdia";
+"PeerMedia.Popover.SharedFiles" = "Fitxers compartits";
+"PeerMedia.Popover.SharedLinks" = "Enllaços compartits";
+"PeerMedia.Popover.SharedAudio" = "Àudio compartit";
+
+
+"PeerMedia.Media" = "Fitxers";
+"PeerMedia.Files" = "Documents";
+"PeerMedia.Links" = "Enllaços";
+"PeerMedia.Audio" = "Àudios";
+
+"PeerMedia.Voice" = "Veus";
+
+
+"Chat.Message.Via" = "via";
+
+"Audio.UnknownArtist" = "Artista desconegut";
+"Audio.UntitledSong" = "Sense títol";
+
+"AudioController.voiceMessage" = "missatge de veu";
+"AudioController.videoMessage" = "missatge de vídeo";
+"You" = "Jo";
+
+
+"Login.WelcomeDescription" = "Us donem la benvinguda a l'aplicació per a macOS";
+"Login.countryLabel" = "país";
+"Login.phoneFieldPlaceholder" = "número de telèfon";
+"Login.Next" = "Següent";
+
+"Login.InvalidCountryCode" = "El codi de país no és correcte";
+"Login.codePlaceholder" = "codi";
+
+
+"Login.QR.Title" = "Inici de sessió amb codi QR";
+"Login.QR.Help1" = "Obriu el Telegram al telèfon";
+"Login.QR.Help2" = "Aneu a **Configuració** > **Dispositius** > **Escaneja un codi QR**";
+"Login.QR.Help3" = "Enfoqueu amb el mòbil aquesta pantalla per a  confirmar l'inici de sessió";
+"Login.QR.Cancel" = "Inicia sessió amb el número de mòbil";
+"Login.QR.Login" = "Inici de sessió amb QR";
+
+"Login.EnterCodeFromApp" = "Introduïu el codi que acabeu de rebre a l'aplicació Telegram de l'altre dispositiu.";
+"Login.SendSmsIfNotReceivedAppCode" = "No heu rebut el codi?";
+"Login.JustSentSms" = "Us hem enviat un codi via SMS. Introduïu-lo a sobre.";
+"Login.PhoneCalledCode" = "Us acabem de trucar al vostre número. Introduïu el codi.";
+"Login.PhoneDialed" = "El Telegram ha marcat el vostre número";
+"Login.willCall" = "El Telegram us trucarà en %d:%@";
+"Login.willSendSms" = "Us enviarem un SMS en %d:%@";
+"Login.passwordPlaceholder" = "contrasenya";
+
+"Login.EnterPasswordDescription" = "Heu activat la verificació en dos passos, per tant el vostre compte és protegit amb una contrasenya addicional.";
+"Login.RecoveryMailFailed" = "Atès que no vau proporcionar cap correu de recuperació en configurar la contrasenya, les opcions disponibles són recordar-la o restablir el vostre compte.";
+
+"Login.PasswordForgot" = "Heu oblidat la contrasenya?";
+"Login.ResetAccountText" = "Restableix el compte";
+
+
+"Login.ResetAccount" = "RESTABLEIX EL MEU COMPTE";
+"Login.ResetAccountDescription" = "Si procediu amb el restabliment del vostre compte, perdreu tots els xats i missatges, i també tots els fitxers i contingut multimèdia que heu compartit.";
+
+
+"PHONE_NUMBER_INVALID" = "número de telèfon no vàlid";
+"Login.FloodWait" = "Heu excedit el nombre d'intents. Torneu a provar-ho més tard.";
+"PHONE_CODE_INVALID" = "el codi de telèfon no és vàlid";
+"PHONE_CODE_EXPIRED" = "el codi ha caducat";
+"PASSWORD_HASH_INVALID" = "contrasenya incorrecta";
+
+
+
+"Chat.ForwardActionHeader" = "Missatges reenviats";
+
+
+"GeneralSettings.MediaKeysForInAppPlayer" = "Gestiona les tecles multimèdia per al reproductor intern";
+"GeneralSettings.EmojiReplacements" = "Reemplaça els emojis";
+"GeneralSettings.InputSettings" = "CONFIGURACIÓ D'ENTRADA";
+"GeneralSettings.GeneralSettings" = "CONFIGURACIÓ GENERAL";
+
+"GeneralSettings.SendByEnter" = "Usa Retorn per a enviar";
+"GeneralSettings.SendByCmdEnter" = "Usa ⌘ + Retorn per a enviar";
+
+"GeneralSettings.InterfaceHeader" = "INTERFÍCIE";
+"GeneralSettings.AdvancedHeader" = "AVANÇAT";
+"GeneralSettings.EmojiAndStickers" = "EMOJIS I ADHESIUS";
+
+
+"Telegram.GeneralSettingsViewController" = "Configuració general";
+"AccountSettings.Logout" = "Tanca la sessió";
+"NotificationSettings.ToggleNotifications.Header" = "NOTIFICACIONS";
+"NotificationSettings.ToggleNotifications" = "Notificacions";
+"NotificationSettings.MessagesPreview" = "Vista prèvia del missatge";
+"NotificationSettings.IncludeMutedChats" = "Inclou els xats silenciats";
+"NotificationSettings.BadgeEnabled" = "Activat";
+
+"NotificationSettings.CountUnreadMessages" = "Compta els missatges per llegir";
+
+"NotificationSettings.IncludeGroups" = "Inclou grups";
+"NotificationSettings.IncludeChannels" = "Inclou els canals";
+
+
+"NotificationSettings.BadgeHeader" = "COMPTADOR";
+"NotificationSettings.BadgeDesc" = "Desactiveu-ho per a mostrar el nombre de xats per llegir en comptes dels missatges.";
+
+
+"NotificationSettings.NotificationTone" = "To de la notificació";
+"NotificationSettings.ResetNotifications" = "Restableix les notificacions";
+"NotificationSettings.ResetNotificationsText" = "Podeu configurar notificacions personalitzades per als xats específics de sota.";
+"Telegram.NotificationSettingsViewController" = "Notificacions";
+"AccountSettings.DataAndStorage" = "Dades i emmagatzematge";
+"DefaultSoundName" = "Per defecte";
+"NotificationSettings.Tone.Default" = "Per defecte";
+"NotificationSettingsToneNone" = "Cap";
+
+"NotificationSettings.Confirm.Reset" = "Restaura les notificacions";
+
+
+"Weekday.ShortFriday" = "dv.";
+"Weekday.ShortMonday" = "dl.";
+"Weekday.ShortSaturday" = "ds.";
+"Weekday.ShortSunday" = "dg.";
+"Weekday.ShortThursday" = "dj.";
+"Weekday.ShortTuesday" = "dt.";
+"Weekday.ShortWednesday" = "dc.";
+
+
+"Time.at" = "a les";
+"Time.last_seen" = "vist";
+"Time.today" = "avui";
+"Time.yesterday" = "ahir";
+
+
+"Chat.EmptyChat" = "Encara no hi ha cap missatge...";
+
+"Chat.List.Sticker" = "Adhesiu %@";
+"Chat.List.Voice" = "Missatge de veu";
+"Chat.List.InstantVideo" = "Missatge de vídeo";
+"Chat.List.Video" = "Vídeo";
+"Chat.List.Photo" = "Foto";
+"Chat.List.GIF" = "GIF";
+"Chat.List.Map" = "Ubicació";
+"Chat.List.Contact" = "Contacte";
+
+"UsernameSettings.ChangeDescription" = "Podeu triar un nom d'usuari al Telegram. Si ho feu, altres usuaris us podran trobar per aquest nom i enviar-vos missatges sense que coneguin el vostre número.\n\n\nPodeu usar a-z, 0-9 i guions baixos. Longitud mínima: 5 caràcters.";
+"UsernameSettings.InputPlaceholder" = "Introduïu el vostre nom d'usuari";
+"Telegram.UsernameSettingsViewController" = "Nom d'usuari";
+"UsernameSettings.available" = "%@ està disponible.";
+
+"Error.Username.UnderscopeStart" = "El nom d'usuari no pot començar amb guió baix.";
+"Error.Username.UnderscopeEnd" = "El nom d'usuari no pot acabar amb un guió baix.";
+"Error.Username.NumberStart" = "El nom d'usuari no pot començar amb un número.";
+"Error.Username.Invalid" = "Aquest nom d'usuari no és vàlid.";
+"Error.Username.MinimumLength" = "El nom d'usuari ha de tenir com a mínim 5 caràcters.";
+"Error.Username.AlreadyTaken" = "Aquest nom d'usuari ja es troba en ús.";
+"UsernameSettings.Done" = "Fet";
+
+"Search.Separator.ChatsAndContacts" = "contactes i xats";
+"Search.Separator.GlobalPeers" = "cerca global";
+"Search.Separator.Messages" = "missatges";
+"Search.Separator.Recent" = "Recent";
+"Search.Separator.Popular" = "Persones";
+"PeerInfo.AdminLabel" = "administrador";
+"Share.Link.Copied" = "S'ha copiat al porta-retalls";
+
+
+"Presence.bot" = "bot";
+"Presence.Support" = "assistència";
+"CreateGroup.NameHolder" = "Nom del grup";
+"Telegram.ChannelIntroViewController" = "Canal";
+"Channel.IntroDescriptionHeader" = "Què és un canal?";
+"Channel.IntroDescription" = "Els canals són una eina per a difondre els vostres missatges a grans audiències.";
+"Channel.Intro.CreateChannel" = "Crea un canal";
+"Channel.Create" = "Crea";
+"Channel.NewChannel" = "Canal nou";
+"Group.CreateGroup" = "Grup nou";
+"Compose.Create" = "Crea";
+"Compose.Next" = "Següent";
+"Channel.ChannelNameHolder" = "Nom del canal";
+"Channel.NameHeader" = "NOM DEL CANAL";
+"Channel.DescriptionHolder" = "Descripció";
+"Channel.DescHeader" = "DESCRIPCIÓ";
+"Channel.DescriptionHolderDescrpiton" = "Podeu establir una descripció opcional per al vostre canal.";
+
+
+"Channel.TypeHeaderChannel" = "TIPUS DE CANAL";
+"Channel.TypeHeaderGroup" = "TIPUS DE GRUP";
+
+
+"Channel.Public" = "Públic";
+"Channel.Private" = "Privat";
+
+
+"Channel.PrivateAboutChannel" = "Només es pot accedir als canals privats amb un enllaç d'invitació.";
+"Channel.PublicAboutChannel" = "Els canals públics es poden trobar amb el cercador, i tothom pot unir-s'hi.";
+"Channel.PrivateAboutGroup" = "Els grups privats només es poden accedir si us hi conviden o amb un enllaç d'invitació.";
+"Channel.PublicAboutGroup" = "Els grups públics es poden trobar a la cerca, tothom pot veure'n l'historial i qualsevol s'hi pot unir.";
+
+"Channel.PublicNamesLimitError" = "Heu reservat massa noms d'usuari públics. Podeu revocar l'enllaç d'un dels vostres grups o canals antics, o crear-ne un privat.";
+
+
+"Channel.ExportLinkAboutChannel" = "Qualsevol pot unir-se al canal a través d'aquest enllaç. El podeu revocar quan vulgueu.";
+"Channel.ExportLinkAboutGroup" = "Qualsevol pot unir-se al grup a través d'aquest enllaç. El podeu revocar quan vulgueu.";
+"Channel.UsernameAboutChannel" = "Qualsevol pot compartir aquest enllaç i trobar el canal mitjançant el cercador intern.";
+"Channel.UsernameAboutGroup" = "Qualsevol pot compartir aquest enllaç i trobar el grup mitjançant el cercador intern.";
+
+
+"Group.NewGroup" = "Grup nou";
+
+"Chat.Confirm.ActionUndonable" = "Aquesta acció no es pot desfer.";
+"Chat.Confirm.DeleteMessagesForEveryone" = "Elimina-ho tot";
+
+
+"Chat.Confirm.DeleteMessages_countable" = "%d";
+
+
+
+
+
+
+
+"Chat.Confirm.DeleteForEveryone_countable" = "%d";
+
+"Chat.Confirm.DeleteForEveryone_one" = "Segur que voleu eliminar aquest missatge per a tothom?";
+
+
+
+"Chat.Confirm.DeleteForEveryone_other" = "Segur que voleu eliminar aquests missatges per a tothom?";
+
+
+"Telegram.PrivacyAndSecurityViewController" = "Privadesa i seguretat";
+"PrivacySettings.PrivacyHeader" = "PRIVADESA";
+"PrivacySettings.BlockedUsers" = "Usuaris blocats";
+"PrivacySettings.LastSeen" = "Última connexió";
+"PrivacySettings.Groups" = "Grups i canals";
+"PrivacySettings.PhoneNumber" = "Número de telèfon";
+"PrivacySettings.VoiceCalls" = "Trucades";
+"PrivacySettings.ProfilePhoto" = "Foto de perfil";
+"PrivacySettings.Forwards" = "Missatges reenviats";
+
+
+"PrivacySettings.GroupMembersCount_countable" = "%d";
+
+"PrivacySettings.GroupMembersCount_one" = "%d membre";
+
+
+
+"PrivacySettings.GroupMembersCount_other" = "%d membres";
+
+"PrivacySettings.SecurityHeader" = "SEGURETAT";
+"PrivacySettings.Passcode" = "Codi d'accés";
+"PrivacySettings.ActiveSessions" = "Sessions actives";
+
+"PrivacySettings.UseProxy" = "Usa un servidor intermediari";
+"PrivacySettings.ProxyHeader" = "TIPUS DE CONNEXIÓ";
+
+"PrivacySettings.TwoStepVerification" = "Verificació en dos passos";
+
+"Telegram.PasscodeSettingsViewController" = "Codi d'accés";
+"Passcode.Lost.Description" = "Si no recordeu la contrasenya, podeu [tancar la sessió]()";
+
+
+
+
+
+"Chat.Input.StartBot" = "Inicia'l";
+
+"InlineModalAction.Title" = "Compartiu el contingut del bot";
+"InlineModalAction.Desc" = "Seleccioneu un usuari o xat per a compartir via %@";
+
+
+
+"ChatList.Context.Unmute" = "Activa el so";
+"ChatList.Context.Mute" = "Silencia";
+"ChatList.Context.ClearHistory" = "Esborra l'historial";
+"ChatList.Context.Call" = "Truca";
+"ChatList.Context.DeleteChat" = "Elimina el xat";
+"ChatList.Context.DeleteAndExit" = "Elimina i abandona";
+"ChatList.Context.LeaveChannel" = "Abandona el canal";
+"ChatList.Context.LeaveGroup" = "Abandona el grup";
+"ChatList.Context.ReturnGroup" = "Torna al grup";
+"ChatList.Context.Pin" = "Fixa";
+"ChatList.Context.Unpin" = "No fixis";
+
+"ChatList.SecretChat.Terminated" = "S'ha cancel·lat el xat secret";
+"ChatList.SecretChat.Joined" = "%@ s'ha unit al xat secret.";
+"ChatList.SecretChat.Created" = "%@ ha creat un xat secret.";
+"ChatList.SecretChat.ExKeys" = "S'està esperant que es connecti";
+
+"ChatList.UnsupportedMessage" = "El missatge no és compatible";
+"Chat.Message.Unsupported" = "Aquest missatge no és compatible amb la vostra versió del Telegram. Actualitzeu a l'última versió via Configuració o instal·leu-la des de: https://macos.telegram.org";
+"Text.Copy" = "Copia";
+"Text.CopyText" = "Copia el text";
+"Text.CopyLabel" = "Copia %@";
+
+"Peer.Activity.User.PlayingGame" = "està jugant";
+"Peer.Activity.User.TypingText" = "està escrivint";
+"Peer.Activity.User.SendingPhoto" = "està enviant una foto";
+"Peer.Activity.User.RecordingVideo" = "està enregistrant un vídeo";
+"Peer.Activity.User.SendingVideo" = "està enviant un vídeo";
+"Peer.Activity.User.RecordingAudio" = "està enregistrant la veu";
+"Peer.Activity.User.SendingFile" = "està enviant un fitxer";
+
+"Peer.Activity.Chat.PlayingGame" = "%@ està jugant";
+"Peer.Activity.Chat.TypingText" = "%@ està escrivint";
+"Peer.Activity.Chat.SendingPhoto" = "%@ està enviant una imatge";
+"Peer.Activity.Chat.RecordingVideo" = "%@ està enregistrant un vídeo";
+"Peer.Activity.Chat.SendingVideo" = "%@ està enviant un vídeo";
+"Peer.Activity.Chat.RecordingAudio" = "%@ està enregistrant veu";
+"Peer.Activity.Chat.SendingFile" = "%@ està enviant un fitxer";
+
+"Peer.Activity.Chat.Multi.PlayingGame1" = "%@ i %d usuaris més estan jugant";
+"Peer.Activity.Chat.Multi.TypingText1" = "%@ i %d més estan escrivint";
+"Peer.Activity.Chat.Multi.SendingPhoto1" = "%@ i %d més estan enviant fotos";
+"Peer.Activity.Chat.Multi.RecordingVideo1" = "%@ i %d més estan enregistrant un vídeo";
+"Peer.Activity.Chat.Multi.SendingVideo1" = "%@ i %d més estan enviant vídeos\n";
+"Peer.Activity.Chat.Multi.RecordingAudio1" = "%@ i %d més estan enregistrant un missatge de veu";
+"Peer.Activity.Chat.Multi.SendingAudio1" = "%@ i %d més estan enviant àudio";
+"Peer.Activity.Chat.Multi.SendingFile1" = "%@ i %d més estan enviant fitxers";
+
+
+
+"Peer.Media.SharedMediaEmptyList" = "Compartiu fotos i vídeos en aquest xat,\no aquest clip romandrà trist. ";
+"Peer.Media.SharedFilesEmptyList" = "Podeu enviar i rebre fitxers de qualsevol tipus fins a 1,5 GB i accedir-hi des d'arreu.";
+"Peer.Media.SharedLinksEmptyList" = "Aquí trobareu tots els enllaços compartits al xat.";
+"Peer.Media.SharedMusicEmptyList" = "Aquí trobareu tota la música compartida al xat.";
+"Peer.Media.SharedVoiceEmptyList" = "Tots els missatges de veu i de vídeo compartits en aquest xat apareixeran aquí.";
+"SecretTimer.Off" = "Desactiva";
+"Channel.SlowMode.Off" = "No";
+
+"Timer.Seconds_countable" = "%d";
+
+"Timer.Seconds_one" = "%d segon";
+
+
+
+"Timer.Seconds_other" = "%d segons";
+
+
+"Timer.Days_countable" = "%d";
+
+"Timer.Days_one" = "%d dia";
+
+
+
+"Timer.Days_other" = "%d dies";
+
+
+"Timer.Minutes_countable" = "%d";
+
+"Timer.Minutes_one" = "%d minut";
+
+
+
+"Timer.Minutes_other" = "%d minuts";
+
+"Timer.Hours_countable" = "%d";
+
+"Timer.Hours_one" = "%d hora";
+
+
+
+"Timer.Hours_other" = "%d hores";
+
+
+"LastSeen.HoursAgo_countable" = "%d";
+
+"LastSeen.HoursAgo_one" = "vist fa %d hora";
+
+
+
+"LastSeen.HoursAgo_other" = "vist fa %d hores";
+
+
+"Timer.Weeks_countable" = "%d";
+
+"Timer.Weeks_one" = "%d setmana";
+
+
+
+"Timer.Weeks_other" = "%d setmanes";
+
+"Timer.Months_countable" = "%d";
+
+"Timer.Months_one" = "%d mes";
+
+
+
+"Timer.Months_other" = "%d mesos";
+
+"Timer.Years_countable" = "%d";
+
+"Timer.Years_one" = "%d any";
+
+
+
+"Timer.Years_other" = "%d anys";
+
+"Timer.Forever" = "Per sempre";
+"ChatList.Draft" = "Esborrany:";
+"ChatList.You" = "Jo";
+
+"Notification.LockedPreview" = "Teniu un missatge nou";
+"JoinLink.Join" = "Afegeix-m'hi";
+
+"Group.Unavailable" = "Sembla que aquest grup no existeix.";
+
+"Chat.Title.self" = "El vostre magatzem al núvol";
+"Separator.ShowMore" = "mostra més";
+"Separator.ShowLess" = "mostra menys";
+"Separator.Clear" = "esborra";
+"Stickers.Recent" = "Recents";
+"Stickers.Favorite" = "FAVORITS";
+"Stickers.SearchAdd" = "Afegeix";
+"Stickers.Context.Archive" = "Arxiu";
+
+
+"Stickers.Confirm.ClearRecentHeader" = "Esborra els adhesius recents";
+"Stickers.Confirm.ClearRecentText" = "Esteu segur que voleu esborrar els adhesius recents?";
+"Stickers.Confirm.ClearRecentOK" = "Esborra";
+
+
+"Stickers.Count_countable" = "%d";
+
+"Stickers.Count_one" = "%d adhesiu";
+
+
+
+"Stickers.Count_other" = "%d adhesius";
+
+"Account.Confirm.AskQuestion" = "Teniu present que l'assistència del Telegram es basa en voluntariat. Intentem respondre el més aviat possible, però podem trigar una mica.\n\nVegeu les PMF del Telegram: hi trobareu consells importants i respostes a la majoria de preguntes per a solucionar problemes.";
+"Account.Confirm.GoToFaq" = "Obre les PMF";
+
+"Chat.SecretChat.EmptyHeader" = "Xats secrets:";
+"Chat.SecretChat.1Feature" = "- Xifratge d'extrem a extrem";
+"Chat.SecretChat.2Feature" = "- No deixen traça als servidors";
+"Chat.SecretChat.3Feature" = "- Autodestrucció de missatges";
+"Chat.SecretChat.4Feature" = "- No permeten el reenviament";
+
+
+"TextView.Transform.Bold" = "Fes negreta";
+"TextView.Transform.Italic" = "Fes cursiva";
+"TextView.Transform.Code" = "Amplada fixa";
+"TextView.Transform.URL" = "Fes URL";
+
+"AccountsController.NewAccount" = "Compte nou";
+
+"Account.Confirm.Logout" = "Voleu tancar la sessió?";
+"Account.Confirm.LogoutText" = "Recordeu, en tancar la sessió perdreu els xats secrets.";
+
+"Telegram.ConvertGroupViewController" = "Supergrup";
+
+"Supergroup.Convert.Description" = "**Als supergrups:**\n\n• Els nous membres poden veure l'historial complet.\n• Els missatges eliminats desapareixen per a tothom.\n• Els administradors poden afegir una descripció al grup.\n• El creador pot establir un enllaç públic per al grup.";
+"Supergroup.Convert.Undone" = "**Nota**: aquesta acció no es pot desfer.";
+"Supergroup.Convert.Button" = "Converteix en un supergrup";
+
+
+"PeerInfo.MembersHeader_countable" = "%d";
+
+"PeerInfo.MembersHeader_one" = "%d MEMBRE";
+
+
+
+"PeerInfo.MembersHeader_other" = "%d MEMBRES";
+
+"PeerInfo.InviteLink" = "Enllaç d'invitació";
+"PeerInfo.BlackList" = "Llista negra";
+"PeerInfo.GroupType" = "Tipus de grup";
+"PeerInfo.ChannelType" = "Tipus de canal";
+"PeerInfo.GroupType.Public" = "Públic";
+"PeerInfo.GroupType.Private" = "Privat";
+"PeerInfo.SetAboutDescription" = "Podeu establir una descripció opcional per al grup.";
+"PeerInfo.About.Placeholder" = "Descripció";
+"PeerInfo.ConvertToSupergroup" = "Converteix en un supergrup";
+"PeerInfo.RemovedUsers" = "Usuaris eliminats";
+
+
+"Telegram.ChannelBlacklistViewController" = "Llista negra";
+"Telegram.ChannelAdminsViewController" = "Administradors";
+
+"ChannelBlacklist.EmptyDescrpition" = "Els usuaris expulsats s'eliminen del grup i només hi poden tornar si un administrador els afegeix. Els enllaços d'invitació no els funcionaran.";
+
+"Admins.GroupAdmins" = "ADMINISTRADORS DEL GRUP";
+"Admins.ChannelAdmins" = "ADMINISTRADORS DEL CANAL";
+
+"Admins.OnlyAdminsCanAddMembers" = "Només els administradors poden afegir membres";
+"Admins.EverbodyCanAddMembers" = "Tothom pot afegir membres nous";
+"Admins.GroupDescription" = "Podeu afegir administradors perquè us ajudin a gestionar el grup";
+"Admins.ChannelDescription" = "Podeu afegir administradors perquè us ajudin a gestionar el canal.";
+"Admins.SelectNewAdminTitle" = "Contactes";
+"Admins.AddAdmin" = "Afegeix un administrador";
+"Admins.Admin" = "Administrador";
+"Admins.WhoCanInvite.Text" = "Qui pot afegir membres";
+"Admins.WhoCanInvite.Admins" = "Només els administradors";
+"Admins.WhoCanInvite.Everyone" = "Tots els membres";
+
+"Admins.Owner" = "Propietari";
+
+
+"Telegram.ChannelVisibilityController" = "Canal";
+
+
+"PeerInfo.Confirm.AddMembers1_countable" = "%d";
+
+"PeerInfo.Confirm.AddMembers1_one" = "Voleu afegir %d usuari al grup?";
+
+
+
+"PeerInfo.Confirm.AddMembers1_other" = "Voleu afegir %d usuaris al grup?";
+
+
+"PeerInfo.Confirm.Add" = "Afegeix";
+"peerInfo.Confirm.Leave" = "Abandona";
+"PeerInfo.Confirm.Clear" = "Esborra";
+
+"peerInfo.Confirm.ClearHistory.User" = "Això eliminarà tots els missatges i fitxers d'aquest xat al vostre núvol de Telegram. El vostre contacte encara els tindrà.";
+"peerInfo.Confirm.ClearHistory.UserBothSides" = "Esteu segur que voleu eliminar tots els missatges del xat?";
+
+"peerInfo.Confirm.ClearHistory.SavedMesssages" = "Això eliminarà tots els missatges i fitxers presents al xat del vostre núvol del Telegram.";
+
+"peerInfo.Confirm.ClearHistory.Group" = "Això eliminarà tots els missatges i fitxers d'aquest xat al vostre núvol de Telegram. Altres membres del grup encara els tindran.";
+
+"PeerInfo.Confirm.AddMember" = "Voleu afegir «%@» al grup?";
+"PeerInfo.Confirm.RemovePeer" = "Voleu expulsar «%@» del grup?";
+
+"PeerInfo.FirstName.Placeholder" = "Nom";
+"PeerInfo.LastName.Placeholder" = "Cognoms";
+"PeerInfo.GroupName.Placeholder" = "Nom del grup";
+"PeerInfo.ChannelName.Placeholder" = "Nom del canal";
+"PeerInfo.Phone" = "telèfon";
+
+"ConvertToSupergroup.Alert.Error" = "Quelcom ha anat malament, torneu a provar-ho més tard.";
+"ConvertToSuperGroup.Confirm" = "N'esteu segur? Aquesta acció no es pot desfer.";
+"Telegram.LinkInvationController" = "Enllaç d'invitació";
+
+"GroupInvation.CopyLink" = "Copia l'enllaç";
+"GroupInvation.Revoke" = "Revoca";
+"GroupInvation.Share" = "Comparteix l'enllaç";
+
+"GroupInvation.GroupDescription" = "Qualsevol que tingui el Telegram instal·lat podrà unir-se al grup tot seguint l'enllaç";
+"GroupInvation.ChannelDescription" = "Qualsevol que tingui el Telegram instal·lat podrà unir-se al canal tot seguint l'enllaç";
+
+"Chat.Header.PinnedMessage" = "Missatge fixat";
+"Chat.Header.ReportSpam" = "Marca com a brossa";
+"Chat.Confirm.Unpin" = "Voleu deixar de fixar aquest missatge?";
+"Chat.Confirm.Unpin.Header" = "Deixa de fixar-lo";
+"Chat.Confirm.Unpin.OK" = "Deixa de fixar";
+
+
+"StickerPack.Add1_countable" = "%d";
+
+"StickerPack.Add1_one" = "Afegeix %d adhesiu";
+
+
+
+"StickerPack.Add1_other" = "Afegeix %d adhesius";
+
+"Compose.Select.SecretChat" = "Xat secret";
+"Compose.Confirm.StartSecretChat" = "Crea un xat secret amb «%@»";
+
+
+"ReportReason.Spam" = "Brossa";
+"ReportReason.Violence" = "Violència";
+"ReportReason.Porno" = "Pornografia";
+"ReportReason.ChildAbuse" = "Abús de menors";
+"ReportReason.Copyright" = "Drets d'autor";
+"ReportReason.Other" = "Altres";
+"ReportReason.Other.Placeholder" = "Descripció";
+"ReportReason.Report" = "Informa";
+
+
+"PeerInfo.ChannelReported" = "Gràcies. El nostre equip revisarà la denúncia aviat.";
+
+"PeerInfo.SignMessages.Desc" = "Mostra el nom dels autors als seus missatges.";
+"PeerInfo.SignMessages" = "Signa els missatges";
+"PeerInfo.SetChannelPhoto" = "Estableix la foto del canal";
+"PeerInfo.Members" = "Membres";
+"PeerInfo.Subscribers" = "Subscriptors";
+"PeerInfo.DeleteChannel" = "Elimina el canal";
+"PeerInfo.DeleteSecretChat" = "Elimina el xat secret";
+
+"ChannelMembers.AddMembers" = "Afegeix membres";
+"ChannelMembers.AddSubscribers" = "Afegeix subscriptors";
+
+"ChannelMembers.InviteLink" = "Convida amb un enllaç";
+"ChannelMembers.MembersListDesc" = "Només els administradors poden veure aquesta llista.";
+"Telegram.ChannelMembersViewController" = "Membres del canal";
+
+"LinkInvation.Group.Confirm.Revoke" = "Segur que voleu revocar l'enllaç? Una vegada fet, ningú no podrà usar l'enllaç per a unir-se al grup.";
+"LinkInvation.Channel.Confirm.Revoke" = "Segur que voleu revocar l'enllaç? Una vegada fet, ningú no podrà usar l'enllaç per a unir-se al canal.";
+"LinkInvation.Confirm.Ok" = "Revoca";
+"ChannelMembers.Select.Title" = "Afegeix membres";
+"PeerInfo.Confirm.SecretChat.Header" = "Xat Secret";
+"PeerInfo.Confirm.SecretChat.OK" = "Inicia";
+"PeerInfo.Confirm.StartSecretChat" = "Segur que voleu iniciar un xat secret amb «%@»?";
+"PeerInfo.Confirm.ShareInfo" = "Segur que voleu compartir el vostre número amb «%@»?";
+
+
+"PeerInfo.BotStatus.HasNoAccess" = "no té accés als missatges";
+"PeerInfo.BotStatus.HasAccess" = "té accés als missatges";
+"PeerInfo.GroupsInCommon" = "Grups en comú";
+"GroupsInCommon.Empty" = "Cap grup en comú";
+"Telegram.GroupsInCommonViewController" = "Grups en comú";
+
+"ChannelVisibility.Checking" = "Comprovació";
+"ChannelVisibility.Loading" = "S'està carregant...";
+"ChannelVisibility.Confirm.Revoke" = "Segur que voleu fer privat aquest canal i eliminar-ne el nom d'usuari?";
+
+"ChannelVisibility.Confirm.MakePrivate.Channel" = "Si hi feu aquest grup privat, el nom @%@ s'eliminarà. Qualsevol podrà utilitzar-lo als seus grups o canals.";
+"ChannelVisibility.Confirm.MakePrivate.Group" = "Si hi feu aquest grup privat, el nom @%@ s'eliminarà. Qualsevol podrà utilitzar-lo als seus grups o canals.";
+
+"Peer.DeletedUser" = "Usuari eliminat";
+
+"ChatList.Service.Call.incoming" = "Trucada rebuda (%@)";
+"ChatList.Service.Call.outgoing" = "Trucada feta (%@)";
+"ChatList.Service.Call.Cancelled" = "Trucada cancel·lada";
+"ChatList.Service.Call.Missed" = "Trucada perduda";
+
+"Chat.Service.Call.Cancelled" = "Cancel·lada";
+"Chat.Service.Call.Missed" = "Perduda";
+
+"ChatList.Service.GameScored1_countable" = "%d %@";
+
+"ChatList.Service.GameScored1_one" = "ha fet %d punt al %@";
+
+
+
+"ChatList.Service.GameScored1_other" = "ha fet %d punts al %@";
+
+"About.Description" = "Aplicació de missatgeria oficial i lliure per a macOS basada en l'MTProto.";
+"ChatService.ChannelCreated" = "s'ha creat el canal";
+"Telegram.BlockedPeersViewController" = "Usuaris blocats";
+"BlockedPeers.EmptyDescrpition" = "Els usuaris blocats no poden enviar-vos missatges ni afegir-vos a cap grup. No veuran la vostra foto de perfil ni la vostra connexió.";
+
+"Sessions.CurrentSessionHeader" = "SESSIÓ ACTUAL";
+"Sessions.TerminateOthers" = "Tanca les altres sessions";
+"Sessions.TerminateDescription" = "Tanca la sessió a tots els altres dispositius.";
+"Sessions.ActiveSessionsHeader" = "SESSIONS ACTIVES";
+
+
+"Passcode.TurnOn" = "Activa el codi d'accés";
+"Passcode.TurnOnDescription" = "En introduir un codi d'accés addicional, podeu usar ⌘ + L per a blocar l'aplicació.\n\nNota: Si oblideu el codi d'accés haureu d'eliminar i reinstal·lar l'aplicació. Es perdran tots els xats secrets.";
+"Passcode.TurnOff" = "Desactiva el codi d'accés";
+"Passcode.Change" = "Canvia el codi d'accés";
+"Passcode.Autolock" = "Autoblocatge";
+"Passcode.AutoLock.Disabled" = "Desactivat";
+"Passcode.AutoLock.IfAway" = "Si no hi sóc durant %@";
+
+"Passcode.EnterPasscodePlaceholder" = "Introduïu un codi d'accés";
+"Passcode.ReEnterPlaceholder" = "Torneu a introduir el codi d'accés";
+"Passcode.EnterCurrentPlaceholder" = "Introduïu el codi d'accés actual";
+"Passcode.EnterNewPlaceholder" = "Introduïu un codi d'accés nou";
+
+"Passcode.Next" = "Següent";
+
+
+"Peer.ServiceNotifications" = "notificacions del servei";
+
+"Alert.SendError.Header" = "El missatge no s'ha pogut enviar";
+"Alert.SendError.Text" = "S'ha produït un error en enviar el missatge anterior. Voleu tornar a provar d'enviar-lo?";
+"Alert.SendError.Resend" = "Reenvia";
+"Alert.SendError.Delete" = "Elimina";
+"Alert.SendError.Ignore" = "Ignora";
+
+
+"Alert.SendError.ResendItems_countable" = "%d";
+
+"Alert.SendError.ResendItems_one" = "Reenvia %d missatge";
+
+
+
+"Alert.SendError.ResendItems_other" = "Reenvia %d missatges";
+
+"GeneralSettings.EnableSidebar" = "Barra lateral";
+"Telegram.RecentSessionsController" = "Sessions actives";
+"RecentSessions.Confirm.TerminateOthers" = "Segur que voleu tancar totes les altres sessions?";
+"RecentSessions.Confirm.Revoke" = "Voleu tancar aquesta sessió?";
+"RecentSessions.Revoke" = "Revoca";
+"RecentSessions.Error.FreshReset" = "Per seguretat, no podeu tancar sessions antigues des d'un dispositiu que acabeu de connectar. Utilitzeu una connexió anterior o espereu unes hores.";
+
+"RecentSessions.IncompleteAttemptHeader" = "INTENTS D'INICI DE SESSIÓ INCOMPLETS";
+"RecentSessions.IncompleteAttemptDesc" = "Aquests dispositius no tenen accés al vostre compte. El codi s'ha introduït correctament, però no s'ha facilitat una contrasenya correcta.";
+
+"Legacy.Intro.Description1" = "Us donem la benvinguda a la nova Telegram per a macOS, súper ràpida i estable, completament reescrita en Swift 3.0.";
+"Legacy.Intro.Description2" = "Teniu present que tots els xats secrets seran accessibles només en mode lectura. Podeu per descomptat crear-ne de nous i continuar xerrant.";
+"Legacy.Intro.Next" = "Comenceu";
+
+"Messages.ReplyLoading.Header" = "Respon";
+"Messages.ReplyLoading.Loading" = "S'està carregant...";
+"PeerInfo.DeleteContact" = "Elimina el contacte";
+"PeerInfo.Confirm.DeleteContact" = "Voleu eliminar el contacte?";
+"Compose.SelectUsers" = "Seleccioneu usuaris";
+"PeerInfo.AddContact" = "Afegeix el contacte";
+"PeerInfo.AddUserToContact" = "Afegeix %@ als contactes";
+"Telegram.GroupAdminsController" = "Administradors";
+"GroupAdmins.AllMembersAdmins" = "Tots els membres són administradors";
+"GroupAdmins.Desc.AdminInvites" = "Els administradors poden afegir i expulsar membres, i canviar el nom i la foto del grup.";
+"GroupAdmins.Desc.AllInvites" = "Els membres del grup poden afegir-ne de nous i editar el nom i la foto del grup.";
+"Login.PhoneNumberNotRegistred" = "El número de telèfon no està registrat. Si encara no teniu compte de Telegram, registreu-vos-hi en el vostre dispositiu mòbil.";
+"Login.YourPhoneLabel" = "el vostre telèfon";
+"Login.YourCodeLabel" = "el vostre codi";
+"Login.YourPasswordLabel" = "contrasenya";
+
+"PeerInfo.EncryptionKey" = "Clau de xifratge";
+
+"Telegram.SecretChatKeyViewController" = "Clau de xifratge";
+"EncryptionKey.Description" = "La imatge i el text anteriors es deriven de la clau de xifratge d'aquest xat secret amb **%@**.\n\nSi es mostren igual al dispositiu de **%@**, el xifratge d'extrem a extrem està garantit.";
+
+
+"GeneralSettings.InAppSounds" = "Sons dins l'aplicació";
+"Chat.ShareInlineResultActionHeader" = "Comparteix";
+"Context.CopyMedia" = "Anomena i desa...";
+"Context.ShowInFinder" = "Mostra-ho al Finder";
+"Telegram.InstalledStickerPacksController" = "Adhesius";
+
+"Stickers.Set.Count1_countable" = "%d";
+
+"Stickers.Set.Count1_one" = "%d adhesiu";
+
+
+
+"Stickers.Set.Count1_other" = "%d adhesius";
+
+"Telegram.FeaturedStickerPacksController" = "Adhesius destacats";
+"Telegram.ArchivedStickerPacksController" = "Adhesius arxivats";
+"ArchivedStickers.Description" = "Podeu tenir fins a 200 paquets instal·lats.\nEls que no useu s'arxivaran en afegir-ne més.";
+"InstalledStickers.PacksTitle" = "PAQUETS D'ADHESIUS";
+"InstalledStickers.Descrpiption" = "Animem els artistes a afegir els seus propis paquets usant el nostre bot @stickers.\n\nToqueu un adhesiu per a veure i afegir tot el paquet.";
+"InstalledStickers.Archived" = "Adhesius arxivats";
+
+"InstalledStickers.Tranding" = "Adhesius destacats";
+"StickerSet.Remove" = "Elimina";
+"InstalledStickers.Remove.Description" = "Ara s'arxivarà aquest paquet d'adhesius. Podeu restaurar-lo en voler des de la secció d'adhesius arxivats.";
+"InstalledStickers.Remove.Delete" = "Elimina";
+"Alert.UserDoesntExists" = "Sembla que aquest usuari no existeix.";
+"Alert.PrivateChannel.AccessError" = "No podeu accedir a aquest missatge. No sou membre del xat on es va publicar.";
+
+"InAppLinks.Confirm.OpenExternalNew" = "Voleu obrir %@? ";
+
+"InAppLinks.Confirm.OpenExternal.Header" = "Obre l'enllaç";
+"InAppLinks.Confirm.OpenExternal.OK" = "Obre";
+
+"Login.Header.Code" = "Introduïu el codi";
+"Login.Header.Password" = "Introduïu la contrasenya";
+"Login.Header.SignUp" = "Registreu-vos";
+
+"Contacts.AddContact" = "Afegeix un contacte";
+"Contacts.FirstName.Placeholder" = "Nom";
+"Contacts.LastName.Placeholder" = "Cognoms";
+"Contacts.PhoneNumber.Placeholder" = "Número de telèfon";
+"Contacts.NotRegistredTitle" = "No hi és al Telegram";
+"Contacts.NotRegistredDescription" = "Aquest contacte encara no s'ha registrat al Telegram. Podreu enviar-li un missatge pel Telegram tan aviat com s'hi registri.";
+
+"Contacts.PhoneNumber.Invalid" = "el número de telèfon no pot ser buit";
+"Contacts.PhoneNumber.NotRegistred" = "La persona amb aquest telèfon encara no està registrada al Telegram.";
+
+
+"DataAndStorage.StorageUsage" = "Ús de l'emmagatzematge";
+"DataAndStorage.NetworkUsage" = "Ús de la xarxa";
+
+
+"DataAndStorage.AutomaticDownload.GroupsChannels" = "Grups i canals";
+
+"DataAndStorage.AutomaticPhotoDownload.Header" = "BAIXADA AUTOMÀTICA DE FOTOS";
+"DataAndStorage.AutomaticAudioDownload.Header" = "BAIXADA AUTOMÀTICA D'ÀUDIO";
+"DataAndStorage.AutomaticVideoDownload.Header" = "BAIXADA AUTOMÀTICA DE VÍDEO";
+
+
+
+"Telegram.StorageUsageController" = "Ús de l'emmagatzematge";
+"StorageUsage.KeepMedia" = "Mantén els fitxers";
+"StorageUsage.KeepMedia.Description" = "Les fotos, vídeos i altres fitxers dels xats al núvol **que no hàgiu consultat** durant aquest període s'eliminaran d'aquest dispositiu per estalviar espai.\n\nTots els fitxers es mantindran al núvol del Telegram i els podeu tornar a baixar sempre que els necessiteu.";
+"StorageUsage.ChatsHeader" = "XATS";
+"StorageUsage.Calculating" = "S'està calculant la mida de la memòria cau actual...";
+"App.MaxFileSize" = "La mida màxima dels fitxers és 1,5 GB";
+"Message.Context.SaveGif" = "Afegeix el GIF";
+"Message.Context.RemoveGif" = "Elimina el GIF";
+"Context.RecentGifRemove" = "Elimina";
+"Sidebar.Avalability" = "Els adhesius, GIF i emojis apareixeran en aquest tauler quan obriu qualsevol xat.";
+"Sidebar.Peer.Restricted" = "La barra lateral no està disponible en aquest xat";
+"Sidebar.Hide" = "Amaga el tauler";
+
+"PrivacySettingsController.Header" = "Última connexió";
+"PrivacySettingsController.Everbody" = "Tothom";
+"PrivacySettingsController.MyContacts" = "Els meus contactes";
+"PrivacySettingsController.Nobody" = "Ningú";
+"PrivacySettingsController.NeverShare" = "No ho comparteixis mai";
+"PrivacySettingsController.AlwaysShare" = "Comparteix-la sempre";
+"PrivacySettingsController.NeverShareWith" = "No ho comparteixis mai amb";
+"PrivacySettingsController.AlwaysShareWith" = "Comparteix-la sempre amb...";
+"PrivacySettingsController.NeverAllow" = "No ho permetis mai";
+"PrivacySettingsController.AlwaysAllow" = "Permet-ho sempre";
+
+"PrivacySettingsController.P2p.Always" = "Sempre";
+"PrivacySettingsController.P2p.Contacts" = "Els contactes";
+"PrivacySettingsController.P2p.Never" = "Mai";
+"PrivacySettingsController.P2p.Header" = "D'IGUAL A IGUAL";
+"PrivacySettingsController.P2p.Desc" = "En desactivar-ho, les trucades es transmetran pels servidors de Telegram perquè no es reveli la vostra IP, però la qualitat de l'àudio es reduirà.";
+
+
+"PrivacySettingsController.ProfilePhoto.WhoCanSeeMyPhoto" = "QUI POT VEURE LA MEVA FOTO DE PERFIL";
+"PrivacySettingsController.ProfilePhoto.CustomHelp" = "Podeu restringir qui pot veure la vostra foto de perfil amb precisió total.";
+"PrivacySettingsController.ProfilePhoto.AlwaysShareWith.Title" = "Comparteix-la sempre amb...";
+"PrivacySettingsController.ProfilePhoto.NeverShareWith.Title" = "No ho comparteixis mai amb...";
+
+"PrivacySettingsController.Forwards.WhoCanForward" = "QUI POT ENLLAÇAR EL MEU COMPTE QUAN REENVIÏN ELS MEUS MISSATGES";
+"PrivacySettingsController.Forwards.CustomHelp" = "Podeu restringir qui pot reenviar els vostres missatges amb precisió total.";
+"PrivacySettingsController.Forwards.AlwaysAllow.Title" = "Permet-ho sempre";
+"PrivacySettingsController.Forwards.NeverAllow.Title" = "No ho permetis mai";
+
+
+"PrivacySettingsController.PhoneNumber.WhoCanSeePhoneNumber" = "QUI POT VEURE EL MEU NÚMERO";
+"PrivacySettingsController.PhoneNumber.CustomHelp" = "Els usuaris que tinguin el vostre número als contactes també el veuran al Telegram.";
+"PrivacySettingsController.PhoneNumber.AlwaysAllow.Title" = "Comparteix-la sempre amb...";
+"PrivacySettingsController.PhoneNumber.NeverAllow.Title" = "No ho comparteixis mai";
+
+"PrivacySettingsController.UserCount_countable" = "%d";
+
+"PrivacySettingsController.UserCount_one" = "%d usuari";
+
+
+
+"PrivacySettingsController.UserCount_other" = "%d usuaris";
+
+"PrivacySettingsController.AddUsers" = "Afegeix usuaris";
+
+"PrivacySettingsController.LastSeenHeader" = "QUI POT VEURE LA MEVA CONNEXIÓ";
+"PrivacySettingsController.LastSeenDescription" = "No podreu veure les connexions de la gent amb qui no compartiu la vostra. En lloc d'això, es mostraran connexions aproximades (fa poc, fa uns dies, fa unes setmanes).";
+
+"PrivacySettingsController.GroupHeader" = "QUI POT AFEGIR-ME ALS GRUPS";
+"PrivacySettingsController.GroupDescription" = "Podeu restringir qui us pot afegir a grups i canals amb una precisió total.";
+
+"PrivacySettingsController.PhoneCallHeader" = "QUI POT TRUCAR-ME";
+"PrivacySettingsController.PhoneCallDescription" = "Podeu restringir qui us pot trucar amb precisió total.";
+"PrivacySettingsController.PeerInfo" = "Podeu afegir usuaris o grups sencers com a excepcions que substituiran la configuració anterior.";
+
+"Chat.Call.Outgoing" = "Trucada feta";
+"Chat.Call.Incoming" = "Trucada rebuda";
+
+"CallHeader.EndCall" = "Finalitza la trucada";
+"Call.ParticipantVersionOutdatedError" = "L'aplicació de %@ no pot rebre trucades. Cal que l'actualitzi abans que pugueu trucar-li.";
+"Call.UndefinedError" = "S'ha produït un error sense definir. Torneu a provar-ho més tard.";
+"Call.PrivacyErrorMessage" = "No podeu trucar a %@ per la seva configuració de privades.";
+
+"Call.StatusRequesting" = "S'hi està contactant...";
+"Call.StatusRinging" = "Està sonant...";
+"Call.StatusConnecting" = "S'està connectant...";
+"Call.StatusEnded" = "La trucada ha finalitzat";
+"Call.StatusFailed" = "La trucada ha fallat";
+"Call.StatusBusy" = "Ocupat";
+"Call.StatusCalling" = "us està trucant...";
+"Call.StatusCallingAccount" = "s'està trucant → %@...";
+
+
+
+"Call.Recent.Outgoing" = "Fetes";
+"Call.Recent.Incoming" = "Rebudes";
+"Call.Recent.Missed" = "Perdudes";
+
+
+"Call.ShortSeconds_countable" = "%d";
+
+"Call.ShortSeconds_one" = "%d s";
+
+
+
+"Call.ShortSeconds_other" = "%ds";
+
+"Call.ShortMinutes_countable" = "%d s";
+
+"Call.ShortMinutes_one" = "%d min";
+
+
+
+"Call.ShortMinutes_other" = "%d min";
+
+
+"Telegram.LayoutRecentCallsViewController" = "Trucades recents";
+"RecentCalls.Empty" = "Aquí trobareu les trucades recents";
+
+"Call.Confirm.DiscardCurrent.Header" = "Trucada en curs";
+"Call.Confirm.DiscardCurrent.Description" = "Voleu penjar a %@ i iniciar una trucada amb %@?";
+"Call.RatingModal.Placeholder" = "Deixeu un comentari...";
+"QuickSwitcher.Recently" = "Recents";
+"QuickSwitcher.Popular" = "Freqüents";
+"QuickSwitcher.Description" = "**tab** o **↑ ↓** per a navegar, **⮐** per a seleccionar, **esc** per a cancel·lar";
+
+"Chat.Context.Edit1" = "Edita";
+"Chat.Context.EditHelp" = "clic a la data";
+"Chat.Context.EnableNotifications" = "Silencia";
+"Chat.Context.DisableNotifications" = "Activa el so";
+"Chat.Context.ClearHistory" = "Esborra l'historial";
+"Chat.Context.Info" = "Informació";
+"Chat.Context.FeedInfo" = "Informació dels canals";
+"Chat.Context.SharedMedia" = "Fitxers compartits";
+"Chat.Context.ClearHistory" = "Esborra l'historial";
+
+"Chat.Context.Archive" = "Arxiva";
+"Chat.Context.Unarchive" = "Restaura'l";
+
+"Payments.Unsupported" = "El Telegram Mac encara no és compatible amb els pagaments. Utilitzeu una de les nostres aplicacions mòbils.";
+
+"Chat.Service.PaymentSent" = "Heu transferit correctament **%@** a **%@** per **%@**";
+"Chat.List.Service.PaymentSent" = "Pagament: %@";
+
+"Telegram.LanguageViewController" = "Llengua";
+
+
+"1Xt-HY-uBw.title" = "Telegram";
+"2oI-Rn-ZJC.title" = "Transformacions";
+
+"4J7-dP-txa.title" = "Entra en pantalla completa";
+"4sb-4s-VLi.title" = "Surt del Telegram";
+"5QF-Oa-p0T.title" = "Edita";
+
+"aMa-rb-kjV.title" = "Cerca global";
+
+"5kV-Vb-QxS.title" = "Quant al Telegram";
+"6dh-zS-Vam.title" = "Refés";
+"78Y-hA-62v.title" = "Corregeix l'ortografia automàticament";
+"9ic-FL-obx.title" = "Substitucions";
+"9yt-4B-nSM.title" = "Copia i enganxa intel·ligent";
+"BOF-NM-1cW.title" = "Preferències...";
+"Cag-YX-WT6.title" = "Amaga el Telegram";
+"Dv1-io-Yv7.title" = "Correcció ortogràfica i gramatical";
+
+"H8h-7b-M4v.title" = "Visualització";
+
+
+"HFQ-gK-NFA.title" = "Substitució de text";
+"HFo-cy-zxI.title" = "Mostra la correcció ortogràfica i gramatical";
+"HyV-fh-RgO.title" = "Visualització";
+"Kd2-mp-pUS.title" = "Mostra-ho tot";
+"LE2-aR-0XJ.title" = "Porta-ho tot al front";
+"OY7-WF-poV.title" = "Minimitza";
+"Olw-nP-bQN.title" = "Amaga";
+
+"R4o-n2-Eq4.title" = "Escala";
+"Ruw-6m-B2m.title" = "Selecciona-ho tot";
+
+"UEZ-Bs-lqG.title" = "Majúscula inicial";
+"Vdr-fp-XzO.title" = "Amaga els altres";
+"W48-6f-4Dl.title" = "Edita";
+"WeT-3V-zwk.title" = "Enganxa amb el mateix estil";
+"aUF-d1-5bR.title" = "Finestra";
+
+
+"c8a-y6-VQd.title" = "Transformacions";
+"cwL-P1-jid.title" = "Enllaços intel·ligents";
+"d9M-CD-aMd.title" = "Fes-ho minúscules";
+"dRJ-4n-Yzg.title" = "Desfés";
+"gVA-U4-sdL.title" = "Enganxa";
+"hQb-2v-fYv.title" = "Cometes intel·ligents";
+"hz2-CU-CR7.title" = "Revisa el document ara";
+"mK6-2p-4JG.title" = "Revisa la gramàtica i l'ortografia";
+"pa3-QI-u2k.title" = "Elimina";
+"rbD-Rh-wIN.title" = "Revisa l'ortografia mentre s'escriu";
+"rgM-f4-ycn.title" = "Guions intel·ligents";
+"tRr-pd-1PS.title" = "Detectors de dades";
+"uQy-DD-JDr.title" = "Telegram";
+"uRl-iY-unG.title" = "Retalla";
+"vmV-6d-7jI.title" = "Fes-ho majúscules";
+"x3v-GG-iWU.title" = "Copia";
+"1000.title" = "Comprova si hi ha actualitzacions";
+"z6F-FW-3nz.title" = "Mostra les substitucions";
+"sZh-ct-GQS.title" = "Cerca ràpida";
+
+"Login.ContinueOnLanguage" = "Continua en català";
+"Date.Today" = "Avui";
+
+/* This key for which language this file, for example: Italian -> Italiano, Russian -> Русский */
+"AccountSettings.CurrentLanguage" = "Català";
+"Suggest.Localization.Header" = "Trieu una llengua";
+"Suggest.Localization.Other" = "Altra";
+
+"PrivacySettings.PeerSelect.AddNew" = "Afegeix...";
+"PrivacySettings.PeerSelect.AddUserOrGroup" = "Afegiu usuaris o grups";
+
+"Channel.EditAdmin.Permission.ChangeInfo" = "Canvia la informació del canal";
+"Group.EditAdmin.Permission.ChangeInfo" = "Canvia la informació del grup";
+"Channel.EditAdmin.Permission.DeleteMessages" = "Elimina els missatges";
+"Channel.EditAdmin.Permission.BanUsers" = "Bandeja els usuaris";
+"Channel.EditAdmin.Permission.PinMessages" = "Fixa missatges";
+"Channel.EditAdmin.Permission.AddNewAdmins" = "Afegeix administradors";
+"Channel.EditAdmin.Permission.PostMessages" = "Publica missatges";
+"Channel.EditAdmin.Permission.EditMessages" = "Edita missatges";
+"Channel.EditAdmin.PermissionInviteSubscribers" = "Afegir subscriptors";
+"Channel.EditAdmin.PermissionInviteMembers" = "Afegir membres";
+"Channel.EditAdmin.PermissionInviteViaLink" = "Convidar usuaris amb un enllaç";
+
+
+"Channel.Persmission.Denied.SendMessages.Until" = "Els administradors del grup us han restringit l'escriptura fins %@.";
+"Channel.Persmission.Denied.SendMessages.Forever" = "Els administradors del grup us han restringit l'escriptura de missatges";
+"Channel.Persmission.Denied.SendMessages.DefaultRestrictedText" = "No es permet escriure missatges al grup.";
+
+"Channel.Persmission.Denied.SendMedia.Until" = "Els administradors del grup vos han restringit l'enviament de fitxers fins %@";
+"Channel.Persmission.Denied.SendMedia.Forever" = "Els administradors del grup us han restringit l'enviament de fitxers.";
+"Channel.Persmission.Denied.SendMedia.DefaultRestrictedText" = "No es permet enviar fotos ni vídeos al grup.";
+
+"Channel.Persmission.Denied.SendStickers.Until" = "Els administradors del grup vos han restringit l'enviament d'adhesius fins %@";
+"Channel.Persmission.Denied.SendStickers.Forever" = "Els administradors del grup vos han restringit l'enviament d'adhesius";
+"Channel.Persmission.Denied.SendStickers.DefaultRestrictedText" = "No es permet enviar adhesius al grup.";
+
+"Channel.Persmission.Denied.SendGifs.Until" = "Els administradors d'aquest grup us han restringit l'enviament de GIF aquí fins %@.";
+"Channel.Persmission.Denied.SendGifs.Forever" = "Els administradors d'aquest grup us han restringit l'enviament de GIF aquí.";
+"Channel.Persmission.Denied.SendGifs.DefaultRestrictedText" = "No es permet enviar GIF al grup.";
+
+"Channel.Persmission.Denied.SendPoll.Until" = "Els administradors del grup us han restringit la publicació d'enquestes fins al %@.";
+"Channel.Persmission.Denied.SendPoll.Forever" = "Els administradors del grup us han restringit la publicació d'enquestes.";
+"Channel.Persmission.Denied.SendPoll.DefaultRestrictedText" = "No es permet publicar enquestes al grup.";
+
+
+"Channel.Persmission.Denied.SendInline.Until" = "Els administradors del grup vos han restringit la publicació de contingut integrat fins %@";
+"Channel.Persmission.Denied.SendInline.Forever" = "Els administradors del grup vos han restringit la publicació de contingut integrat";
+"Channel.Persmission.Denied.SendInline.DefaultRestrictedText" = "No es permet publicar contingut integrat al grup.";
+
+
+"Channel.Admin.Dismiss" = "Cessa l'administrador";
+"Channel.Admin.AdminAccess" = "Aquest administrador podrà afegir-ne de nous amb els mateixos permisos (o més limitats).";
+"Channel.Admin.AdminRestricted" = "Aquest administrador no podrà afegir-ne de nous.";
+
+"Channel.Admin.TransferOwnership.Group" = "Transfereix el grup";
+"Channel.Admin.TransferOwnership.Channel" = "Transfereix el canal";
+
+"Channel.Admin.TransferOwnership.Password.Desc" = "Introduïu la contrasenya de la verificació en 2 passos per a completar la transferència.";
+"Channel.Admin.TransferOwnership.Password.Title" = "Verificació en dos passos";
+
+"Channel.Admin.TransferOwnership.Confirm.Group.Title" = "Transfereix el grup";
+"Channel.Admin.TransferOwnership.Confirm.Group.Text" = "Això transferirà tots els drets de propietat de %@ a %@.\n\nJa no se us considerarà el creador del grup. El propietari nou podrà eliminar qualsevol dels vostres privilegis, o inclús bandejar-vos.";
+"Channel.Admin.TransferOwnership.Confirm.Channel.Title" = "Transfereix el canal";
+"Channel.Admin.TransferOwnership.Confirm.Channel.Text" = "Això transferirà tots els drets de propietat de %@ a %@.\n\nJa no se us considerarà el creador del canal. El propietari nou podrà eliminar qualsevol dels vostres privilegis, o inclús bandejar-vos.";
+"Channel.Admin.TransferOwnership.Confirm.OK" = "Canvia el propietari";
+
+
+
+"Channel.Admin.CantEdit" = "No teniu permís per editar els drets d'aquest administrador.";
+
+"Channel.Admin.WhatCanAdminDo" = "QUÈ POT FER AQUEST ADMINISTRADOR?";
+
+"Channel.EventLog.What" = "Què és això?";
+"Channel.EventLog.Alert.Header" = "Què és un registre d'esdeveniments?";
+"Channel.EventLog.Alert.Info" = "És una llista de totes les accions del servei fetes pels membres i administradors del grup en les últimes 48 hores.";
+
+
+"Group.EventLog.Service.TitleUpdated" = "%@ ha editat el nom del grup:";
+"Group.EventLog.Service.LinkUpdated" = "%@ ha editat l'enllaç del grup:";
+"Group.EventLog.Service.AboutUpdated" = "%@ ha editat la descripció del grup:";
+
+"Channel.EventLog.Service.TitleUpdated" = "%@ ha editat el nom del canal:";
+"Channel.EventLog.Service.LinkUpdated" = "%@ ha editat l'enllaç del canal:";
+"Channel.EventLog.Service.AboutUpdated" = "%@ ha editat la descripció del canal:";
+
+"Group.EventLog.Service.LinkRemoved" = "%@ ha eliminat l'enllaç del grup:";
+"Group.EventLog.Service.AboutRemoved" = "%@ ha eliminat la descripció del grup:";
+"Channel.EventLog.Service.LinkRemoved" = "%@ ha eliminat l'enllaç del canal:";
+"Channel.EventLog.Service.AboutRemoved" = "%@ ha eliminat la descripció del canal:";
+
+
+"Channel.EventLog.MessageRankName" = "ha canviat el títol personalitzat a %@: %@";
+
+"Channel.EventLog.Service.DisabledSlowMode" = "%@ ha desactivat el mode lent";
+
+"Channel.EventLog.Service.SetSlowMode" = "%@ ha establert el mode lent a %@";
+
+"Channel.EventLog.Service.PlusTitle" = "+ Títol: %@";
+"Channel.EventLog.Service.MinusTitle" = "- Títol";
+
+"Channel.EventLog.MessageTransferedName" = "ha transferit la propietat a %@ %@";
+"Channel.EventLog.MessageTransfered" = "s'ha transferit la propietat";
+
+
+"EventLog.Service.PreviousTitle" = "Nom anterior";
+"EventLog.Service.PreviousLink" = "Enllaç anterior";
+"EventLog.Service.PreviousDesc" = "Descripció anterior";
+
+
+"EventLog.Service.Demote.SendMessages" = "Enviar missatges";
+"EventLog.Service.Demote.SendMedia" = "Enviar fitxers";
+"EventLog.Service.Demote.SendStickers" = "Enviar adhesius";
+"EventLog.Service.Demote.ChangeInfo" = "Canviar informació";
+"EventLog.Service.Demote.SendGifs" = "Enviar GIF";
+"EventLog.Service.Demote.PostPolls" = "Publicar enquestes";
+"EventLog.Service.Demote.AddMembers" = "Afegir membres";
+"EventLog.Service.Demote.PinMessages" = "Fixar missatges";
+"EventLog.Service.Demote.EmbedLinks" = "Incrustar enllaços";
+"EventLog.Service.Demote.SendInline" = "Enviar contingut integrat";
+
+"EventLog.Service.Promote.ChangeInfo" = "Canviar la informació";
+"EventLog.Service.Promote.DeleteMessages" = "Eliminar missatges";
+"EventLog.Service.Promote.PostMessages" = "Publicar missatges";
+"EventLog.Service.Promote.AddUsers" = "Afegir usuaris";
+"EventLog.Service.Promote.InviteViaLink" = "Convidar usuaris via enllaç";
+"EventLog.Service.Promote.PinMessages" = "Fixar missatges";
+"EventLog.Service.Promote.AddNewAdmins" = "Afegir administradors";
+"EventLog.Service.Promote.BanUsers" = "Bandejar usuaris";
+"EventLog.Service.Promote.EditMessages" = "Editar missatges";
+
+"EventLog.Service.ChangedDefaultsRights" = "ha canviat els permisos per defecte";
+
+
+"EventLog.Service.Promoted.Changed" = "ha canviat els privilegis de %@ %@:";
+"EventLog.Service.Promoted" = "ha promogut %@ %@:";
+
+"EventLog.Service.Demoted" = "ha restringit %@ %@ indefinidament";
+"EventLog.Service.Demoted.Until" = "ha restringit %@ %@ fins %@";
+"EventLog.Service.Demoted.Changed" = "ha canviat les restriccions de %@ %@ indefinidament";
+"EventLog.Service.Demoted.Changed.Until" = "ha canviat les restriccions de %@ %@ fins %@";
+"EventLog.Service.Banned" = "Ha bandejat %@ %@";
+
+"EventLog.Service.DeletedMessage" = "%@ ha eliminat el missatge:";
+"EventLog.Service.EditedMessage" = "%@ ha editat el missatge:";
+"EventLog.Service.UpdatePinned" = "%@ ha fixat el missatge:";
+"EventLog.Service.RemovePinned" = "%@ ha deixat de fixar el missatge";
+"EventLog.Service.ChangedStickerSet" = "%@ ha canviat el paquet d'adhesius del grup";
+"EventLog.Service.RemovedStickerSet" = "%@ ha eliminat el paquet d'adhesius del grup";
+
+"EventLog.Service.EditedCaption" = "%@ ha editat la llegenda:";
+"EventLog.Service.EditedMedia" = "%@ ha editat el fitxer:";
+
+
+
+"Group.EventLog.Service.EnableInvites" = "%@ ha activat les invitacions al grup";
+"Group.EventLog.Service.DisableInvites" = "%@ ha desactivat les invitacions al grup";
+"Channel.EventLog.Service.EnableSignatures" = "%@ ha activat les signatures al canal";
+"Channel.EventLog.Service.DisableSignatures" = "%@ ha desactivat les signatures al canal";
+
+
+"Group.EventLog.Service.PhotoUpdated" = "%@ ha actualitzat la foto del grup";
+"Group.EventLog.Service.PhotoRemoved" = "%@ ha eliminat la foto del grup";
+"Channel.EventLog.Service.PhotoUpdated" = "%@ ha actualitzat la foto del canal";
+"Channel.EventLog.Service.PhotoRemoved" = "%@ ha eliminat la foto del canal";
+
+"Group.EventLog.Service.UpdateLeft" = "%@ ha abandonat el grup";
+"Channel.EventLog.Service.UpdateLeft" = "%@ ha abandonat el canal";
+
+"Group.EventLog.Service.UpdateJoin" = "%@ s'ha unit al grup";
+"Channel.EventLog.Service.UpdateJoin" = "%@ s'ha unit al canal";
+
+
+"Telegram.ChannelEventLogController" = "Totes les accions";
+
+"ChannelEventFilter.NewRestrictions" = "Restriccions noves";
+"ChannelEventFilter.NewAdmins" = "Drets d'administració";
+"ChannelEventFilter.NewMembers" = "Membres nous";
+"ChannelEventFilter.GroupInfo" = "Informació del grup";
+"ChannelEventFilter.ChannelInfo" = "Informació del canal";
+"ChannelEventFilter.DeletedMessages" = "Missatges eliminats";
+"ChannelEventFilter.EditedMessages" = "Missatges editats";
+"ChannelEventFilter.PinnedMessages" = "Missatges fixats";
+"ChannelEventFilter.LeavingMembers" = "Membres sortints";
+
+"Group.EventLog.EmptyText" = "**Encara no hi ha cap esdeveniment**\n\nNo hi ha cap acció de servei feta pels membres i administradors del grup en les últimes 48 hores.";
+"Channel.EventLog.EmptyText" = "**Encara no hi ha cap esdeveniment**\n\nNo hi ha cap acció de servei feta pels membres i administradors del canal en les últimes 48 hores.";
+"Channel.EventLog.EmptySearch" = "**No s'ha trobat cap acció**\n\nNo s'ha trobat cap acció coincident amb la cerca.";
+
+"ChannelBlacklist.Restricted" = "RESTRINGITS";
+"ChannelBlacklist.Blocked" = "BLOCATS";
+
+"Channel.Blacklist.RemoveUser" = "Elimina l'usuari";
+"Channel.Blacklist.Context.AddToGroup" = "Afegeix al grup";
+"Channel.Blacklist.Context.Remove" = "Elimina";
+
+"Channel.Blacklist.DescChannel" = "Els usuaris eliminats per administradors no s'hi poden tornar a unir amb enllaços d'invitació.";
+"Channel.Blacklist.DescGroup" = "Els usuaris eliminats per administradors no s'hi poden tornar a unir amb enllaços d'invitació.";
+
+
+"Channel.Blacklist.RestrictedBy" = "restringit per %@";
+"Channel.Blacklist.BlockedBy" = "blocat per %@";
+"Channel.Blacklist.DemoteAdminError" = "No podeu bandejar l'usuari perquè és un administrador i no teniu permisos per a demetre'l.";
+
+
+"Channel.UserRestriction" = "RESTRICCIONS D'USUARI";
+"Channel.BlockUser.CanReadMessages" = "Pot llegir els missatges";
+"Channel.BlockUser.CanSendMessages" = "Enviar missatges";
+"Channel.BlockUser.CanSendMedia" = "Enviar fitxers";
+"Channel.BlockUser.CanSendStickers" = "Enviar adhesius i GIF";
+"Channel.BlockUser.CanEmbedLinks" = "Incrustar enllaços";
+"Channel.BlockUser.BlockFor" = "Bloca per";
+"Channel.Blacklist.SelectNewUserTitle" = "Membres";
+
+"Channel.Exception.DisabledOption.Group" = "Aquesta opció està desactivada per a tothom als permisos del grup.";
+"Channel.Exception.DisabledOption.Channel" = "Aquesta opció està desactivada per a tothom als permisos del canal.";
+
+"Channel.Admins.PromotedBy" = "promogut per %@";
+"Channel.Admins.AddAdminError" = "No podeu promocionar aquest usuari a admin";
+
+"Channel.Admins.Promote.BannedAdminError" = "No podeu fer administrador aquest usuari perquè es troba a la llista d’usuaris bandejats i no l'en podeu treure.";
+"Channel.Admins.Promote.UnmemberAdminError" = "No podeu afegir l'usuari com a administrador perquè no és membre del grup i no teniu permisos per a convidar-lo.";
+"Channel.BanForever" = "Per sempre";
+
+"Channel.EventFilter.EventsHeader" = "ESDEVENIMENTS";
+"Channel.EventFilter.AdminsHeader" = "ADMINISTRADORS";
+
+"Channel.SelectPeers.Contacts" = "contactes";
+"Channel.SelectPeers.Global" = "global";
+
+"Supergroup.DeleteRestriction.Title" = "Gestiona els missatges";
+"Supergroup.DeleteRestriction.DeleteMessage" = "Elimina el missatge";
+"Supergroup.DeleteRestriction.BanUser" = "Bandeja l'usuari";
+"Supergroup.DeleteRestriction.ReportSpam" = "Denuncia'l";
+"Supergroup.DeleteRestriction.DeleteAllMessages" = "Elimina tots els missatges";
+"ChannelAdmins.RecentActions" = "Accions recents";
+
+
+"Telegram.ProxySettingsViewController" = "Servidor intermediari";
+"ProxySettings.ConnectionHeader" = "Connexió";
+"ProxySettings.CredentialsHeader" = "CREDENCIALS (OPCIONAL)";
+"ProxySettings.Disabled" = "Desactivat";
+"ProxySettings.Socks5" = "SOCKS5";
+"ProxySettings.MTP" = "MTPROTO";
+"ProxySettings.Type" = "Tipus de servidor";
+"ProxySettings.Server" = "Servidor";
+"ProxySettings.Port" = "Port";
+"ProxySettings.Username" = "Nom d'usuari";
+"ProxySettings.Password" = "Contrasenya";
+"ProxySettings.Save" = "Desa";
+
+"ProxySettings.QR.Text" = "Qualsevol pot afegir aquest servidor si s'escaneja aquest codi amb la càmera del telèfon.";
+
+
+"Channel.EventLog.OriginalMessage" = "Missatge original";
+"Channel.EventLog.Empty" = "Buit";
+"Channel.Admin.CantEditRights" = "No podeu editar els permisos d'aquest admin.";
+"Channel.Blacklist.Unban" = "Deixa de bandejar";
+
+"ConnectingStatus.DisableProxy" = "desactiva el servidor intermediari";
+"Proxy.ForceDisable" = "Segur que voleu desactivar el servidor intermediari %@?";
+"Proxy.ForceEnable.Header1" = "Voleu afegir aquest servidor intermediari?";
+"Proxy.ForceEnable.OK" = "Afegeix un servidor intermediari";
+"Proxy.ForceEnable.Enable" = "Activa el servidor intermediari";
+"Proxy.ForceEnable.MTPDesc" = "Aquest servidor intermediari podria mostrar un canal patrocinat en la llista de xats. Això no revela el vostre trànsit del Telegram.";
+"Proxy.ForceEnable.Connect" = "Connecta";
+
+"Proxy.ForceEnable.Text.IP" = "Servidor: %@";
+"Proxy.ForceEnable.Text.Port" = "Port: %d";
+"Proxy.ForceEnable.Text.Username" = "Nom d'usuari: %@";
+"Proxy.ForceEnable.Text.Password" = "Contrasenya: %@";
+"Proxy.ForceEnable.Text.Secret" = "Secret: %@";
+"Proxy.ForceEnable.Text" = "Podeu canviar el servidor intermediari més endavant a la Configuració (Privadesa i Seguretat).";
+"ProxySettings.Share" = "Compartiu aquest enllaç per a eludir la censura al vostre país";
+"ProxySettings.ExportLink" = "Exporta l'enllaç del porta-retalls";
+"ProxySettings.CopyLink" = "Comparteix l'enllaç del servidor";
+
+"ProxySettings.IncorrectSecret" = "Secret incorrecte. Torneu-ho a provar.";
+
+
+"ProxySettings.ProxyNotFound" = "No s'ha trobat la configuració del servidor al porta-retalls.";
+"ProxySettings.ExportDescription" = "Si el porta-retalls conté un enllaç tipus socks5 (**t.me/socks?server=127.0.0.1&port=80**), s'aplicarà immediatament";
+"Confirm.AddBotToGroup" = "Voleu afegir el bot a «%@»?";
+
+"AccountSettings.Theme" = "Aparença";
+"Telegram.AppearanceViewController" = "Aparença";
+"Telegram.SelectPeersController" = "Seleccioneu usuaris";
+"GeneralSettings.DarkMode" = "Mode fosc";
+"GeneralSettings.DarkMode.Description" = "Un esquema de color per a la nit i escriptoris foscos";
+"GeneralSettings.Font.Description" = "Usa una tipografia gran als missatges";
+
+"GeneralSettings.OpenLatestChatOnLaunch" = "Obre automàticament l'últim xat";
+"GeneralSettings.AcceptSecretChats" = "Accepta xats secrets";
+
+
+"MessageContext.CopyMessageLink1" = "Copia l'enllaç del missatge";
+"Context.ViewStickerSet" = "Mostra el paquet";
+
+"Storage.Clear.Photos" = "Fotos";
+"Storage.Clear.Videos" = "Vídeos";
+"Storage.Clear.Audio" = "Àudio";
+"Storage.Clear.Documents" = "Documents";
+"Storage.Clear" = "Esborra %@";
+"AccountSettings.Bio" = "Biografia";
+
+"Telegram.BioViewController" = "Biografia";
+
+"Bio.Placeholder" = "Una poca d'informació personal";
+"Bio.Description" = "Detalls com l'edat, la professió o la vostra ciutat. Exemple: Tinc 23 anys, dissenyador de Menorca.";
+"Bio.Save" = "Desa";
+"Bio.Header" = "BIOGRAFIA";
+
+"ServiceMessage.ExpiredPhoto" = "la foto ha vençut";
+"ServiceMessage.ExpiredFile" = "el fitxer ha vençut";
+"ServiceMessage.ExpiredVideo" = "el vídeo ha vençut";
+
+"ServiceMessage.DesturctingPhoto" = "%@ us ha enviat una foto amb autodestrucció. Vegeu-la al mòbil.";
+"ServiceMessage.DesturctingPhoto.You" = "%@ ha enviat una foto amb autodestrucció.";
+
+"ServiceMessage.DesturctingVideo" = "%@ us ha enviat un vídeo amb autodestrucció. Vegeu-lo al mòbil.";
+"ServiceMessage.DesturctingVideo.You" = "%@ ha enviat un vídeo amb autodestrucció.";
+"ChatList.Service.DestructingPhoto" = "foto amb autodestrucció";
+"ChatList.Service.DestructingVideo" = "vídeo amb autodestrucció";
+
+
+"ShareExtension.Share" = "Comparteix";
+"ShareExtension.Cancel" = "Cancel·la";
+"ShareExtension.Search" = "Cerca";
+"ShareExtension.Passcode.Placeholder" = "codi d'accés";
+"ShareExtension.Passcode.Next" = "Següent";
+"ShareExtension.Unauthorized.OK" = "D'acord";
+"ShareExtension.Unauthorized.Description" = "Per a compartir-ho via Telegram, obriu l'aplicació i inicieu-hi sessió.";
+
+"Chat.SearchFrom" = "de:";
+"Chat.SearchCount" = "%d de %d";
+
+"Entertainment.Emoji" = "EMOJIS";
+"Entertainment.Stickers" = "ADHESIUS";
+"Entertainment.GIF" = "GIF";
+"ShareModal.Search.Placeholder" = "Compartiu amb...";
+"ShareModal.Search.ForwardPlaceholder" = "Reenvia a...";
+"InstantPage.AuthorAndDateTitle" = "Per %1$@ • %2$@";
+"IV.Channel.Join" = "Afegeix-m'hi";
+
+"Chat.Context.AddFavoriteSticker" = "Afegeix-lo als favorits";
+"Chat.Context.RemoveFavoriteSticker" = "Elimina'l dels favorits";
+"Chat.InstantView" = "VISTA IMMEDIATA";
+"Context.RemoveFaveSticker" = "Elimina'l";
+"Stickers.GroupStickers" = "ADHESIUS DEL GRUP";
+
+"PeerInfo.SetGroupStickersSet" = "Paquet d'adhesius del grup";
+"Telegram.GroupStickerSetController" = "Paquet d'adhesius del grup";
+"GroupStickers.CreateDescription" = "Podeu crear el vostre propi paquet d'adhesius usant el bot @stickers.";
+"GroupStickers.ChooseHeader" = "TRIEU-LO DELS VOSTRES ADHESIUS";
+"GroupStickers.EmptyHeader" = "No s'ha trobat l'adhesiu";
+"GroupStickers.EmptyDesc" = "Torneu a provar-ho o trieu-ne un de la llista";
+
+"AccountSettings.SetBio" = "Establiu una biografia";
+"AccountSettings.SetUsername" = "Establiu un nom d'usuari";
+
+"FastSettings.EnableDarkMode" = "Activa el mode fosc";
+"FastSettings.DisableDarkMode" = "Desactiva el mode fosc";
+"FastSettings.LockTelegram" = "Bloca el Telegram";
+"FastSettings.Mute2Hours" = "Silencia'l per 2 hores";
+"FastSettings.Unmute" = "Activa el so";
+"FastSettings.SetPasscode" = "Establiu un codi d'accés";
+
+"GeneralSettings.AppearanceSettings" = "CONFIGURACIÓ D'APARENÇA";
+
+"Chat.Context.CopyBlock" = "Copia el bloc preformatat";
+
+"Compose.SelectGroupUsers.Placeholder" = "A qui voldríeu afegir?";
+
+"PeerInfo.PreHistory" = "Historial per als membres nous";
+"PeerInfo.PreHistory.Visible" = "Visible";
+"PeerInfo.PreHistory.Hidden" = "Ocult";
+"Telegram.PreHistorySettingsController" = "Configuració de l'historial de xat";
+
+"PreHistorySettings.Header" = "HISTORIAL PER ALS MEMBRES NOUS";
+"PreHistorySettings.Description.Visible" = "Els membres nous veuran els missatges enviats abans que s'unissin al grup.";
+"PreHistorySettings.Description.Hidden" = "Els membres nous no veuran els missatges anteriors.";
+"PreHistorySettings.Description.Group.Hidden" = "Els membres nous només veuran els últims 100 missatges.";
+
+"Chat.AdminBadge" = "administrador";
+"Chat.OwnerBadge" = "propietari";
+
+"Chat.ChannelBadge" = "canal";
+
+"ChangePhoneNumber.Intro.Description" = "Aquí podeu canviar el vostre número associat al Telegram. El vostre compte i les dades al núvol (missatges, fitxers, contactes, etc.) es mouran al número nou.";
+"ChangePhoneNumber.Intro.Alert" = "El número nou s'afegirà a l'agenda de tots els vostres contactes del Telegram que tinguin el número antic i que no hàgiu blocat al Telegram.";
+"Telegram.PhoneNumberConfirmController" = "Canvia el número";
+
+"ChangeNumber.SendData.Error.LimitExceeded" = "Heu sol·licitat un codi d'autorització massa vegades. Torneu a provar-ho més tard.";
+"ChangeNumber.SendData.Error.InvalidPhoneNumber" = "El número de telèfon que heu introduït no és correcte. Introduïu un número vàlid precedit pel codi de país.";
+"ChangeNumber.SendData.Error.PhoneNumberOccupied" = "El número %@ ja es troba associat a un compte del Telegram. Elimineu aquest compte abans de migrar al número nou.";
+"ChangeNumber.SendData.Error.Generic" = "Hi ha hagut un error. Torneu a provar-ho.";
+
+
+"ChangeNumber.ConfirmCode.Error.Generic" = "Hi ha hagut un error.";
+"ChangeNumber.ConfirmCode.Error.invalidCode" = "El codi no és vàlid. Torneu-ho a intentar.";
+"ChangeNumber.ConfirmCode.Error.codeExpired" = "Codi vençut.";
+"ChangeNumber.ConfirmCode.Error.limitExceeded" = "Heu introduït un codi incorrecte massa vegades. Torneu a provar-ho més tard.";
+"ChangeNumber.ConfirmCode.Success" = "Heu canviat el vostre número de telèfon a %@.";
+"Messages.Placeholder.Broadcast" = "Publiqueu un missatge...";
+"Messages.Placeholder.SilentBroadcast" = "Difusió silenciosa...";
+
+
+"GeneralSettings.ForceTouchHeader" = "ACCIÓ EN PRÉMER FORT";
+"GeneralSettings.ForceTouch.Reply" = "Respon al missatge";
+"GeneralSettings.ForceTouch.Edit" = "Edita el missatge";
+"GeneralSettings.ForceTouch.Forward" = "Reenvia el missatge";
+"GeneralSettings.ForceTouch.PreviewMedia" = "Previsualitza el fitxer";
+
+
+"ChatMessage.Tooltip.Views" = "visualitzacions";
+
+
+"Telegram.TwoStepVerificationUnlockController" = "Verificació en dos passos";
+
+"TwoStepAuth.PasswordTitle" = "Contrasenya";
+
+"TwoStepAuth.SetPassword" = "Estableix una contrasenya adicional";
+"TwoStepAuth.SetPasswordHelp" = "Podeu establir una contrasenya que se us demanarà en iniciar sessió en un dispositiu nou, a més del codi que rebreu per SMS.";
+
+"TwoStepAuth.SetupPasswordTitle" = "La vostra contrasenya";
+"TwoStepAuth.SetupHintTitle" = "Pista de contrasenya";
+"TwoStepAuth.SetupEmailTitle" = "Adreça de recuperació";
+
+"TwoStepAuth.EnterEmailCode" = "Introduïu el codi";
+
+
+"TwoStepAuth.SetupHintPlaceholder" = "Pista";
+"TwoStepAuth.SetupHintDesc" = "Podeu crear una pista opcional per a la contrasenya.";
+
+"TwoStepAuth.ChangePassword" = "Canvia la contrasenya";
+"TwoStepAuth.RemovePassword" = "Desactiva la contrasenya";
+"TwoStepAuth.SetupEmail" = "Estableix una adreça de recuperació";
+"TwoStepAuth.ChangeEmail" = "Canvia l'adreça de recuperació";
+"TwoStepAuth.PendingEmailHelp" = "L'adreça de recuperació %@ encara no s'ha activat, cal una confirmació.";
+"TwoStepAuth.GenericHelp" = "Heu activat la verificació en dos passos.\nNecessitareu la contrasenya que heu establert aquí per iniciar sessió al vostre compte de Telegram.";
+
+"TwoStepAuth.ConfirmationTextNew" = "Comproveu el vostre correu electrònic i introduïu el codi de confirmació per a completar la configuració en dos passos. Comproveu també la bústia de correu brossa.";
+"TwoStepAuth.ConfirmationAbort" = "Cancel·la la configuració de la verificació en dos passos";
+
+"TwoStepAuth.SetupPasswordEnterPassword" = "Introduïu la contrasenya del núvol";
+"TwoStepAuth.SetupPasswordEnterPasswordNew" = "Introduïu la contrasenya nova";
+
+"TwoStepAuth.SetupPasswordConfirmPassword" = "Torneu a introduir la contrasenya:";
+"TwoStepAuth.SetupPasswordConfirmPasswordDesc" = "Confirmeu la contrasenya.";
+
+
+"TwoStepAuth.SetupPasswordConfirmFailed" = "Les contrasenyes no coincideixen. Torneu a provar-ho.";
+
+"TwoStepAuth.SetupPasswordDesc" = "Creeu una contrasenya que s'usarà per a protegir les vostres dades.";
+"TwoStepAuth.ChangePasswordDesc" = "Introduïu una contrasenya nova, que s’usarà per a protegir les vostres dades.";
+
+
+
+"TwoStepAuth.EnterPasswordPassword" = "Contrasenya";
+"TwoStepAuth.EnterPasswordHint" = "Pista: %@";
+"TwoStepAuth.EnterPasswordHelp" = "Heu activat la verificació en dos passos. El compte s'ha protegit amb una contrasenya addicional.";
+"TwoStepAuth.EnterPasswordForgot" = "Heu oblidat la contrasenya?";
+
+"TwoStep.AuthEmailSkip" = "Omet";
+
+"TwoStepAuth.EmailSkipAlert" = "No, de debò.\n\nSi oblideu la contrasenya, perdreu l'accés al vostre compte de Telegram. No hi haurà cap manera de restaurar-lo.";
+"TwoStepAuth.Email" = "Adreça electrònica";
+"TwoStepAuth.EmailHelp" = "Afegiu una adreça vàlida. És l'única manera de recuperar una contrasenya oblidada.";
+"TwoStepAuth.EmailInvalid" = "L'adreça electrònica no és vàlida. Torneu a provar-ho.";
+"TwoStepAuth.EmailSent" = "Us hem enviat un correu per a confirmar la vostra adreça.";
+
+"TwoStepAuth.EmailHelpChange" = "Introduïu una adreça de recuperació nova. És l’única manera de recuperar la contrasenya.";
+
+
+"TwoStepAuth.RecoveryUnavailable" = "Atès que no vau proporcionar una adreça de correu de recuperació en crear la contrasenya, les opcions que us queden són o bé recordar la contrasenya o restablir el compte.";
+"TwoStepAuth.RecoveryFailed" = "Les opcions disponibles són recordar la contrasenya o restablir el compte.";
+
+"TwoStepAuth.RecoveryTitle" = "Codi del correu electrònic";
+"TwoStepAuth.RecoverySent" = "Hem enviat un codi de recuperació a l'adreça que heu indicat:\n\n%@";
+"TwoStepAuth.RecoveryCode" = "Codi";
+"TwoStepAuth.RecoveryCodeHelp" = "Comproveu el vostre correu electrònic i introduïu el codi de 6 dígits que us hi hem enviat per desactivar la contrasenya del núvol.";
+"TwoStepAuth.RecoveryCodeInvalid" = "Codi incorrecte. Torneu a provar-ho.";
+"TwoStepAuth.RecoveryCodeExpired" = "El codi ha expirat";
+"TwoStepAuth.RecoveryEmailUnavailableNew" = "No podeu accedir al vostre correu\n[%@]()?";
+
+"TwoStepAuth.ResetDescription" = "Atès que el compte *%@** es troba actiu i protegit per contrasenya, l'eliminarem en 1 setmana per raons de seguretat.\n\nPodeu cancel·lar el procés en qualsevol moment.\n\nPodreu restablir el compte en:\n%@";
+
+
+"TwoStepAuth.ConfirmEmailCodeDesc" = "Introduïu el codi que us hem enviat per correu a %@.";
+
+
+"TwoStepAuth.FloodError" = "S'ha superat el límit. Torneu a provar-ho més tard.";
+"TwoStepAuth.GenericError" = "Hi ha hagut un error. Torneu a provar-ho més tard.";
+"TwoStepAuth.InvalidPasswordError" = "La contrasenya no és vàlida. Torneu a provar-ho.";
+
+
+"TwoStepAuth.AnError" = "Hi ha hagut un error. Torneu a provar-ho més tard.";
+"TwoStepAuth.Error.HaventEmail" = "Atès que no vau proporcionar una adreça de recuperació en establir la contrasenya, les opcions disponibles són recordar la contrasenya o restablir el compte.";
+"TwoStepAuth.Error.LimitExceeded" = "Heu introduït una contrasenya incorrecta massa vegades. Torneu a provar-ho més tard.";
+"TwoStepAuth.Error.Generic" = "S'ha produït un error. Torneu-ho a intentar.";
+"TwoStepAuth.Confirm.DisablePassword" = "Segur que voleu desactivar la contrasenya?";
+"TwoStepAuth.Error.InvalidEmail" = "Introduïu una adreça correcta.";
+"TwoStepAuth.Error.PasswordsDontMatch" = "Les contrasenyes no coincideixen.\nTorneu a provar-ho.";
+
+
+
+"PreviewSender.SendFile_countable" = "%d";
+
+"PreviewSender.SendFile_one" = "Envia el fitxer";
+
+
+
+"PreviewSender.SendFile_other" = "Envia els %d fitxers";
+
+"PreviewSender.SendMedia_countable" = "%d";
+
+"PreviewSender.SendMedia_one" = "Envia un fitxer";
+
+
+
+"PreviewSender.SendMedia_other" = "Envia %d fitxers";
+
+"PreviewSender.SendPhoto_countable" = "%d";
+
+"PreviewSender.SendPhoto_one" = "Envia la foto";
+
+
+
+"PreviewSender.SendPhoto_other" = "Envia les %d fotos";
+
+"PreviewSender.SendVideo_countable" = "%d";
+
+"PreviewSender.SendVideo_one" = "Envia el vídeo";
+
+
+
+"PreviewSender.SendVideo_other" = "Envia els %d vídeos";
+
+"PreviewSender.SendGif_countable" = "%d";
+
+"PreviewSender.SendGif_one" = "Envia el GIF";
+
+
+
+"PreviewSender.SendGif_other" = "Envia els %d GIF";
+
+"PreviewSender.SendAudio_countable" = "%d";
+
+"PreviewSender.SendAudio_one" = "Envia un àudio";
+
+
+
+"PreviewSender.SendAudio_other" = "Envia %d àudios";
+
+
+"Peer.SavedMessages" = "Missatges desats";
+
+"Stickers.SuggestStickers" = "Suggereix adhesius amb un emoji";
+"Stickers.SuggestAll" = "Tots els paquets";
+"Stickers.SuggestAdded" = "Els meus paquets";
+"Stickers.SuggestNone" = "Cap";
+
+
+"PrivacySettings.LastSeenEverybodyMinus" = "Tothom (-%@)";
+"PrivacySettings.LastSeenContactsPlus" = "Contactes (+%@)";
+"PrivacySettings.LastSeenContactsMinus" = "Contactes (-%@)";
+"PrivacySettings.LastSeenContactsMinusPlus" = "Contactes (-%@, +%@)";
+"PrivacySettings.LastSeenNobodyPlus" = "Ningú (+%@)";
+
+"PrivacySettings.DeleteAccountHeader" = "ELIMININACIÓ DEL COMPTE";
+"PrivacySettings.DeleteAccountDescription" = "Si no esteu en línia almenys una vegada durant aquest període, el vostre compte s'eliminarà, així com els vostres grups, missatges i contactes.";
+"PrivacySettings.DeleteAccount" = "Si sou fora durant";
+
+"Peer.CreatePeer.Context.UpdatePhoto" = "Actualitza la foto";
+"Peer.CreatePeer.Context.RemovePhoto" = "Elimina la foto";
+
+"Chat.Webpage.MediaCount" = "%d de %d";
+
+"Passcode.UseTouchId" = "Desbloca amb el Touch ID";
+"Passcode.UnlockTouchIdReason" = "autodesbloquejar-se";
+
+"Search.Global.Group1_countable" = "%@ %d";
+
+"Search.Global.Group1_one" = "%@, %d membre";
+
+
+
+"Search.Global.Group1_other" = "%@, %d membres";
+
+"Search.Global.Channel1_countable" = "%@ %d";
+
+"Search.Global.Channel1_one" = "%@, %d suscriptor";
+
+
+
+"Search.Global.Channel1_other" = "%@, %d suscriptors";
+
+//"ChatList.Context.PinError" = "Sorry, you can pin no more than 5 chats to the top.";
+"ChatList.Context.PinErrorNew2" = "Només podeu fixar 5 xats en la part superior de la llista principal. Podeu fixar-ne més en les carpetes de xats i en l'arxiu.";
+"ChatList.Context.PinErrorNew.SetupFolders" = "Configura les carpetes";
+
+
+"Storage.ClearAll" = "Esborra-ho tot";
+"Storage.ClearAll.Confirm.Description" = "Segur que voleu esborrar totes les dades de la memòria cau?";
+
+
+"Chat.Bubbles.ForwardedFrom" = "Reenviat de: [%@]()";
+
+
+"AppearanceSettings.TextSize.Header" = "MIDA DEL TEXT";
+"AppearanceSettings.ChatPreview.Header" = "VISTA PRÈVIA DEL XAT";
+"AppearanceSettings.ColorTheme.Header" = "COLOR DEL TEMA";
+"AppearanceSettings.ChatView.Header" = "VISUALITZACIÓ DEL XAT";
+
+"AppearanceSettings.ColorTheme.day" = "Dia";
+
+"AppearanceSettings.ColorTheme.system" = "Sistema";
+
+
+"AppearanceSettings.ChatView.Classic" = "Minimalista";
+"AppearanceSettings.ChatView.Bubbles" = "Bombolles";
+"AppearanceSettings.FollowSystemAppearance" = "Segueix l'aparença del sistema\n";
+"AppearanceSettings.FollowSystemAppearance.DefaultDark" = "Seleccioneu la paleta fosca predeterminada que s'usarà per al mode fosc del sistema.";
+"AppearanceSettings.FollowSystemAppearance.DefaultDay" = "Seleccioneu el tema clar predeterminat que s'usarà amb el mode clar del sistema.";
+"AppearanceSettings.FollowSystemAppearance.DefaultHeader" = "Paleta per defecte";
+
+
+"AppearanceSettings.ChatPreview.UserName1" = "Dídac";
+"AppearanceSettings.ChatPreview.UserName2" = "Vicent";
+"AppearanceSettings.ChatPreview.ZeroText" = "Vicent, has de tastar una paella de veres 🥘.";
+"AppearanceSettings.ChatPreview.FirstText" = "No en teniu ni idea, nois! La paella autèntica du garrofó, cigrons i pèsols!";
+"AppearanceSettings.ChatPreview.SecondText" = "No pot ser que ho digues seriosament, això...";
+
+"AppearanceSettings.ChatPreview.1" = "Bon dia! 👋";
+
+"AppearanceSettings.ChatPreview.3" = "És de dia en Tokyo 😎";
+
+
+
+"Chat.Empty.LinkPreview" = "Vista prèvia de l'enllaç";
+
+"Confirm.Delete" = "Elimina";
+"Chat.Message.DeleteForMeAndPerson" = "Elimina-ho per a mi i %@";
+"Chat.Message.DeleteForMe" = "Elimina-ho per a mi";
+"Chat.Message.DeleteForEveryone" = "Elimina-ho per a tothom";
+
+
+"Chat.Message.UnsendMessages_countable" = "%d";
+
+
+
+
+
+
+
+"Chat.CopySelectedText" = "Copia el text seleccionat";
+
+"GeneralSettings.InstantView.ScrollBySpace" = "Desplaça amb la barra espaiadora";
+"GeneralSettings.InstantViewHeader" = "VISTA IMMEDIATA";
+
+"GeneralSettings.AutoplayGifs" = "Reprodueix els GIF";
+"GeneralSettings.AccentColor" = "Color d'èmfasi";
+"GeneralSettings.ChatBackground" = "Fons del xat";
+"Chat.LiveLocation" = "Ubicació en directe";
+"ArchivedStickers.Empty" = "Els paquets d'adhesius arxivats apareixeran aquí";
+"ChatList.TitleFeed" = "Canal de continguts";
+"Chat.TitleFeed" = "Canal de continguts";
+"ChatList.Feeds" = "Canals";
+"ChatInput.ShowNext" = "Mostra el següent";
+"ChatList.GroupChannel" = "Canal de grup";
+
+"Preview.Dragging.AddItems_countable" = "%d";
+
+"Preview.Dragging.AddItems_one" = "Afegeix l'element";
+
+
+
+"Preview.Dragging.AddItems_other" = "Afegeix els elements";
+
+"Telegram.DataAndStorageViewController" = "Dades i emmagatzematge";
+"DataAndStorage.AutomaticDownload" = "Baixada automàtica de fitxers";
+"DataAndStorage.AutomaticDownload.Header" = "BAIXADA AUTOMÀTICA DE FITXERS";
+"DataAndStorage.AutomaticDownload.Reset" = "Restableix la configuració de les baixades";
+"DataAndStorage.AutomaticDownload.Photo" = "Fotos";
+"DataAndStorage.AutomaticDownload.Video" = "Vídeos";
+"DataAndStorage.AutomaticDownload.Files" = "Fitxers";
+"DataAndStorage.AutomaticDownload.Voice" = "Missatges de veu";
+"DataAndStorage.AutomaticDownload.InstantVideo" = "Missatges de vídeo";
+"DataAndStorage.AutomaticDownload.GIFs" = "GIF";
+
+
+"DataAndStorage.CategorySettings.PrivateChats" = "Xats privats";
+"DataAndStorage.CategorySettings.GroupChats" = "Grups";
+"DataAndStorage.CategorySettings.Channels" = "Canals";
+"DataAndStorage.CateroryFileSizeLimit.Header" = "LÍMIT PER MIDA";
+"DataAndStorage.CateroryFileSize.Unlimited" = "Sense límit";
+"DataAndStorage.Confirm.ResetSettings" = "Desfà tots els paràmetres personalitzats.";
+"Chat.Confirm.ReportSpamUser" = "Segur que voleu denunciar que l'usuari envia brossa?";
+"Chat.Confirm.ReportSpam" = "Voleu notificar-ho com a brossa?";
+"Chat.Confirm.ReportSpam.Header" = "Marca com a brossa";
+"Chat.Confirm.ReportSpam.Channel" = "Voleu notificar com a brossa el canal i abandonar-lo?";
+"Chat.Confirm.ReportSpam.Group" = "Voleu notificar com a brossa el grup i abandonar-lo?";
+
+"Appearance.CustomBackground" = "Fons personalitzat";
+"Appearance.CustomBackground.FileError" = "La mida del fitxer no pot superar els 10 MB i les dimensions de la imatge no poden ser de més de 500x500 px.";
+
+"CrashOnLaunch.OK" = "Tanca la sessió";
+"CrashOnLaunch.Cancel" = "Cancel·la";
+"CrashOnLaunch.Message" = "Alguna cosa no ha anat bé";
+"CrashOnLaunch.Information" = "Si el Telegram segueix fallant just després d'obrir-lo, cliqueu D'acord per tancar la sessió. Això hauria de solucionar el problema.";
+"ChatWallpaper.Empty" = "Per defecte";
+
+"Chat.Service.BotPermissionAllowed" = "Heu permès que aquest bot us enviï missatges en iniciar sessió a %@.";
+
+"Compose.CreateGroup.LimitError" = "Podreu afegir més usuaris quan acabeu de crear el grup i el convertiu en supergrup.";
+
+
+"PeerInfo.Bot.AddToGroup" = "Afegeix-lo a un grup";
+"PeerInfo.Bot.Share" = "Comparteix";
+"PeerInfo.Bot.Settings" = "Configuració";
+"PeerInfo.Bot.Help" = "Ajuda";
+"PeerInfo.Bot.Privacy" = "Privadesa";
+
+"Passcode.Or" = "o";
+"Passcode.UseTouchId" = "Desbloca amb el Touch ID";
+
+
+"Text.Context.Copy.Link" = "Copia l'enllaç";
+"Text.Context.Copy.Email" = "Copia l'adreça electrònica";
+"Text.Context.Copy.Code" = "Copia el codi";
+
+"Text.Context.Copy.Username" = "Copia el nom d'usuari";
+"Text.Context.Copy.Hashtag" = "Copia l'etiqueta";
+"Text.Context.Copy.Command" = "Copia l'ordre";
+"Text.Context.Copy.StickerPack" = "Copia el paquet d'adhesius";
+"Text.Context.Copy.InviteLink" = "Copia l'enllaç d'invitació";
+
+"Message.Context.OpenWith" = "Obre amb...";
+"Chat.InlineRequest.Loading" = "S'està carregant...";
+
+"DataAndStorage.DownloadFolder" = "Carpeta de baixades";
+"Context.OpenInQuickLook" = "Obre a la vista ràpida";
+
+
+"Telegram.WebSessionsController" = "Sessió iniciada amb Telegram";
+"PrivacyAndSecurity.WebAuthorizationHeader" = "LLOCS WEB CONNECTATS";
+
+"WebAuthorizations.Logout" = "Desconnecta";
+"WebAuthorizations.LogoutAll.Description" = "Podeu iniciar sessió en llocs web que facin servir l'inici de sessió de Telegram.";
+"WebAuthorizations.LoggedIn.Descrpiption" = "LLOCS WEB CONNECTATS";
+"WebAuthorizations.LogoutAll" = "Desconnecta tots els llocs web";
+"WebAuthorizations.Confirm.Revoke" = "Voleu desconnectar aquest lloc web?";
+"WebAuthorizations.Confirm.RevokeAll" = "Segur que voleu desconnectar tots els llocs web?";
+
+
+"Telegram.PassportController" = "Passaport";
+
+"SecureId.Request.Header1" = "**%@** demana accés a les vostres dades personals per registrar-vos als seus serveis.";
+
+"SecureId.Request.Permission.Email" = "Adreça electrònica";
+"SecureId.Request.Permission.Phone" = "Número de telèfon";
+"SecureId.Request.Permission.PersonalDetails" = "Detalls personals";
+"SecureId.Request.Permission.Passport" = "Passaport";
+"SecureId.Request.Permission.ResidentialAddress" = "Adreça residencial";
+"SecureId.Request.Permission.IdentityDocument" = "Document d'identitat";
+
+"SecureId.Request.Permission.UtilityBill" = "Factura de subministraments";
+"SecureId.Request.Permission.DriversLicense" = "Carnet de conduir";
+"SecureId.Request.Permission.TenancyAgreement" = "Contracte de lloguer";
+"SecureId.Request.Permission.IDCard" = "Carnet d'identitat";
+"SecureId.Request.Permission.BankStatement" = "Extracte del compte bancari";
+"SecureId.Request.Permission.InternalPassport" = "Passaport intern";
+"SecureId.Request.Permission.PassportRegistration" = "Registre del passaport";
+"SecureId.Request.Permission.TemporaryRegistration" = "Registre temporal";
+
+"SecureId.Request.Accept" = "Autoritza";
+
+"SecureId.Request.TwoDocuments.Title" = "%@ o %@";
+
+
+"SecureId.UploadScan.Multi" = "Escanegeu i pugeu un %@ o %@";
+"SecureId.UploadScan.Single" = "Escanegeu i pugeu un %@";
+
+
+"SecureId.Request.CreatePassword" = "Crea una contrasenya";
+"SecureId.Request.Permission.Email.Empty" = "Faciliteu la vostra adreça electrònica";
+"SecureId.Request.Permission.Phone.Empty" = "Faciliteu el vostre número de telèfon";
+"SecureId.Request.Permission.Identity.Empty" = "Escanegeu i pugeu el vostre passaport o un altre document d'identitat";
+"SecureId.Request.Permission.Address.Empty" = "Pugeu una prova de la vostra adreça";
+
+"SecureId.FileUpload.Progress" = "%@% carregat";
+"SecureId.ScanNumber" = "Escaneig %d";
+
+"SecureId.Identity.Id" = "Targeta d'identitat";
+"SecureId.Identity.Passport" = "Passaport";
+"SecureId.Identity.DriverLicense" = "Carnet de conduir";
+"SecureId.Identity.UtilityBill" = "Factura d’un servei";
+"SecureId.Identity.BankStatement" = "Extracte del compte bancari";
+"SecureId.Identity.TenancyAgreement" = "Contracte de lloguer";
+"SecureId.Identity.PassportRegistration" = "Registre de passaport";
+
+"SecureId.IdentityDocument" = "Targeta d'identitat";
+"SecureId.ResidentialAddress" = "Adreça residencial";
+"SecureId.PhoneNumber" = "Número de telèfon";
+"SecureId.Email" = "Adreça electrònica";
+
+"SecureId.DeletePassport" = "Elimina el Telegram Passport";
+
+"SecureId.Gender.Male" = "Home";
+"SecureId.Gender.Female" = "Dona";
+
+
+"SecureId.Identity.Placeholder.Gender" = "Gènere";
+
+"SecureId.Identity.Placeholder.FirstName" = "Nom";
+"SecureId.Identity.InputPlaceholder.FirstName" = "Nom";
+
+"SecureId.Identity.Placeholder.MiddleName" = "Segon nom";
+"SecureId.Identity.InputPlaceholder.MiddleName" = "Segon nom";
+
+"SecureId.Identity.Placeholder.LastName" = "Cognoms";
+"SecureId.Identity.InputPlaceholder.LastName" = "Cognoms";
+
+"SecureId.Identity.Placeholder.Birthday" = "Aniversari";
+
+"SecureId.Identity.Placeholder.Country" = "País";
+
+"SecureId.Identity.Placeholder.Citizenship" = "Ciutadania";
+"SecureId.Identity.Placeholder.Residence" = "País de residència";
+
+"SecureId.Identity.Placeholder.IssuedDate" = "Data d'expedició";
+"SecureId.Identity.Placeholder.ExpiryDate" = "Data de venciment";
+"SecureId.Identity.DocumentDetailsHeader" = "DETALLS DEL DOCUMENT";
+
+"SecureId.Identity.CardId.InputPlaceholder" = "ID de la targeta";
+"SecureId.Identity.CardId.Placeholder" = "ID de la targeta";
+
+"SecureId.Identity.Passport.InputPlaceholder" = "Número de document";
+"SecureId.Identity.Passport.Placeholder" = "Número de document";
+
+"SecureId.Identity.License.InputPlaceholder" = "ID del carnet";
+"SecureId.Identity.License.Placeholder" = "ID del carnet";
+
+
+
+"SecureId.Scans.Header" = "ESCANEIGS";
+"SecureId.UploadScan" = "Puja un escaneig";
+"SecureId.UploadAdditionalScan" = "Pugeu els escaneigs addicionals";
+
+"SecureId.Address.Scans_countable" = "%d";
+
+"SecureId.Address.Scans_one" = "%d escaneig";
+
+
+
+"SecureId.Address.Scans_other" = "%d escaneigs";
+
+
+"SecureId.IdentityScan.Description" = "El document ha de tenir el vostre nom i cognom, l'adreça de residència, un segell / codi de barres / codi QR / logotip, i data d'expedició no anterior a 3 mesos.";
+
+
+"SecureId.RequestedInformation.Header" = "INFORMACIÓ SOL·LICITADA";
+"SecureId.Accept.Policy" = "Accepteu la [Política de Privadesa del Giny d'Exemple] i permeteu que el **%@** us enviï missatges.";
+"SecureId.Accept.Help" = "Esteu enviant els vostres documents directament a **%@** i permetent que el seu **%@** us enviï missatges.";
+"Chat.Service.SecureId.AccessGranted" = "%@ ha rebut els següents documents: %@";
+"SecureId.RemoveEmail" = "Voleu eliminar l'adreça electrònica?";
+"SecureId.RemovePhoneNumber" = "Voleu eliminar el número de telèfon?";
+
+"SecureId.InstallEmail.Title" = "Adreça electrònica";
+"SecureId.InstallPhone.Title" = "Número de telèfon";
+"SecureId.CreatePassword.Title" = "Contrasenya i adreça";
+
+
+"SecureId.CreatePassword.Header" = "CONTRASENYA";
+"SecureId.CreatePassword.PasswordPlaceholder" = "Contrasenya";
+"SecureId.CreatePassword.PasswordInputPlaceholder" = "Introduïu la vostra contrasenya";
+"SecureId.CreatePassword.RePasswordInputPlaceholder" = "Torneu a escriure-la";
+"SecureId.CreatePassword.Description" = "Creeu una contrasenya per a protegir la informació del passaport. Se us demanarà quan inicieu sessió al Telegram."; //WRONG
+"SecureId.CreatePassword.Hint.Header" = "PISTA";
+"SecureId.CreatePassword.Hint.Placeholder" = "Pista";
+"SecureId.CreatePassword.Hint.InputPlaceholder" = "Pista per la contrasenya";
+"SecureId.CreatePassword.Email.Header" = "ADREÇA ELECTRÒNICA DE RECUPERACIÓ";
+"SecureId.CreatePassword.Email.Placeholder" = "Adreça electrònica";
+"SecureId.CreatePassword.Email.InputPlaceholder" = "La vostra adreça electrònica";
+"SecureId.CreatePassword.Email.Description" = "Afegiu una adreça vàlida. És l'única manera de recuperar una contrasenya oblidada.";
+
+"SecureId.EmailActivate.Code.Placeholder" = "Codi";
+"SecureId.EmailActivate.Code.InputPlaceholder" = "Introduïu el codi";
+"SecureId.EmailActivate.Description" = "Introduïu el codi de confirmació que us acabem d'enviar a %@.";
+
+
+"SecureId.DeleteIdentity" = "Elimina el document";
+"SecureId.DeleteAddress" = "Elimina l'adreça";
+
+"SecureId.InsertPassword.Password" = "Introduïu la contrasenya";
+"SecureId.InsertPassword.Next" = "Endavant";
+"SecureId.InsertPassword.Description" = "Introduïu la contrasenya per accedir a les vostres dades personals.";
+"SecureId.PhoneNumber.UseSame.Desc" = "Usa el mateix número de telèfon que al Telegram.";
+"SecureId.PhoneNumber.UseSame" = "Utilitza %@";
+"SecureId.PhoneNumber.Note" = "Nota: Rebreu un codi de confirmació al telèfon que heu facilitat.";
+"SecureId.PhoneNumber.Header" = "O INTRODUÏU UN ALTRE NÚMERO DE TELÈFON";
+
+"SecureId.InsertPassword.Settings.Description" = "Introduïu la contrasenya del Telegram per a desxifrar les vostres dades.";
+
+
+"SecureId.Email.UseSame" = "Utilitza %@";
+"SecureId.Email.UseSame.Desc" = "Nota: Rebreu un codi de confirmació a l'adreça que heu facilitat.";
+"SecureId.Email.Email.Placeholder" = "Adreça electrònica";
+"SecureId.Email.Email.InputPlaceholder" = "Introduïu la vostra adreça electrònica";
+
+"SecureId.PhoneNumber.ConfirmCode.Placeholder" = "Codi";
+"SecureId.PhoneNumber.ConfirmCode.InputPlaceholder" = "Introduïu el codi";
+"SecureId.PhoneNumber.ConfirmCode.Desc" = "Introduïu el codi de confirmació que us acabem d'enviar a %@ per SMS";
+
+
+"SecureId.Address.Header" = "ADREÇA";
+"SecureId.Address.Street.Placeholder" = "Carrer";
+"SecureId.Address.Street.InputPlaceholder" = "Carrer i número";
+"SecureId.Address.Street1.InputPlaceholder" = "Apartament, pis, escala, edifici, planta";
+"SecureId.Address.City.Placeholder" = "Ciutat";
+"SecureId.Address.City.InputPlaceholder" = "Ciutat";
+"SecureId.Address.Region.Placeholder" = "Regió";
+"SecureId.Address.Region.InputPlaceholder" = "Província/Estat/Regió";
+"SecureId.Address.Country.Placeholder" = "País";
+"SecureId.Address.Postcode.Placeholder" = "Codi postal";
+"SecureId.Address.Postcode.InputPlaceholder" = "Codi postal";
+
+
+"SecureId.Identity.SelfieTitle" = "VERIFICACIÓ AMB AUTOFOTO";
+"SecureId.Identity.Selfie" = "Autofoto";
+"SecureId.Identity.SelfieUpload" = "Afegeix una autofoto";
+"SecureId.Identity.SelfieUploadNew" = "Torna a fer l'autofoto";
+"SecureId.Identity.SelfieHelp" = "Pugeu una foto vostra ensenyant el document. Assegureu-vos que la identificació i la vostra cara es veuen bé.";
+
+"SecureId.forgotPassword.NoEmail" = "Atès que no vau proporcionar cap adreça de recuperació en establir la contrasenya, les opcions disponibles són recordar-la o restablir el vostre compte.";
+"SecureId.Confirm.Cancel" = "Segur que voleu aturar el procés d'autorització?";
+
+
+
+"SecureId.RecoverPassword" = "Recuperació de contrasenya";
+"SecureId.RecoverPassword.SentEmailCode" = "S'ha enviat el codi a %@";
+
+"SecureId.Warning.DataLost" = "Atenció! Totes les dades desades al vostre Telegram Passport es perdran!";
+"SecureId.Upload.Main" = "Pugeu una foto de la pàgina principal del document";
+"SecureId.Upload.Front" = "Pugeu una foto de l'anvers del document";
+"SecureId.Upload.Reverse" = "Pugeu una foto del revers del document";
+"SecureId.Upload.Selfie" = "Pugeu una autofoto vostra mostrant el document";
+
+"SecureId.Upload.Title.MainPage" = "Pàgina principal";
+"SecureId.Upload.Title.FrontSide" = "Anvers";
+"SecureId.Upload.Title.ReverseSide" = "Revers";
+
+"SecureId.Info.Title" = "Què és Telegram Passport?";
+"SecureId.Info" = "Amb el Telegram Passport podeu registrar-vos fàcilment a pàgines web i serveis que requereixen verificació d'identitat.\n\nLa vostra informació, dades personals i documents estan protegits amb xifratge d'extrem a extrem. Ningú, inclòs el Telegram, no pot accedir-hi sense el vostre permís.";
+"SecureId.Info.More" = "Més informació";
+"SecureId.Info.DeletePassport" = "Segur que voleu eliminar el Telegram Passport? Es perdran totes les dades.";
+
+"SecureId.Add.PersonalDetails" = "Afegeix detalls personals";
+"SecureId.Edit.PersonalDetails" = "Edita els detalls personals";
+"SecureId.Add.Passport" = "Afegeix un passaport";
+"SecureId.Edit.Passport" = "Edita el passaport";
+"SecureId.Add.ID" = "Afegeix un carnet d'identitat";
+"SecureId.Edit.ID" = "Edita la targeta d'identitat";
+"SecureId.Add.DriverLicense" = "Afegeix el carnet de conduir";
+"SecureId.Edit.DriverLicense" = "Edita el carnet de conduir";
+"SecureId.Add.InternalPassport" = "Afegeix un passaport intern";
+"SecureId.Edit.InternalPassport" = "Edita el passaport intern";
+
+"SecureId.Add.ResidentialAddress" = "Afegeix l'adreça de residència";
+"SecureId.Edit.ResidentialAddress" = "Edita l'adreça de residència";
+"SecureId.Add.UtilityBill" = "Afegeix una factura de subministraments";
+"SecureId.Edit.UtilityBill" = "Edita la factura de subministraments";
+"SecureId.Add.BankStatement" = "Afegeix un extracte del compte bancari";
+"SecureId.Edit.BankStatement" = "Edita l'extracte del compte bancari";
+"SecureId.Add.TenancyAgreement" = "Afegeix un contracte de lloguer";
+"SecureId.Edit.TenancyAgreement" = "Edita el contracte de lloguer";
+"SecureId.Add.PassportRegistration" = "Afegeix un registre de passaport";
+"SecureId.Edit.PassportRegistration" = "Edita el registre de passaport";
+"SecureId.Add.TemporaryRegistration" = "Afegeix un registre temporal";
+"SecureId.Edit.TemporaryRegistration" = "Edita el registre temporal";
+
+"SecureId.Delete.PersonalDetails" = "Elimina els detalls personals";
+"SecureId.Delete.Confirm.PersonalDetails" = "Segur que voleu eliminar els vostres detalls personals?";
+"SecureId.Confirm.DeleteDocument" = "Segur que voleu eliminar aquest document?";
+"SecureId.Confirm.DeleteAddress" = "Elimina l'adreça";
+"SecureId.AppVersionOutdated" = "La vostra aplicació de Telegram és antiga i no pot gestionar aquesta sol·licitud. Actualitzeu el Telegram.";
+
+"SecureId.EmptyDescription.UtilityBill" = "Escanegeu i pugeu la factura d'un servei";
+"SecureId.EmptyDescription.BankStatement" = "Escanegeu i pugeu un extracte del compte bancari.";
+"SecureId.EmptyDescription.TenancyAgreement" = "Escanegeu i pugeu el vostre contracte de lloguer.";
+"SecureId.EmptyDescription.PassportRegistration" = "Escanegeu i pugeu la pàgina de registre del vostre passaport.";
+"SecureId.EmptyDescription.TemporaryRegistration" = "Escanegeu i pugeu un registre temporal";
+
+"SecureId.EmptyDescription.PersonalDetails" = "Ompliu les dades personals";
+"SecureId.EmptyDescription.Address" = "Faciliteu la vostra adreça";
+
+"SecureId.EmptyDescription.Passport" = "Escanegeu i pugeu un passaport";
+"SecureId.EmptyDescription.DriversLicense" = "Escanegeu i pugeu el vostre carnet de conduir";
+"SecureId.EmptyDescription.IdentityCard" = "Escanegeu i pugeu un carnet d'identitat";
+"SecureId.EmptyDescription.InternalPassport" = "Escanegeu i pugeu un passaport intern";
+
+"SecureId.CreatePassword.Intro.Header" = "**%@ demana accedir a les vostres dades personals** per a registrar-vos als seus serveis.";
+"SecureId.CreatePassword.Intro" = "Creeu una contrasenya que es farà servir per a xifrar les vostres dades personals.\n\nAquesta contrasenya també serà necessària quan inicieu sessió al Telegram en un dispositiu nou.";
+
+"SecureId.Translation.Header" = "TRADUCCIÓ";
+"SecureId.Translation.Desc" = "Escanegeu i pugeu una traducció compulsada en anglès del document.";
+
+"ProxySettings.Item.Connected" = "connectat";
+"ProxySettings.Item.ConnectedPing" = "connectat (ping: %@ ms)";
+"ProxySettings.Item.NeverConnected" = "no disponible";
+"ProxySettings.Item.Available" = "disponible (ping: %@ ms)";
+"ProxySettings.Item.Checking" = "s'està comprovant";
+
+"ProxySettings.Secret" = "Secret";
+"ProxySettings.Enable" = "Servidor intermediari";
+
+"Login.ConnectionError.Header" = "No es pot contactar amb el servidor";
+"Login.ConnectionError.Info" = "Comproveu la connexió a internet i torneu a provar-ho.";
+"Login.ConnectionError.TryAgain" = "Prova de nou";
+"Login.ConnectionError.UseProxy" = "Servidor intermediari";
+
+"ProxySettings.Title" = "Configuració del servidor intermediari";
+
+"ProxySettings.UseForCalls" = "Usa'l per a trucar";
+"ProxySettings.AddProxy" = "Afegeix el servidor";
+
+"Error.AnError" = "Hi ha hagut un error. Torneu a provar-ho més tard.";
+
+"InputData.Date.Day.Placeholder1" = "Dia";
+"InputData.Date.Month.Placeholder1" = "Mes";
+"InputData.Date.Year.Placeholder1" = "Any";
+
+
+
+"EditAccount.Logout" = "Tanca la sessió";
+"EditAccount.Username" = "Nom d'usuari";
+"EditAccount.ChangeNumber" = "Canvia el número";
+"EditAccount.NameDesc" = "Introduïu el vostre nom i afegiu una foto de perfil";
+"EditAccount.AddAccount" = "Afegeix un compte";
+
+"EditAccount.Title" = "Edita el perfil";
+
+
+"Chanel.EventFilter.AllAdmins" = "Tots els administradors";
+"Chanel.EventFilter.AllEvents" = "Tots els esdeveniments";
+
+
+"GeneralSettings.ShowCallsTab" = "Mostra la pestanya de trucades";
+
+"NetworkUsage.BytesSent" = "Bytes enviats";
+"NetworkUsage.BytesReceived" = "Bytes rebuts";
+"NetworkUsage.Header.Generic" = "MISSATGES";
+"NetworkUsage.Header.Images" = "FOTOS";
+"NetworkUsage.Header.Videos" = "VÍDEOS";
+"NetworkUsage.Header.Audio" = "ÀUDIO";
+"NetworkUsage.Header.Files" = "FITXERS";
+"NetworkUsage.Reset" = "Restableix les estadístiques";
+"NetworkUsage.NetworkUsage" = "Ús de la xarxa";
+
+"NetworkUsage.NetworkUsageSince" = "Ús de xarxa des de %@";
+
+"Chat.Recording.Cancel" = "Segur que voleu aturar l'enregistrament i descartar el missatge de veu?";
+"ChatList.SponsoredChannel" = "Canal patrocinat";
+
+
+"AudioRecord.Help.Fixed" = "Feu clic fora del cercle per a cancel·lar-ho.";
+"AudioRecord.Help.Plain" = "Feu clic fora del cercle per a cancel·lar-ho";
+
+"Chat.ProxySponsored.CapDesc" = "El servidor intermediari mostra aquest canal.";
+"Chat.ProxySponsored.CapTitle" = "Patrocinador del servidor intermediari";
+
+"Chat.ProxySponsored.AlertText" = "El servidor intermediari us mostra aquest canal. Per a eliminar-lo de la llista de xats, desactiveu el servidor en la Configuració.";
+"Chat.ProxySponsored.AlertSettings" = "Configuració";
+"Chat.ProxySponsored.AlertHeader" = "Patrocinador del servidor intermediari";
+
+"Chat.Channel.Unaccessible" = "Aquest canal no és accessible.";
+"Chat.Group.Unaccessible" = "Aquest grup no és accessible.";
+
+"ProxySettings.Mtp.Sponsor" = "Aquest servidor intermediari pot mostrar un canal patrocinat en la llista de canals. Això no revela gens del vostre trànsit del Telegram.";
+
+
+"Chat.LiveLocation.Updated_countable" = "%d";
+
+"Chat.LiveLocation.Updated_one" = "Actualitzat fa %d minut";
+
+
+
+"Chat.LiveLocation.Updated_other" = "Actualitzat fa %d minuts";
+
+"Chat.LiveLocation.UpdatedNow" = "Actualitzat just ara";
+
+"StickerSet.DontExist" = "Sembla que aquest adhesiu no existeix.";
+
+"PrivacyAndSecurity.BlockedUsers" = "%@ usuaris";
+
+"PrivacyAndSecurity.ClearCloudDraftsHeader" = "XATS";
+"PrivacyAndSecurity.ClearCloudDrafts" = "Elimina tots els esborranys";
+
+"PrivacyAndSecurity.SensitiveHeader" = "CONTINGUT SENSIBLE";
+
+
+
+"PrivacyAndSecurity.Confirm.ClearCloudDrafts" = "Segur que voleu esborrar tots els esborranys?";
+
+
+"Location.Send.MyLocation" = "Envia la meva ubicació";
+"Location.Send.ThisLocation" = "Envia aquesta ubicació";
+"Location.Send.ThisLocation.Unknown" = "Ubicació desconeguda";
+
+"Location.Send.AccurateTo" = "Precisió de %@";
+"Location.Send.Locating" = "S'està ubicant...";
+
+"Location.Send.Title" = "Ubicació";
+"Location.Send.ShowNearby" = "Mostra els llocs propers";
+"Location.Send.HideNearby" = "Amaga els llocs propers";
+
+"Chat.ApplyProxy" = "AFEGEIX EL SERVIDOR";
+"Chat.Message.MTProxy.Config" = "Configuració MTProxy";
+"Chat.Message.Socks5.Config" = "Configuració SOCKS5";
+
+"Chat.Copy.ProxyConfiguration" = "Copia l'enllaç al servidor";
+
+"Chat.MessageAction.ShowMessage" = "MOSTRA EL MISSATGE";
+"ProxySettings.ShareProxyList" = "Comparteix la llista de servidors";
+"TermsOfService.Title" = "Condicions del servei";
+"TermsOfService.Accept" = "Hi estic d'acord i continua";
+"TermsOfService.Accept.ConfirmAge" = "Confirma";
+
+"TermsOfService.Disagree" = "Rebutja";
+"TermsOfService.Disagree.Text" = "Això significa que ens hem d'acomiadar, ara. A diferència d'altres, nosaltres no utilitzem les vostres dades amb pretensions comercials. El Telegram només emmagatzema la informació necessària per a oferir totes les funcionalitats d'un servei al núvol. Podeu ajustar com utilitzem les vostres dades (p.e., eliminar els contactes sincronitzats) a la configuració de Privadesa i Seguretat.\n\nPerò si no esteu conforme amb els requisits modests del Telegram, no podrem oferir-vos el servei.";
+"TermsOfService.Disagree.Text.Last" = "Atenció, això eliminarà de forma irreversible el vostre compte de Telegram amb la resta de dades que deseu al núvol de Telegram.\n\nImportant: Podeu cancel·lar-ho ara i exportar les vostres dades abans d'eliminar el compte en lloc de perdre-ho tot. (Per a fer-ho, obriu l'última versió del Telegram Desktop i aneu a Configuració > Exporta les dades del Telegram.)";
+"TermsOfService.Disagree.Text.Last.OK" = "Elimina-ho ara";
+"TermsOfService.Disagree.OK" = "Rebutja i elimina";
+"TermsOfService.ConfirmAge" = "Confirmo que sóc major de %@.";
+"TermsOfService.ProceedBot" = "Accepteu i accediu al %@";
+"ChatList.Context.MaskAsRead" = "Marca'l com a llegit";
+"ChatList.Context.MaskAsUnread" = "Marca-ho per llegir";
+"AccountSettings.Passport" = "Telegram Passport";
+"Chat.EditMessage.Media" = "Toqueu per a editar el fitxer";
+
+
+"Alert.ButtonOK.UpdateApp" = "Actualitza l'aplicació";
+
+"Suggest.Frequent.Contacts" = "Suggeriments de contactes freqüents";
+"Suggest.Frequent.Contacts.Desc" = "Mostra les persones amb qui us comuniqueu sovint a dalt de tot de la secció de cerca per a un accés més ràpid.";
+"Suggest.Frequent.Contacts.Alert" = "Això eliminarà totes les dades sobre les persones amb qui us comuniqueu sovint, així com els bots en línia que feu servir.";
+
+"Telegram.PeerMediaController" = "Fitxers compartits";
+"AccountSettings.ReadArticles" = "Articles llegits";
+"Chat.Context.Restrict" = "Restringeix";
+"Article.Read" = "LLEGEIX";
+
+"Search.Popular.SavedMessages" = "Desats";
+"Search.Popular.Articles" = "Articles";
+
+"Article.MarkAsRead" = "Marca-ho com a llegit";
+"Article.MarkAsUnread" = "Mara-ho per llegir";
+"Article.ReadAll" = "Llegeix-los tots";
+"Article.RemoveAll" = "Elimina-ho tot";
+"Article.Remove" = "Elimina";
+"GeneralSettings.ShowArticlesInSearch" = "Suggereix articles a la cerca";
+
+"Search.Popular.Delete" = "Elimina'l";
+
+"Telegram.ForwardChatListController" = "Reenvia els missatges";
+
+
+"UpdateApp.UpdateTelegram" = "Actualitza el Telegram";
+"UpdateApp.TelegramUpdate" = "Actualització del Telegram";
+
+
+
+"SecureId.DiscardChanges.Header" = "Descarta els canvis";
+"SecureId.DiscardChanges.Text" = "Segur que voleu descartar tots els canvis?";
+
+"SecureId.CorrectErrors" = "Corregiu els errors";
+"SecureId.LoginText" = "Inicieu sessió al vostre compte per a utilitzar el Telegram Passport";
+
+
+"ContactInfo.PhoneLabelHome" = "casa";
+"ContactInfo.PhoneLabelWork" = "feina";
+"ContactInfo.PhoneLabelMobile" = "mòbil";
+"ContactInfo.PhoneLabelMain" = "principal";
+"ContactInfo.PhoneLabelHomeFax" = "fax de casa";
+"ContactInfo.PhoneLabelWorkFax" = "fax de la feina";
+"ContactInfo.PhoneLabelPager" = "busca";
+"ContactInfo.PhoneLabelOther" = "altre";
+"ContactInfo.URLLabelHomepage" = "lloc web";
+"ContactInfo.BirthdayLabel" = "aniversari";
+"ContactInfo.Job" = "ocupació";
+
+
+"ContactInfo.ContactInfo" = "Informació de contacte";
+"Chat.ViewContact" = "MOSTRA EL CONTACTE";
+
+
+"StorageUsage.Clear" = "Esborra";
+
+
+
+
+"ChatList.Swiping.Read" = "Llegit";
+"ChatList.Swiping.Unread" = "Per llegir";
+"ChatList.Swiping.Delete" = "Elimina'l";
+"ChatList.Swiping.Pin" = "Fixa'l";
+"ChatList.Swiping.Unpin" = "No fixis";
+"ChatList.Swiping.Mute" = "Silencia'l";
+"ChatList.Swiping.Unmute" = "Activa el so";
+
+"ChatList.Swiping.Archive" = "Arxiva";
+"ChatList.Swiping.Unarchive" = "Restaura'l";
+
+
+"PeerSelect.InviteViaLink" = "Convida al grup amb un enllaç";
+
+
+"Passport.Language.ar" = "Àrab";
+"Passport.Language.az" = "Àzeri";
+"Passport.Language.bg" = "Búlgar";
+"Passport.Language.bn" = "Bengalí";
+"Passport.Language.cs" = "Txec";
+"Passport.Language.da" = "Danès";
+"Passport.Language.de" = "Alemany";
+"Passport.Language.dv" = "Divehi";
+"Passport.Language.dz" = "Dzongkha";
+"Passport.Language.el" = "Grec";
+"Passport.Language.en" = "Anglès";
+"Passport.Language.es" = "Espanyol";
+"Passport.Language.et" = "Estonià";
+"Passport.Language.fa" = "Persa";
+"Passport.Language.fr" = "Francès";
+"Passport.Language.he" = "Hebreu";
+"Passport.Language.hr" = "Croat";
+"Passport.Language.hu" = "Hongarès";
+"Passport.Language.hy" = "Armeni";
+"Passport.Language.id" = "Indonesi";
+"Passport.Language.is" = "Islandès";
+"Passport.Language.it" = "Italià";
+"Passport.Language.ja" = "Japonès";
+"Passport.Language.ka" = "Georgià";
+"Passport.Language.km" = "Khmer";
+"Passport.Language.ko" = "Coreà";
+"Passport.Language.lo" = "Laosià";
+"Passport.Language.lt" = "Lituà";
+"Passport.Language.lv" = "Letó";
+"Passport.Language.mk" = "Macedònic";
+"Passport.Language.mn" = "Mongol";
+"Passport.Language.ms" = "Malai";
+"Passport.Language.my" = "Birmà";
+"Passport.Language.ne" = "Nepalès";
+"Passport.Language.nl" = "Neerlandès";
+"Passport.Language.pl" = "Polonès";
+"Passport.Language.pt" = "Portuguès";
+"Passport.Language.ro" = "Romanès";
+"Passport.Language.ru" = "Rus";
+"Passport.Language.sk" = "Eslovac";
+"Passport.Language.sl" = "Eslovè";
+"Passport.Language.th" = "Tailandès";
+"Passport.Language.tk" = "Turcman";
+"Passport.Language.tr" = "Turc";
+"Passport.Language.uk" = "Ucraïnès";
+"Passport.Language.uz" = "Uzbek";
+"Passport.Language.vi" = "Vietnamita";
+
+"SecureId.NameNative.HeaderEmpty" = "NOM EN EL PAÍS DE RESIDÈNCIA";
+"SecureId.NameNative.Header" = "EL VOSTRE NOM EN %@";
+"SecureId.NameNative.Desc.Language" = "El vostre nom en la llengua del vostre país de residència (%@).";
+"SecureId.NameNative.Desc.Empty" = "El vostre nom en la llengua del vostre país de residència.";
+
+"SecureId.Identity.NameInLatine" = "Introduïu el vostre nom amb caràcters llatins";
+
+
+"SecureId.Password.Error.Invalid" = "La contrasenya no és vàlida. Torneu a provar-ho.";
+"SecureId.Password.Error.Limit" = "S'ha superat el límit. Torneu a provar-ho més tard.";
+
+
+"SecureId.InputError.LatinOnly" = "Useu només caràcters de l'alfabet llatí.";
+
+"Alert.Confirm.Discard" = "Descarta’ls";
+"Alert.Confirm.Stop" = "Atura";
+
+"Appearance.Settings.AutoNight" = "Mode nocturn automàtic";
+"Appearance.Settings.AutoNightHeader" = "TEMA NOCTURN AUTOMÀTIC";
+"Appearance.Settings.BubblesMode" = "Mode de bombolles";
+
+"SecureId.Error.ScansLimit" = "No podeu carregar més de 20 fitxers";
+"SecureId.Request.Upload.Translation" = "Pugeu una traducció del document";
+"SecureId.Request.Upload.Selfie" = " Pugeu una autofoto ensenyant el document";
+
+
+"AutoNight.Settings.Sunrise.Desc" = "Per a calcular l'alba i l'ocàs, cal fer una comprovació puntual de la vostra ubicació aproximada. Aquesta només s'emmagatzema al vostre dispositiu.\n\nAlba: %@\nOcàs: %@";
+"AutoNight.Settings.Sunrise.Desc.NA" = "Per a calcular l'alba i l'ocàs, cal fer una comprovació puntual de la vostra ubicació aproximada. Aquesta només s'emmagatzema al vostre dispositiu.\n\nAlba: N/A\nOcàs: N/A";
+"AutoNight.Settings.Title" = "Tema nocturn automàtic";
+"AutoNight.Settings.From" = "Des de";
+"AutoNight.Settings.To" = "Fins a";
+"AutoNight.Settings.UpdateLocation" = "Actualitza la ubicació";
+"AutoNight.Settings.SunsetAndSunrise" = "Usa l'alba i l'ocàs locals";
+"AutoNight.Settings.Disabled" = "Desactivat";
+"AutoNight.Settings.Scheduled" = "Programat";
+"AutoNight.Settings.SystemBased" = "Sistema";
+"AutoNight.Settings.SystemBasedDesc" = "La interfície de l'aplicació coincidirà amb la configuració d'aparença del sistema.";
+"AutoNight.Settings.PreferredTheme" = "TEMA NOCTURN PREFERIT";
+
+"AutoNight.Settings.UpdateLocation.Error" = "No podem determinar la vostra ubicació. Comproveu la configuració del sistema i torneu-ho a provar.";
+
+"DarkMode.Confirm.NightMode.Header" = "Mode nocturn";
+"DarkMode.Confirm.NightMode.Text" = "Heu activat el mode nocturn automàtic. Si voleu canviar el mode fosc, primer heu de desactivar-lo.";
+"DarkMode.Confirm.NightMode.OK" = "Desactiva";
+
+"Gallery.Context.Share.ThisPhoto" = "Aquesta foto";
+"Gallery.Context.Share.AllPhotos_countable" = "%d";
+
+"Gallery.Context.Share.AllPhotos_one" = "Una foto";
+
+
+
+"Gallery.Context.Share.AllPhotos_other" = "Totes les %d fotos";
+
+
+"Gallery.Context.Share.ThisVideo" = "Aquest vídeo";
+"Gallery.Context.Share.AllVideos_countable" = "%d";
+
+"Gallery.Context.Share.AllVideos_one" = "Els %d vídeos";
+
+
+
+"Gallery.Context.Share.AllVideos_other" = "Els %d vídeos";
+
+"Gallery.Context.Share.AllItems_countable" = "%d";
+
+"Gallery.Context.Share.AllItems_one" = "Els %d elements";
+
+
+
+"Gallery.Context.Share.AllItems_other" = "Els %d elements";
+
+
+"Gallery.Context.ShowGallery" = "Fitxers compartits";
+
+
+"TouchBar.Favorite" = "Preferit";
+"TouchBar.Recent" = "Recent";
+"TouchBar.EditMessage.ReplaceWithMedia" = "Substitueix amb una imatge o vídeo";
+"TouchBar.EditMessage.ReplaceWithFile" = "Substitueix amb un fitxer";
+"TouchBar.StartSecretChat" = "Inicia un xat secret";
+"TouchBar.Call" = "Truca";
+"TouchBar.SearchUsersOrMessages" = "Cerca missatges o usuaris";
+"TouchBar.Attach" = "Adjunta";
+"TouchBar.RecentlyUsed" = "Utilitzats fa poc";
+
+
+"RequestAcces.Error.HaveNotAccess.Call" = "El Telegram necessita accés al micròfon perquè pugueu fer trucades.";
+//"RequestAcces.Error.HaveNotAccess.VoiceMessage.Audio" = "Telegram needs access to your microphone to send voice messages";
+//"RequestAcces.Error.HaveNotAccess.VoiceMessage.Audio" = "Telegram needs access to your microphone to send voice messages";
+//"RequestAcces.Error.HaveNotAccess.VoiceMessage.Camera" = "Telegram needs access to your camera to send voice messages";
+
+"RequestAcces.Error.Conirm.Settings" = "Configuració";
+
+
+"RequestAcces.Error.HaveNotAccess.VideoMessages" = "Telegram necessita accés al micròfon i càmera per gravar missatges de vídeo.";
+"RequestAcces.Error.HaveNotAccess.VoiceMessages" = "Telegram necessita accés al micròfon per gravar missatges de veu.";
+
+
+/* new from translations.telegram.org */
+
+"ChatList.Context.PinError" = "No podeu fixar a dalt més de 5 xats.";
+"InputData.Date.Day.Placeholder" = "Dia:";
+"InputData.Date.Month.Placeholder" = "Mes:";
+"InputData.Date.Year.Placeholder" = "Any:";
+"Notifications.Snooze" = "Silencia";
+"ProxySettings.Item.LastConnection" = "última connexió %@";
+"SecureId.Add.RentalAgreement" = "Afegeix el contracte de lloguer";
+"SecureId.Edit.RentalAgreement" = "Edita el contracte de lloguer";
+"_NS103.title" = "Edita";
+"_NS167.title" = "Finestra";
+"_NS70.title" = "Visualització";
+"_NS81.title" = "Mostra";
+"_NS88.title" = "Edita";
+
+
+"SelectAreaControl.Dimension.None" = "Cap";
+"SelectAreaControl.Dimension.Original" = "Original";
+"SelectAreaControl.Dimension.Square" = "Quadrat";
+
+"Td7-aD-5lo.title" = "Finestra";
+
+
+"EditImageControl.Reset" = "RESTABLEIX";
+
+"Edit.Message.EditCurrentPhoto" = "Edita";
+
+"EditImageControl.Confirm.Discard" = "Segur que voleu descartar tots els canvis?";
+//
+
+
+
+"Message.Status.Archiving" = "%d% arxivat";
+"Message.Status.Archived" = "carpeta arxivada";
+"Message.Status.ArchivePreparing" = "s'està preparant l'arxiu";
+"Message.Status.Archive.Failed" = "no s'ha pogut crear l'arxiu";
+"Message.Status.Archive.FailedSizeLimit" = "s'ha superat el límit de mida del fitxer";
+
+
+"Chat.SendMessageError.TooMuchScheduled" = "No podeu programar més de 100 missatges.";
+
+"Chat.SendMessageErrorFlood" = "Només podeu enviar missatges a contactes mutus, de moment.";
+"Chat.SendMessageErrorGroupRestricted" = "Actualment se us ha restringit la publicació en grups públics.";
+"Chat.SendMessageSlowmodeError" = "El mode lent està activat.";
+"Generic.ErrorMoreInfo" = "Més informació";
+
+
+"Forward.ToSavedMessages" = "reenvieu els missatges aquí per a un accés ràpid";
+
+
+"GalleryView.FastSave.Image1" = "La imatge s'ha desat a\n[Baixades]()";
+"GalleryView.FastSave.Video1" = "El vídeo s'ha desat a\n[Baixades]()";
+"GalleryView.FastSave.Gif1" = "El GIF s'ha desat a\n[Baixades]()";
+
+
+"Localization.Preview.Error.Generic" = "Sembla que aquesta llengua no existeix.";
+"ApplyLanguage.UnsufficientDataTitle" = "Dades insuficients";
+"ApplyLanguage.UnsufficientDataText" = "Aquest paquet de llengua personalitzat (%@) no conté dades per al Telegram macOS. Podeu contribuir-hi utilitzant la plataforma de traducció.";
+"ApplyLanguage.UnsufficientDataOpenPlatform" = "Plataforma de traducció";
+
+
+"ApplyLanguage.ChangeLanguageTitle" = "Voleu canviar la llengua?";
+"ApplyLanguage.ChangeLanguageUnofficialText" = "Aquest paquet de llengua personalitzat **%@** està complet al %@%.\n\nEs traduirà tota la interfície. Podeu suggerir correccions a la [plataforma de traducció]().\n\nPodeu tornar a canviar la llengua en qualsevol moment a la Configuració.";
+"ApplyLanguage.ChangeLanguageOfficialText" = "Esteu a punt d'aplicar un paquet de llengua **%@**.\n\nAixò traduirà tota la interfície. Podeu suggerir correccions a la [plataforma de traducció]().\n\nPodeu tornar a canviar la llengua en qualsevol moment a la Configuració.";
+"ApplyLanguage.ChangeLanguageAction" = "Canvia";
+"ApplyLanguage.ApplyLanguageAction" = "Canvia";
+"ApplyLanguage.ChangeLanguageAlreadyActive" = "Ja esteu usant la llengua %@.";
+
+"Language.OfficialTransationsHeader" = "TRADUCCIONS OFICIALS";
+
+
+
+"TwoStepAuth.EmailCodeInvalid" = "Heu introduït un codi erroni. Torneu a provar-ho.";
+"TwoStepAuth.EmailCodeExpired" = "El codi de confirmació ha vençut. Torneu a provar-ho.";
+"UnknownError" = "S'ha produït un error. Torneu a provar-ho més tard.";
+
+
+"Chat.Poll.TotalVotes1_countable" = "%d";
+
+"Chat.Poll.TotalVotes1_one" = "%d vot";
+
+
+
+"Chat.Poll.TotalVotes1_other" = "%d vots";
+
+"Chat.Quiz.TotalVotes_countable" = "%d";
+
+"Chat.Quiz.TotalVotes_one" = "%d resposta";
+
+
+
+"Chat.Quiz.TotalVotes_other" = "%d respostes";
+
+
+"Chat.Poll.Tooltip.NoVotes" = "Sense vots";
+"Chat.Poll.Tooltip.Votes_countable" = "%d";
+
+"Chat.Poll.Tooltip.Votes_one" = "%d vot";
+
+
+
+"Chat.Poll.Tooltip.Votes_other" = "%d vots";
+
+
+
+"Chat.Quiz.Tooltip.Votes_countable" = "%d";
+
+"Chat.Quiz.Tooltip.Votes_one" = "%d resposta";
+
+
+
+"Chat.Quiz.Tooltip.Votes_other" = "%d respostes";
+
+
+"Chat.Poll.TotalVotesEmpty" = "Encara no hi ha cap vot";
+"Chat.Poll.TotalVotesResultEmpty" = "Sense vots";
+
+
+
+
+"Chat.Poll.Result" = "%@%";
+"Chat.Poll.Type.Anonymous" = "Enquesta anònima";
+"Chat.Poll.Type.Public" = "Enquesta";
+
+
+"Chat.Poll.Type.Closed" = "Resultats finals";
+
+"Chat.Poll.Unvote" = "Retira el vot";
+"Chat.Poll.Stop" = "Atura l’enquesta";
+"Chat.Poll.Stop.Confirm.Header" = "Voleu aturar l'enquesta?";
+"Chat.Poll.Stop.Confirm.Text" = "Si tanqueu l’enquesta, ningú ja no hi podrà votar. Aquesta acció no es pot desfer.";
+
+"Chat.Poll.ViewResults" = "Mostra els resultats";
+"Chat.Poll.SubmitVote" = "Envia el vot";
+
+
+
+
+
+
+
+"Language.RemovePack" = "Segur que voleu eliminar aquest paquet de llengua?";
+
+"NewPoll.Title" = "Enquesta nova";
+
+"NewPoll.QuestionHeader" = "PREGUNTA";
+
+"NewPoll.QuestionHeaderLimit" = "PREGUNTA (%d)";
+
+"NewPoll.QuestionPlaceholder" = "Formuleu una pregunta";
+"NewPoll.OptionsHeader" = "OPCIONS DE L'ENQUESTA";
+"NewPoll.OptionsPlaceholder" = "Opció";
+"NewPoll.OptionsAddOption" = "Afegeix una opció";
+
+
+
+
+
+
+"NewPoll.OptionsDescription_countable" = "%d";
+
+"NewPoll.OptionsDescription_one" = "Podeu afegir %d opció més.";
+
+
+
+"NewPoll.OptionsDescription_other" = "Podeu afegir %d opcions més.";
+
+
+"NewPoll.OptionsDescriptionMinimum_countable" = "%d";
+
+"NewPoll.OptionsDescriptionMinimum_one" = "Mínim %d opció";
+
+
+
+"NewPoll.OptionsDescriptionMinimum_other" = "Mínim %d opcions";
+
+
+
+"NewPoll.OptionsDescriptionLimitReached" = "Heu afegit el nombre d’opcions màxim.";
+
+"NewPoll.DisacardConfirm" = "Segur que voleu descartar l’enquesta?";
+"NewPoll.DisacardConfirmHeader" = "Enquesta";
+
+"NewPoll.DisacardConfirm.Yes" = "Descarta-la";
+"NewPoll.DisacardConfirm.No" = "No";
+
+
+
+
+
+"NewPoll.QuizDesc" = "En el mode concurs, només hi ha una resposta correcta. El vot no es pot retirar.";
+
+
+
+
+
+"PollResults.LoadMore_countable" = "%d";
+
+"PollResults.LoadMore_one" = "Mostra’n més (%d)";
+
+
+
+"PollResults.LoadMore_other" = "Mostra’n més (%d)";
+
+
+"Passport.ResetPassword.Confirm.Header" = "Contrasenya oblidada";
+"Passport.ResetPassword.Confirm.Text" = "Tots els documents pujats al Telegram Passports es perdran. Però podreu pujar-ne de nous.";
+"Passport.ResetPassword.Confirm.OK" = "Restableix";
+
+
+"CancelResetAccount.Title" = "Cancel·la el restabliment";
+"CancelResetAccount.TextSMS" = "Algú amb accés al vostre número **%@** ha sol·licitat eliminar el vostre compte del Telegram i restablir la contrasenya de la verificació en 2 passos.\n\nSi no en sabeu res, introduïu el codi que us acabem d'enviar per SMS al vostre número.";
+"CancelResetAccount.Success" = "S'ha cancel·lat el procés d'eliminació del compte %@.";
+
+
+
+"InstantPage.RelatedArticleAuthorAndDateTitle" = "%@ • %@";
+
+
+
+
+
+
+"Chat.Unsupported.UpdatedApp" = "ACTUALITZA";
+"Chat.Message.UnsupportedNew" = "Aquest missatge no és compatible amb la vostra versió del Telegram. Actualitzeu-lo a l'última versió.";
+
+
+
+
+"Channel.BanUser.Title" = "Bandeja l'usuari";
+"Channel.BanUser.PermissionsHeader" = "Restriccions de l'usuari";
+"Channel.BanUser.PermissionReadMessages" = "Llegir els missatges";
+"Channel.BanUser.PermissionSendMessages" = "Enviar missatges";
+"Channel.BanUser.PermissionSendMedia" = "Enviar fitxers multimèdia";
+"Channel.BanUser.PermissionSendStickersAndGifs" = "Enviar adhesius i GIF";
+"Channel.BanUser.PermissionEmbedLinks" = "Incrustar enllaços";
+"Channel.BanUser.PermissionSendPolls" = "Enviar enquestes";
+"Channel.BanUser.PermissionChangeGroupInfo" = "Canviar la informació del grup";
+"Channel.BanUser.PermissionAddMembers" = "Afegir membres";
+"Channel.BanUser.Unban" = "Deixa de bandejar";
+
+
+
+"GroupPermission.NoSendMessages" = "ni missatges";
+"GroupPermission.NoSendMedia" = "ni fitxers";
+"GroupPermission.NoSendGifs" = "ni GIF";
+"GroupPermission.NoSendPolls" = "ni enquestes";
+"GroupPermission.NoSendLinks" = "ni enllaços";
+"GroupPermission.NoChangeInfo" = "ni informació";
+"GroupPermission.NoAddMembers" = "ni afegir";
+"GroupPermission.NoPinMessages" = "ni fixar";
+
+"GroupPermission.Title" = "Excepció";
+"GroupPermission.NewTitle" = "Excepció nova";
+"GroupPermission.SectionTitle" = "QUÈ POT FER AQUEST MEMBRE?";
+"GroupPermission.Duration" = "Durada";
+"GroupPermission.AddedInfo" = "Excepció afegida per %@ %@";
+"GroupPermission.Delete" = "Elimina l'excepció";
+"GroupPermission.ApplyAlertText" = "Heu canviat els permisos de l'usuari al %@.\nVoleu aplicar els canvis?";
+"GroupPermission.ApplyAlertAction" = "Aplica";
+"GroupPermission.AddSuccess" = "S'ha afegit l’excepció";
+"GroupPermission.NotAvailableInPublicGroups" = "Aquest permís no està disponible en grups públics.";
+
+
+
+"Telegram.ChannelPermissionsController" = "Permisos";
+"GroupInfo.Permissions.SectionTitle" = "QUÈ PODEN FER ELS MEMBRES D'AQUEST GRUP?";
+"GroupInfo.Permissions.Removed" = "Usuaris eliminats";
+"GroupInfo.Permissions.Exceptions" = "EXCEPCIONS";
+"GroupInfo.Permissions.AddException" = "Afegeix una excepció";
+"GroupInfo.Permissions.SearchPlaceholder" = "Cerca excepcions";
+
+"GroupInfo.Administrators" = "Administradors";
+"GroupInfo.Administrators.Title" = "Administradors";
+
+
+
+
+"Time.PreciseDate_m1" = "%@ de gener de %@, a les %@";
+"Time.PreciseDate_m2" = "%@ de febrer de %@, a les %@";
+"Time.PreciseDate_m3" = "%@ de març de %@, a les %@";
+"Time.PreciseDate_m4" = "%@ d'abril de %@, a les %@";
+"Time.PreciseDate_m5" = "%@ de maig de %@, a les %@";
+"Time.PreciseDate_m6" = "%@ de juny de %@, a les %@";
+"Time.PreciseDate_m7" = "%@ de juliol de %@, a les %@";
+"Time.PreciseDate_m8" = "%@ d'agost de %@, a les %@";
+"Time.PreciseDate_m9" = "%@ de setembre de %@, a les %@";
+"Time.PreciseDate_m10" = "%@ d'octubre de %@, a les %@";
+"Time.PreciseDate_m11" = "%@ de novembre de %@, a les %@";
+"Time.PreciseDate_m12" = "%@ de desembre de %@, a les %@";
+
+
+"Time.TodayAt" = "avui a les %@";
+"Time.YesterdayAt" = "ahir a les %@";
+
+
+"EmptyGroupInfo.Title" = "Heu creat un grup";
+"EmptyGroupInfo.Subtitle" = "Els grups poden tenir:";
+"EmptyGroupInfo.Line1" = "Fins a %@ membres";
+"EmptyGroupInfo.Line2" = "• Historial persistent";
+"EmptyGroupInfo.Line3" = "• Enllaços públics, com t.me/títol";
+"EmptyGroupInfo.Line4" = "Administradors amb rols diferents";
+
+
+"Chat.UndoManager.Undo" = "Desfés";
+
+
+
+"Chat.UndoManager.ChatsDeleted_countable" = "%d";
+
+"Chat.UndoManager.ChatsDeleted_one" = "S'ha eliminat un xat";
+
+
+
+"Chat.UndoManager.ChatsDeleted_other" = "S'han eliminat %d xats";
+
+"Chat.UndoManager.ChatsHistoryCleared_countable" = "%d";
+
+"Chat.UndoManager.ChatsHistoryCleared_one" = "S'ha esborrat l'historial";
+
+
+
+"Chat.UndoManager.ChatsHistoryCleared_other" = "S'han esborrat %d historials";
+
+
+"Chat.UndoManager.ChatsArchived_countable" = "%d";
+
+"Chat.UndoManager.ChatsArchived_one" = "Xat arxivat";
+
+
+
+"Chat.UndoManager.ChatsArchived_other" = "%d xats arxivats";
+
+
+"Chat.UndoManager.ChatLeft_countable" = "%d";
+
+"Chat.UndoManager.ChatLeft_one" = "Heu abandonat el xat";
+
+
+
+"Chat.UndoManager.ChatLeft_other" = "Heu abandonat %d xats";
+
+"Chat.UndoManager.ChannelLeft_countable" = "%d";
+
+"Chat.UndoManager.ChannelLeft_one" = "Heu abandonat el canal";
+
+
+
+"Chat.UndoManager.ChannelLeft_other" = "Heu abandonat %d canals";
+
+"Chat.UndoManager.ChannelDeleted_countable" = "%d";
+
+"Chat.UndoManager.ChannelDeleted_one" = "S'ha eliminat un canal";
+
+
+
+"Chat.UndoManager.ChannelDeleted_other" = "S'han eliminat %d canals";
+
+
+
+"Gallery.SaveGif" = "Desa el GIF";
+
+"WallpaperPreview.Blurred" = "Difuminat";
+"WallpaperPreview.Header" = "Vista prèvia del fons";
+//
+
+
+
+"Channel.ErrorAddBlocked" = "No podeu afegir aquest usuari a cap canal.";
+"Channel.ErrorAddTooMuch" = "Només hi podeu afegir els primers 200 membres. Per a nombres majors, l'adhesió s'ha de fer a través de l'enllaç del canal.";
+
+"WallpaperPreview.DoesntExists" = "Aquest fons sembla que no existeix.";
+"WallpaperPreview.Apply" = "Aplica";
+"Chat.WP.BackgroundTitle" = "Fons del xat";
+
+"Chat.WP.SelectFromFile" = "Selecciona un fitxer";
+"Chat.WP.FirstMessage" = "Pessigueu, llisqueu o toqueu dues vegades per a seleccionar l'àrea del fons.";
+"Chat.WP.SecondMessage" = "Pessiga'm, estic somiant!";
+
+"Chat.WP.Color.FirstMessage" = "Premeu Aplica a per establir el fons";
+"Chat.WP.Color.SecondMessage" = "Gaudiu de les vistes";
+
+"Chat.WP.Pattern.None" = "Cap";
+"Chat.WP.Pattern" = "Patró";
+"Chat.WP.Color" = "Color";
+"Chat.WP.Intensity" = "Intensitat del patró";
+
+
+
+"AccountViewController.Update" = "Actualització";
+"AccountViewController.Desc.Updated" = "actualitzat";
+"AccountViewController.Desc.Failed" = "ha fallat";
+
+"Update.UpdateTelegram" = "Actualitza el Telegram";
+"AppUpdate.CheckForUpdates" = "Cerca actualitzacions";
+"AppUpdate.DownloadUpdate" = "Baixa l'actualització";
+"AppUpdate.RetrievingInfo" = "S'està obtenint informació...";
+"AppUpdate.Downloading" = "S'està baixant...";
+"AppUpdate.Unarchiving" = "S'està descomprimint...";
+"AppUpdate.Title" = "Actualitzacions";
+"AppUpdate.Uptodate" = "Teniu l'última versió del Telegram.";
+"AppUpdate.NewestAvailable" = "Actualitzeu l'aplicació per a obtenir les últimes característiques i millores.";
+"AppUpdate.Title.New" = "VERSIÓ NOVA (la vostra versió: %@)";
+"AppUpdate.Title.Previous" = "VERSIONS ANTERIORS";
+
+
+"DataAndStorage.Autoplay.Header" = "REPRODUCCIÓ AUTOMÀTICA";
+"DataAndStorage.Autoplay.GIFs" = "GIF";
+"DataAndStorage.Autoplay.Videos" = "Vídeos";
+"DataAndStorage.Autoplay.SoundOnHover" = "So en passar-hi per sobre";
+"DataAndStorage.Autoplay.SoundOnHover.Desc" = "Es reproduirà un so en moure el cursor per sobre el vídeo.";
+
+"DataAndStorage.Category.PreloadLargeVideos" = "Precarrega els vídeos més grans";
+"DataAndStorage.Category.PreloadLargeVideosDesc" = "Precarrega els primers segons (1-2 MB) dels vídeos majors de %@  per a un accés immediat.";
+
+
+
+"Confirm.Header.PermissionInlineBotContact" = "Voleu compartir el vostre número?";
+"Confirm.Desc.PermissionInlineBotContact" = "El bot coneixerà el vostre número de telèfon. Això pot ser útil per a la integració amb altres serveis.";
+
+
+"AutoDownloadSettings.OnForAll" = "Activada en tots els xats";
+"AutoDownloadSettings.OnFor" = "Activada per a %@";
+"AutoDownloadSettings.TypePrivateChats" = "Xats privats";
+"AutoDownloadSettings.TypeGroupChats" = "Grups";
+"AutoDownloadSettings.TypeChannels" = "Canals";
+"AutoDownloadSettings.UpToForAll" = "Fins a %@ per a tots els xats";
+"AutoDownloadSettings.UpToFor" = "Fins a %@ per als %@";
+"AutoDownloadSettings.OffForAll" = "Desactivada en tots els xats";
+"AutoDownloadSettings.Delimeter" = ", ";
+"AutoDownloadSettings.LastDelimeter" = " i ";
+
+
+
+"LogoutOptions.Title" = "Desconnexió";
+"LogoutOptions.AlternativeOptionsSection" = "OPCIONS ALTERNATIVES";
+"LogoutOptions.AddAccountTitle" = "Afegeix un altre compte";
+"LogoutOptions.AddAccountText" = "Connecteu altres comptes del Telegram i alterneu entre ells fàcilment.";
+"LogoutOptions.SetPasscodeTitle" = "Estableix un codi d’accés";
+"LogoutOptions.SetPasscodeText" = "Bloqueu l'aplicació amb un codi d'accés perquè ningú no hi pugui accedir.";
+"LogoutOptions.ClearCacheTitle" = "Esborra la memòria cau";
+"LogoutOptions.ClearCacheText" = "Allibereu espai intern al dispositiu; els fitxers romandran al núvol.";
+"LogoutOptions.ChangePhoneNumberTitle" = "Canvia el número de telèfon";
+"LogoutOptions.ChangePhoneNumberText" = "Moveu el contactes, grups, missatges i fitxers a un altre número.";
+"LogoutOptions.ContactSupportTitle" = "Contacta amb l'assistència";
+"LogoutOptions.ContactSupportText" = "Aviseu-nos de qualsevol errada; tancar la sessió no sol ajudar.";
+"LogoutOptions.LogOut" = "Tanca la sessió";
+"LogoutOptions.LogOutInfo" = "Recordeu, en tancar la sessió perdreu els xats secrets.";
+
+
+"Chat.Video.Processing" = "s'està processant...";
+
+"CallSettings.Title" = "Opcions de trucada";
+"CallSettings.Output.Title" = "SO";
+"CallSettings.Output.Text" = "Dispositiu de sortida";
+"CallSettings.Input.Title" = "MICRÒFON";
+"CallSettings.Input.Text" = "Dispositiu d'entrada";
+"CallSettings.OtherSettings.Title" = "ALTRES OPCIONS";
+"CallSettings.MuteSound" = "Silencia els altres sons durant les trucades";
+"CallSettings.OpenSystemPreferences" = "Obre les preferències del sistema";
+
+
+"Telegram.ChannelStatisticsController" = "Estadístiques del canal";
+
+
+"AccountSettings.AddAccount" = "Afegeix un compte";
+"AccountSettings.DeleteAccount" = "Elimina el compte";
+
+
+"PasscodeController.Install.Title" = "Codi d'accés";
+"PasscodeController.Change.Title" = "Canvia el codi d'accés";
+"PasscodeController.Disable.Title" = "Desactiva el codi d'accés";
+
+"PasscodeController.EnterPasscode.Placeholder" = "Introduïu un codi d'accés";
+"PasscodeController.ReEnterPasscode.Placeholder" = "Torneu a introduir el codi d'accés nou";
+
+"PasscodeController.Current.Placeholder" = "Introduïu el codi d'accés actual";
+
+
+"PasscodeController.Header.Current" = "CODI D'ACCÉS ACTUAL";
+"PasscodeController.Header.New" = "CODI D'ACCÉS NOU";
+
+"PasscodeController.Text" = "Per a blocar-lo, passeu sobre la icona Configuració de la barra de pestanyes i trieu «Bloca el Telegram», o useu ⌘ + L.\n\nNota: si oblideu el codi d'accés local, haureu de tancar sessió del Telegram pera macOS i iniciar-hi sessió una altra vegada.";
+
+"PasscodeController.Error.Different" = "els codis d'accés són diferents";
+"PasscodeController.Error.Current" = "codi d'accés no vàlid";
+
+
+"Passlock.EnterYourPasscode" = "Introduïu el codi d'accés";
+
+
+"Login.PhoneNumberAlreadyAuthorized" = "Aquest compte ja ha iniciat sessió en l'aplicació.";
+"Login.PhoneNumberAlreadyAuthorized.Switch" = "Commuta";
+
+"InputFormatter.Text.Header" = "TEXT";
+"InputFormatter.URL.Header" = "URL";
+"InputFormatter.URL.Placeholder" = "URL";
+
+
+"_NS:99.title" = "Edita";
+"_NS:77.title" = "Mostra";
+"_NS:163.title" = "Finestra";
+
+
+
+"NotificationSettings.ShowNotificationsFrom" = "MOSTRA LES NOTIFICACIONS DE";
+"NotificationSettings.AllAccounts" = "Tots els comptes";
+"NotificationSettings.ShowNotificationsFrom.On" = "Desactiveu-ho si només voleu rebre notificacions del vostre compte actiu.";
+"NotificationSettings.ShowNotificationsFrom.Off" = "Activeu-ho si voleu rebre notificacions de tots els vostres comptes.";
+
+
+"NotificationSettings.SnoofHeader" = "EN ESTAR EN PRIMER PLA";
+"NotificationSettings.Snoof" = "Mostra les notificacions";
+"NotificationSettings.Snoof.On" = "Desactiveu-ho si només voleu rebre notificacions quan l'aplicació no té el focus";
+"NotificationSettings.Snoof.Off" = "Activeu-ho si voleu rebre notificacions sempre.";
+
+
+"Login.Register.Desc" = "Introduïu el vostre nom i afegiu una foto de perfil.";
+"Login.Register.FirstName.Placeholder" = "Nom";
+"Login.Register.LastName.Placeholder" = "Cognoms";
+"Login.Register.AddPhoto.Placeholder" = "afegeix\nuna foto";
+"Login.InvalidFirstNameError" = "El nom no és vàlid. Torneu-ho a provar.";
+"Login.InvalidLastNameError" = "El cognom no és vàlid. Torneu-ho a provar.";
+
+
+"ChatList.EmptyText" = "**No teniu cap xat encara**\nEnvieu missatges tocant el botó del llapis de la part superior dreta o anant a la secció «Contactes».";
+
+
+"ChatList.Archive.Back" = "Xats";
+
+"ChatList.Popover.ReadAll" = "Tot llegit";
+"ChatList.Popover.Confirm" = "Segur que voleu marcar tots els xats com a llegits?";
+
+
+"Chat.Tooltip.HiddenForwardName" = "L'usuari ha ocultat el seu compte";
+
+
+"GeneralSettings.EmojiPrediction.DisableText" = "Voleu desactivar els suggeriments d’emojis? Podeu tornar-los a activar en la configuració en qualsevol moment.";
+"GeneralSettings.EmojiPrediction.Disable" = "Desactiva";
+"GeneralSettings.EmojiPrediction" = "Suggereix un emoji";
+
+"GeneralSettings.StatusBarItem" = "Element de la barra de menú";
+
+
+"NotificationSettings.ContactJoined" = "Contactes nous";
+"NotificationSettings.ContactJoinedInfo" = "Rebreu notificacions quan algun dels vostres contactes estigui disponible al Telegram.";
+
+
+
+"Chat.ViewBackground" = "MOSTRA EL FONS";
+
+
+"GeneralSettings.BigEmoji" = "Emojis grossos";
+
+
+"App.Tooltip.VoiceRecord" = "Toqueu una vegada per a canviar a vídeo";
+"App.Tooltip.VideoRecord" = "Toqueu una vegada per a canviar a àudio";
+
+
+
+"StatusBar.Activate" = "Activa";
+"StatusBar.Hide" = "Amaga";
+"StatusBar.Quit" = "Surt";
+
+"Chat.Service.SearchAllMessages" = "Cerca missatges de %@";
+
+"TextView.Transform.RemoveAll" = "Esborra les transformacions";
+"ChatList.ArchivedChats" = "Xats arxivats";
+
+"Telegram.UpgradeDatabase.Title" = "Optimització de la base de dades";
+"Telegram.UpgradeDatabase.Text" = "El Telegram ha d’optimitzar la seva base de dades després d’aquesta actualització. Això pot trigar uns minuts.";
+
+
+"Notification.MarkAsRead" = "Marca-ho com a llegit";
+
+
+"Archive.Tooltip.First.Title" = "S’ha arxivat el xat";
+"Archive.Tooltip.First.Text" = "els xats amb notificacions actives es restableixen si arriben missatges nous.";
+
+"Archive.Tooltip.Second.Title" = "S’ha arxivat el xat";
+"Archive.Tooltip.Second.Text" = "els xats silenciats es mantenen arxivats encara que arribin missatges nous.";
+
+"Archive.Tooltip.Third.Title" = "S'ha arxivat el xat";
+"Archive.Tooltip.Third.Text" = "podeu fixar un número il·limitat de xats arxivats en la part superior.";
+
+"Archive.Tooltip.JustArchive.Title" = "S'ha arxivat el xat.";
+
+
+"ChatList.RevealAction.Collapse" = "Replega";
+"ChatList.RevealAction.Expand" = "Desplega";
+
+
+"Privacy.GroupsAndChannels.InviteToChannelMultipleError" = "No podeu crear un grup amb aquests usuaris a causa de la seva configuració de privadesa.";
+"PeerInfo.ScamWarning" = "⚠️ Atenció: Molts usuaris han notificat aquest compte com a una estafa. Aneu amb compte, sobretot si us demana diners.";
+"ChannelInfo.ScamWarning" = "⚠️ Atenció: Molts usuaris han notificat aquest compte com a una estafa. Aneu amb compte, especialment si us demana diners.";
+"GroupInfo.ScamWarning" = "⚠️ Atenció: Molts usuaris han notificat aquest compte com a una estafa. Aneu amb compte, especialment si us demana diners.";
+
+
+"Mark.Scam" = "ESTAFA";
+
+
+"GeneralSettings.CopyRTF" = "Copia el format del text";
+
+
+"ChatList.RevealAction.Hide" = "Amaga";
+"ChatList.RevealAction.Pin" = "Fixa";
+
+
+"Bot.InlineAuth.Header" = "Obre l'enllaç";
+"Bot.InlineAuth.Title" = "Voleu obrir\n%@?";
+"Bot.InlineAuth.Open" = "Obre";
+
+"Bot.InlineAuth.Option.Login" = "Inicia sessió a %@ com a %@";
+"Bot.InlineAuth.Option.AllowSendMessages" = "Permet que el %@ m'enviï missatges";
+
+
+"PeerInfo.Discussion" = "Debat";
+"PeerInfo.LinkedChannel" = "Canal enllaçat";
+"PeerInfo.Discussion.Add" = "Afegeix";
+"PeerInfo.Discussion.Desc" = "Afegiu un grup per a fer comentaris.";
+
+
+"DiscussionController.Group.Title" = "Canal enllaçat";
+"DiscussionController.Channel.Title" = "Grup de debat";
+
+"DiscussionController.Channel.Empty.Header" = "Seleccioneu un grup per a debatre que es mostrarà al vostre canal.";
+"DiscussionController.Channel.Empty.CreateGroup" = "Crea un grup";
+"DiscussionController.Channel.Empty.Description" = "Tot el que envieu al canal es reenviarà a aquest grup.";
+
+
+"DiscussionController.PrivateGroup" = "grup privat";
+"DiscussionController.PrivateChannel" = "canal privat";
+
+
+
+
+"Discussion.Set.Modal.OK" = "Enllaça'l";
+
+
+"Discussion.Set.Modal.Text.PublicChannelPublicGroup" = "Voleu convertir **%@** en el tauler de debat del **%@**?";
+"Discussion.Set.Modal.Text.PrivateChannelPublicGroup" = "Voleu convertir **%@** en el tauler de debat de **%@**?\n\nQualsevol membre del grup podrà veure tots els missatges del canal.";
+"Discussion.Set.Modal.Text.ChannelPrivateGroup" = "Voleu convertir **%@** en el tauler de debat de **%@**?\n\nQualsevol membre del grup podrà veure els missatge del canal.";
+
+"DiscussionController.Channel.Set.Header" = "Tots els subscriptors veuran a la part inferior un enllaç a ** %@**.";
+"DiscussionController.Channel.Set.Description" = "Tot el que envieu al canal es reenviarà a aquest grup.";
+
+"DiscussionController.Channel.Set.UnlinkGroup" = "Desenllaça'l";
+
+
+"DiscussionController.Group.Set.Header" = "Aquest grup s'ha enllaçat com a tauler de debat de **%@**.";
+"DiscussionController.Group.Set.Description" = "Tots els missatges nous publicats al canal es reenviaran al grup.";
+
+"DiscussionController.Group.Set.UnlinkChannel" = "Desenllaça'l";
+
+
+"DiscussionController.Confrim.UnlinkChannel" = "Segur que voleu desenllaçar el canal d'aquest grup?";
+"DiscussionController.Confrim.UnlinkGroup" = "Segur que voleu desenllaçar el grup d'aquest canal?";
+
+
+"PrivacyAndSecurity.Item.Off" = "Desactivat";
+"PrivacyAndSecurity.Item.On" = "Activat";
+
+"DiscussionController.Group.Unset.Description" = "El canal desenllaçat amb èxit.";
+
+"DiscussionController.IconText" = "Debat";
+
+
+"Channel.EventLog.MessageChangedLinkedGroup" = "%@ ha enllaçat %@ com a grup de debat";
+"Channel.EventLog.MessageChangedLinkedChannel" = "%@ ha enllaçat aquest grup a %@";
+"Channel.EventLog.MessageChangedUnlinkedGroup" = "%@ ha eliminat el grup de debat";
+"Channel.EventLog.MessageChangedUnlinkedChannel" = "%@ ha desenllaçat aquest grup de %@";
+
+
+"DiscussionController.Error.PreHistory" = "Atenció: Si establiu aquest grup privat com el de debat del canal, tots els subscriptors hi podran accedir. L'opció «Historial per als membres nous» es commutarà a Visible.";
+"DiscussionController.Error.OK" = "Continua";
+
+
+"PreHistory.Confirm.Unlink" = "Atenció, això desenllaçarà el grup de «%@»";
+
+
+
+"Channel.Error.DontHavePermissions" = "No teniu els permisos necessaris per a aquesta acció.";
+
+
+
+"Channel.AddBotErrorHaveRights" = "Els bots només es poden afegir com a administradors.";
+"Channel.AddBotAsAdmin" = "FES ADMIN";
+"Channel.AddBotErrorNoRights" = "Els bots només es poden afegir als canals com a administradors.";
+
+
+"Search.Confirm.ClearHistory" = "Segur que voleu esborrar l'historial de cerca?";
+
+
+"InputPasswordController.Placeholder" = "Contrasenya";
+"InputPasswordController.Error.WrongPassword" = "La contrasenya no és vàlida. Torneu a provar-ho";
+
+
+
+"NewContact.Title" = "Contacte nou";
+
+"NewContact.Phone.Hidden" = "Ocult";
+"NewContact.Phone" = "número de telèfon";
+"NewContact.Phone.Hidden.Text" = "El número serà **visible** quan %@ us afegeixi com a contacte.";
+"NewContact.Exception.ShareMyPhoneNumber" = "Comparteix el meu número";
+"NewContact.Exception.ShareMyPhoneNumber.Desc" = "Podeu fer que el vostre telèfon sigui visible per a %@.";
+
+
+"Channel.TransferOwner.Error.Title" = "Comprovació de seguretat";
+"Channel.TransferOwner.Error.Text" = "Podeu transferir la propietat només si:\n\n• Fa més de **7 dies** que vau activar la Verificació en 2 passos.\n\n• Fa més de **24 hores** que heu iniciat la sessió en aquest dispositiu.\n\nTorneu més endavant.";
+"Channel.TransferOwner.Error.Enable2FA" = "Habilita la verificació en 2 passos.";
+
+"BlockContact.Title" = "Voleu blocar %@ perquè no us enviï missatges ni trucades pel Telegram?";
+"BlockContact.Options.Title" = "Gestiona l'usuari";
+"BlockContact.Options.Action" = "Bloca %@";
+"BlockContact.Options.Report" = "Marca com a brossa";
+"BlockContact.Options.DeleteChat" = "Elimina el xat";
+
+
+"Group.TransferOwner.ErrorPrivacyRestricted" = "L'usuari no és membre del grup, i la seva configuració de privadesa no permet que l'hi afegiu manualment.";
+"Channel.TransferOwner.ErrorPrivacyRestricted" = "L'usuari no és membre del canal, i la seva configuració de privadesa no permet que l'hi afegiu manualment.";
+
+"Channel.TransferOwner.ErrorPublicChannelsTooMuch" = "L'usuari ja té massa grups o canals públics. Demaneu-li que primer en faci algun privat.";
+
+"Group.TransferOwner.ErrorAdminsTooMuch" = "El grup té massa administradors i el nou propietari no s'hi pot afegir. Elimineu primer algun dels administradors actuals.";
+"Channel.TransferOwner.ErrorAdminsTooMuch" = "El canal té massa administradors i el nou propietari no s'hi pot afegir. Elimineu primer algun dels administradors actuals.";
+
+"Group.OwnershipTransfer.ErrorLocatedGroupsTooMuch" = "L'usuari ja té massa grups basat en la ubicació. Demaneu-li que primer elimini alguns dels que té.";
+
+
+"Channel.BotDoesntSupportGroups" = "Aquest bot ens diu que no vol ser afegit a grups. No podeu afegir-lo si no és que el seu autor canvia d'idea. ";
+"Channel.TooMuchBots" = "Ja hi ha massa bots en aquest grup. Primer treieu-ne algun dels que no feu servir.";
+
+
+"Channel.Permissions.SlowMode.Text.Off" = "Trieu quant haurà d'esperar cada membre abans d'enviar un missatge nou.";
+"Channel.Permissions.SlowMode.Text.Selected" = "Els membres només podran enviar un sol missatge cada %@";
+
+"Channel.Permissions.SlowMode.Header" = "MODE LENT";
+
+"Channel.SlowMode.ToolTip" = "El mode lent està activat.\nPodeu enviar un nou missatge d'aquí %@:%@";
+
+"SlowMode.Multiple.Error" = "El mode lent està activat. No podeu enviar més d'un missatge alhora.";
+"SlowMode.ForwardComment.Error" = "El mode lent està activat. No podeu reenviar un missatge amb un comentari.";
+"SlowMode.TooLong.Error" = "El mode lent està activat. Aquest text és massa llarg per enviar en un sol missatge.";
+
+
+"SlowMode.PreviewSender.FileTooltip" = "El mode lent està activat.\nNo podeu enviar diversos fitxers alhora.";
+"SlowMode.PreviewSender.MediaTooltip" = "El mode lent està activat.\nNo podeu enviar diversos fitxers alhora.";
+"SlowMode.PreviewSender.Comment" = "El mode lent està activat.\nNo podeu afegir un comentari.";
+
+
+"Channel.Permissions.SlowMode.Timeout.Off" = "No";
+"Channel.Permissions.SlowMode.Timeout.10s" = "10 s";
+"Channel.Permissions.SlowMode.Timeout.30s" = "30 s";
+"Channel.Permissions.SlowMode.Timeout.1m" = "1 min";
+"Channel.Permissions.SlowMode.Timeout.5m" = "5 min";
+"Channel.Permissions.SlowMode.Timeout.15m" = "15 min";
+"Channel.Permissions.SlowMode.Timeout.1h" = "1 h";
+
+
+"Channel.Admin.Role.Header" = "TÍTOL PERSONALITZAT";
+"Channel.Admin.Role.Placeholder.Owner" = "propietari";
+"Channel.Admin.Role.Placeholder.Admin" = "administrador";
+
+"Channel.Admin.Role.Admin.Desc" = "Un títol que es mostrarà enlloc d'«administrador».";
+"Channel.Admin.Role.Owner.Desc" = "Un títol que es mostrarà enlloc de «propietari».";
+
+
+"Chat.Send.WithoutSound" = "Envia-ho sense so";
+
+
+"PeerInfo.InviteError.ContactNeeded" = "Heu de formar part dels contactes de Telegram d'aquest usuari per afegir-lo a aquest grup.\n\nPoden unir-se ells mateixos si els envieu un enllaç d'invitació.";
+
+
+
+"Schedule.SendToday" = "Envia'l avui a les %@";
+"Schedule.SendDate" = "Envia'l el %@ a les %@";
+
+"Schedule.SendWhenOnline" = "Envia'l quan es connecti";
+
+
+"Chat.Send.SetReminder" = "Estableix un recordatori";
+"Chat.Send.ScheduledMessage" = "Programa un missatge";
+"ScheduleController.Title" = "Programació";
+"ScheduleController.at" = "a les";
+
+"Chat.Title.Reminder" = "Recordatori";
+"Chat.Title.ScheduledMessages" = "Missatges programats";
+"Chat.Context.ClearScheduled" = "Esborra-ho tot";
+"Chat.Context.ClearScheduled.Confirm.Header" = "Missatges programats";
+"Chat.Context.ClearScheduled.Confirm.Info" = "Segur que voleu eliminar tots els missatges programats?";
+"Chat.Context.ClearScheduled.Confirm.OK" = "Esborra-ho tot";
+
+"Chat.Date.ScheduledFor" = "Programat per al dia %@";
+"Chat.Date.ScheduledUntilOnline" = "Programat fins que es connecti";
+"Chat.Date.ScheduledForToday" = "Programat per a avui";
+
+
+"Chat.Context.Scheduled.SendNow" = "Envia ara";
+"Chat.Context.Scheduled.Reschedule" = "Reprograma";
+
+
+"Chat.Right.Context.ScheduledMessages" = "Missatges programats";
+"Chat.Right.Context.Reminder" = "Recordatori";
+
+"Notification.Reminder" = "🗓 Recordatori";
+
+
+"Join.ChannelsTooMuch" = "Sou membre de massa grups i canals. Abandoneu-ne algun abans d'unir-vos a un altre.";
+
+
+
+
+
+"Chat.Scheduled.InlineButton.Error" = "Els botons s'activaran tan bon punt s'hagi enviat el missatge.";
+
+
+"ThemePreview.Title" = "Vista prèvia";
+"AccentColors.Tinted" = "Tenyit";
+
+
+"TouchBarLabel.ChatActions" = "Accions del xat";
+"TouchBarLabel.EmojiAndStickers" = "Emojis i adhesius";
+"TouchBarLabel.NewChat" = "Xat nou";
+
+
+"PrivacyPhoneNumberSettings.CustomDisabledHelp" = "Els usuaris només veuran el vostre número al Telegram si també teniu el seu als vostres contactes.";
+
+"PrivacyPhoneNumberSettings.DiscoveryHeader" = "QUI EM POT TROBAR PEL MEU NÚMERO";
+
+
+"Theme.GetTheme.Error" = "Sembla que aquest tema no existeix per al macOS.";
+
+"NewTheme.Create" = "Crea";
+"NewTheme.Title" = "Tema nou";
+"NewTheme.Placeholder" = "Nom del tema";
+"NewTheme.Desc" = "Aquest tema es basarà en el tema actual.";
+"NewTheme.EmptyTextError" = "el nom no pot estar buit.";
+
+
+"Appearance.Theme.Remove" = "Elimina";
+"Appearance.Theme.Edit" = "Edita";
+"Appearance.NewTheme" = "Tema nou";
+
+"Appearance.ExportTheme" = "Exporta el tema";
+"Appearance.Theme.Share" = "Comparteix";
+"Appearance.CloudThemes" = "TEMES AL NÚVOL";
+
+
+"Appearance.CloudTheme.Unsupported" = "Sense versió per al macOS, toqueu per a editar";
+
+"EditTheme.Title" = "Edició del tema";
+
+"EditTheme.SelectFile" = "Creeu-lo des d’un fitxer...";
+"EditTheme.SelectUpdatedFile" = "Pugeu un fitxer...";
+"EditTheme.SelectUpdatedFileDesc" = "Podeu actualitzar el tema per a tots els usuaris pujant un fitxer amb els canvis.";
+"EditTheme.SelectFileDesc" = "El tema es basarà en el fons de pantalla i tema actuals. D'altra part, podeu usar un fitxer de tema personalitzat si ja en teniu un.";
+
+"EditTheme.NamePlaceholder" = "Nom del tema";
+"EditTheme.SlugPlaceholder" = "enllaç curt";
+"EditTheme.SlugDesc" = "El tema s’actualitzarà per a tothom cada vegada que el canvieu. Qualsevol el pot instal·lar amb aquest enllaç.\n\nL’enllaç ha de ser de 5 caràcters mínim, i podeu usar a-z, 0-9 i guions baixos.";
+"EditTheme.SlugError.AlreadyExists" = "Aquest enllaç ja està en ús. Trieu-ne un de diferent.";
+"EditTheme.SlugError.Format" = "El format no és vàlid";
+"EditTheme.Edit" = "Desa";
+"EditThame.Name.AlreadyTaken" = "Aquest nom ja es troba en ús.";
+
+
+"Appearance.Confirm.RemoveTitle" = "Tema";
+"Appearance.Confirm.RemoveText" = "Segur que voleu eliminar aquest tema?";
+"Appearance.Confirm.RemoveOK" = "Elimina";
+
+
+"Chat.Action.ViewTheme" = "MOSTRA EL TEMA";
+
+
+"ThemePreview.UsesCount_countable" = "%d";
+
+"ThemePreview.UsesCount_one" = "%d persona usa aquest tema";
+
+
+
+"ThemePreview.UsesCount_other" = "%d persones usen aquest tema";
+
+
+
+
+
+
+
+"SelectPeers.Title.SelectChat" = "Selecciona un xat";
+"SelectPeers.Title.SearchMembers" = "Cerca membres";
+
+
+"ChatList.Mute.1Hour" = "1 hora";
+"ChatList.Mute.4Hours" = "4 hores";
+"ChatList.Mute.8Hours" = "8 hores";
+"ChatList.Mute.1Day" = "1 dia";
+"ChatList.Mute.3Days" = "Durant 3 dies";
+"ChatList.Mute.Forever" = "Per sempre";
+
+
+
+
+
+
+
+
+"SettingsSearch.Synonyms.EditProfile.Username" = "àlies";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"SettingsSearch.Synonyms.Privacy.TwoStepAuth" = "Contrasenya";
+
+
+
+
+
+
+
+
+
+
+
+
+"SettingsSearch.Synonyms.Data.Storage.Title" = "Memòria cau";
+
+
+
+
+
+
+
+
+
+
+
+
+
+"SettingsSearch.Synonyms.Proxy.Title" = "SOCKS5\nMTProto";
+
+
+
+
+"SettingsSearch.Synonyms.Appearance.TextSize" = "lletra";
+"SettingsSearch.Synonyms.Appearance.ChatBackground" = "Fons de pantalla";
+
+
+
+
+
+
+
+
+
+
+"SettingsSearch.Synonyms.Watch" = "Apple Watch";
+"SettingsSearch.Synonyms.Support" = "Ajuda";
+
+
+
+
+
+
+
+"SettingsSearch.Recent.Clear" = "Esborra";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"InactiveChannels.InactiveYear_one" = "inactiu durant %d any";
+
+
+
+"InactiveChannels.InactiveYear_other" = "inactiu durant %d anys";
+
+"Chat.Edit.Cancel.Text" = "Esteu segur que voleu descartar tots els canvis?";
+
+
+
+
+"InactiveChannels.Header" = "ELS MENYS ACTIUS";
+"InactiveChannels.BlockHeader" = "Massa grups i canals";
+
+
+
+
+
+
+
+"ChatList.Filter.Back" = "Xats";
+
+"ChatList.Filter.AllChats" = "Tots els xats";
+
+//
+
+"ChatList.HideMuted" = "Amaga els silenciats";
+"ChatList.UnhideMuted" = "Mostra els silenciats";
+
+"ChatList.Filter.List.AddNew" = "Afegeix una carpeta personalitzada";
+"ChatList.Filter.List.Title" = "Carpetes de xat";
+
+"ChatList.Filter.Title" = "Carpeta";
+"ChatList.Filter.NewTitle" = "Crea una carpeta";
+"ChatList.Filter.Done" = "Crea";
+
+"ChatList.Filter.Edit" = "Edita";
+"ChatList.Filter.Delete" = "Suprimeix";
+"ChatList.Filter.AddChats" = "Afegeixi xats";
+"ChatList.Filter.EditFilters" = "Edita les carpetes";
+
+"ChatList.Filter.Include.LimitReached" = "Només podeu afegir fins a 100 xats. Proveu d'usar tipus de xats.";
+"ChatList.Filter.Exclude.LimitReached" = "Només podeu afegir fins a 100 xats. Proveu d'usar els tipus de xats.";
+
+
+"ChatList.Filter.ShowMore_countable" = "%d";
+
+"ChatList.Filter.ShowMore_one" = "Mostra %d altre xat";
+
+
+
+"ChatList.Filter.ShowMore_other" = "Mostra %d xats més";
+
+
+"ChatList.Filter.Hide_countable" = "%d";
+
+"ChatList.Filter.Hide_one" = "Amaga %d xat";
+
+
+
+"ChatList.Filter.Hide_other" = "Amaga %d xats";
+
+
+"ChatList.Filter.SetupEmpty" = "Afegeix una carpeta";
+"ChatList.Filter.Setup" = "Edita les carpetes";
+"ChatList.Filter.All" = "Tots";
+"ChatList.Filter.Contacts" = "Contactes";
+"ChatList.Filter.NonContacts" = "Altres usuaris";
+"ChatList.Filter.Groups" = "Grups";
+"ChatList.Filter.SmallGroups" = "Grups petits";
+"ChatList.Filter.SecretChat" = "Xats secrets";
+"ChatList.Filter.Channels" = "Canals";
+"ChatList.Filter.Bots" = "Bots";
+"ChatList.Filter.MutedChats" = "Silenciats";
+"ChatList.Filter.ReadChats" = "Llegits";
+"ChatList.Filter.Archive" = "Arxivat";
+
+"ChatList.Filter.List.Header" = "CARPETES";
+"ChatList.Filter.List.Desc" = "Arrossegueu i deixeu anar les carpetes per a canviar-ne l'ordre. Feu clic dret per a eliminar-les.";
+"ChatList.Filter.List.Remove" = "Elimina";
+"ChatList.Filter.Recommended.Add" = "Afegeix";
+"ChatList.Filter.Recommended.Header" = "RECOMANADES";
+"ChatList.Filter.Header" = "Creeu carpetes per a diferents grups de xats i\ncanvieu ràpidament entre elles.";
+
+
+"ChatList.Add.Placeholder" = "Seleccioneu xats...";
+"ChatList.Add.Save" = "Afegeix";
+
+"ChatList.Add.TopSeparator" = "TIPUS DE XATS";
+"ChatList.Add.BottomSeparator" = "XATS";
+
+"ChatList.CloseFilter" = "Mostra-ho tot";
+"ChatList.CloseFilterShort" = "Tots";
+
+"ChatList.Filter.Empty" = "**No hi ha cap xat que pertanyi a aquesta carpeta.**\n\n[Edita la carpeta](filter)";
+"ChatList.Filter.Tooltip" = "Podeu organitzar els xats fent-hi clic amb el botó dret.";
+
+"ChatList.Filter.Loading" = "**S'estan afegint xats**\nEspereu un moment mentre omplim aquesta carpeta...";
+
+
+"ChatList.Filter.Add.Done" = "Fet";
+"ChatList.Filter.Error.LikeChats" = "No es pot crear una carpeta que inclogui tots els xats.";
+"ChatList.Filter.Error.Empty" = "Afegiu alguns xats o tipus de xat a la carpeta.";
+
+"ChatList.Filter.Include.Desc" = "Trieu els xats i els tipus de xats que apareixeran en aquesta carpeta";
+"ChatList.Filter.Include.AddChat" = "Afegeix xats";
+"ChatList.Filter.Include.Header" = "XATS INCLOSOS";
+"ChatList.Filter.Include.RemoveChat" = "Elimina";
+
+"ChatList.Filter.Exclude.Desc" = "Trieu els xats i els tipus de xats que no apareixeran en aquesta carpeta.";
+"ChatList.Filter.Exclude.AddChat" = "Afegeix xats";
+"ChatList.Filter.Exclude.Header" = "XATS EXCLOSOS";
+"ChatList.Filter.Exclude.RemoveChat" = "Elimina";
+
+
+"ChatList.Filter.ExcludeMuted" = "Exclou els silenciats";
+"ChatList.Filter.ExcludeRead" = "Exclou els llegits";
+
+"ChatList.Filter.Categories.Header" = "INCLOU ELS TIPUS DE XATS";
+"ChatList.Filter.Name.Header" = "NOM DE LA CARPETA";
+"ChatList.Filter.Name.Placeholder" = "Nom de la carpeta";
+
+"ChatList.Filter.Confirm.Remove.Header" = "Elimina la carpeta";
+"ChatList.Filter.Confirm.Remove.Text" = "Esteu segur que voleu eliminar aquesta carpeta?";
+"ChatList.Filter.Confirm.Remove.OK" = "Suprimeix";
+
+"ChatList.Filter.Discard.Header" = "Descarta els canvis";
+"ChatList.Filter.Discard.Text" = "Esteu segur que voleu descartar tots els canvis?";
+"ChatList.Filter.Discard.OK" = "Descarta";
+"ChatList.Filter.Discard.Cancel" = "Cancel·la";
+
+
+
+"ChatList.Filter.Tilte.Default.Unmuted" = "Importants";
+"ChatList.Filter.Tilte.Default.Unread" = "Per llegir";
+"ChatList.Filter.Tilte.Default.Channels" = "Canals";
+"ChatList.Filter.Tilte.Default.Groups" = "Grups";
+"ChatList.Filter.Tilte.Default.Bots" = "Bots";
+"ChatList.Filter.Tilte.Default.Contacts" = "Contactes";
+"ChatList.Filter.Tilte.Default.NonContacts" = "Altres usuaris";
+
+
+"ChannelStats.Title" = "Estadístiques del canal";
+
+"ChannelStats.ViewsCount_countable" = "%d";
+
+"ChannelStats.ViewsCount_one" = "%d visualització";
+
+
+
+"ChannelStats.ViewsCount_other" = "%d visualitzacions";
+
+
+"ChannelStats.SharesCount_countable" = "%d";
+
+"ChannelStats.SharesCount_one" = "%d compartició";
+
+
+
+"ChannelStats.SharesCount_other" = "%d comparticions";
+
+
+"ChannelStats.Overview" = "RESUM";
+"ChannelStats.Overview.Followers" = "Seguidors";
+"ChannelStats.Overview.EnabledNotifications" = "Notificacions actives";
+"ChannelStats.Overview.ViewsPerPost" = "Vistes per publicació";
+"ChannelStats.Overview.SharesPerPost" = "Comparticions per publicació";
+
+"ChannelStats.Graph.Growth" = "CREIXEMENT";
+"ChannelStats.Graph.Followers" = "SEGUIDORS";
+"ChannelStats.Graph.ViewsBySource" = "VISUALITZACIONS PER ORIGEN";
+"ChannelStats.Graph.ViewsByHours" = "VISUALITZACIONS PER HORES (UTC)";
+"ChannelStats.Graph.NewFollowersBySource" = "SEGUIDORS PER ORIGEN";
+"ChannelStats.Graph.Language" = "IDIOMA";
+"ChannelStats.Graph.Notifications" = "NOTIFICACIONS";
+"ChannelStats.Graph.Interactions" = "INTERACCIONS";
+
+"ChannelStats.Recent.Header" = "PUBLICACIONS RECENTS";
+
+"Chat.Dice.Result" = "Envieu l’emoji 🎲 en qualsevol xat per a obtenir un nombre aleatori.";
+
+"Channel.Stats.Loading" = "Espereu uns moments mentre les generem.";
+
+
+//
+//
+//"Wallet.Splash.Intro.Header" = "Gram Wallet";
+//"Wallet.Splash.Intro.Title" = "Gram Wallet";
+//"Wallet.Splash.Intro.Desc" = "Gram wallet allows you to make fast and secure blockchain-based payments without intermediaries.";
+//"Wallet.Splash.Intro.Terms" = "By creating the wallet you accept\n[Terms of Conditions](Terms).";
+//"Wallet.Splash.Intro.Button" = "New Wallet";
+//"Wallet.Splash.Intro.ImportExists" = "Import Exists";
+//
+//
+//"Wallet.Splash.Created.Header" = "Congratulations!";
+//"Wallet.Splash.Created.Title" = "Congratulations!";
+//"Wallet.Splash.Created.Desc" = "Your Gram wallet has just been created. Only you control it.\n\nTo be able to always have access to it, please write down secret words and setup a secure passcode.";
+//"Wallet.Splash.Created.Button" = "Continue";
+//
+//"Wallet.Splash.CreatePasscode.Header" = "Perfect!";
+//"Wallet.Splash.CreatePasscode.Title" = "Perfect!";
+//"Wallet.Splash.CreatePasscode.Desc" = "Now set up a passcode to secure your transactions.";
+//"Wallet.Splash.CreatePasscode.Button" = "Continue";
+//"Wallet.Splash.CreatePasscode.Error" = "Passcodes do not match";
+//"Wallet.Splash.CreatePasscode.Placeholder1" = "Enter your passcode";
+//"Wallet.Splash.CreatePasscode.Placeholder2" = "Re-Enter your passcode";
+//
+//"Wallet.Splash.Success.Header" = "Ready to go!";
+//"Wallet.Splash.Success.Title" = "Ready to go!";
+//"Wallet.Splash.Success.Desc" = "You’re all set. Now you have a wallet that only you control - directly, without middlemen or bankers.";
+//"Wallet.Splash.Success.Button" = "My Wallet";
+//
+//"Wallet.Splash.RestoreFailed.Header" = "Too Bad";
+//"Wallet.Splash.RestoreFailed.Title" = "Too Bad";
+//"Wallet.Splash.RestoreFailed.Desc" = "Without the secret words, you can't restore access to the wallet.\n\n[Enter 24 Words](EnterWords)";
+//"Wallet.Splash.RestoreFailed.Button" = "New Wallet";
+//
+//"Wallet.Splash.Save24Words.Header" = "24 Secret Words";
+//"Wallet.Splash.Save24Words.Title" = "24 Secret Words";
+//"Wallet.Splash.Save24Words.Desc" = "Write down these 24 words in the correct order and store them in a secret place.\n\nUse these secret words to restore access to your wallet if you lose your passcode or Telegram account.";
+//"Wallet.Splash.Save24Words.Button" = "Done";
+//"Wallet.Splash.Save24Words.Copy" = "Copy Secret Words";
+//"Wallet.Splash.Save24Words.CopyHeader" = "24 Secret Words";
+//"Wallet.Splash.Save24Words.CopyText" = "Are you sure you want to copy Secret Words? Please keep it in safe place.";
+//
+//"Wallet.Splash.Save24Words.Confirm.Header" = "Sure Done?";
+//"Wallet.Splash.Save24Words.Confirm.Text" = "You didn't have enough time to write those words down.";
+//"Wallet.Splash.Save24Words.Confirm.OK" = "OK, Sorry";
+//"Wallet.Splash.Save24Words.Confirm.Thrid" = "I'm Sure.";
+//"Wallet.Splash.Save24Words.Confirm.Apoligies" = "Apologies Accepted.";
+//
+//
+//"Wallet.Splash.TestWords.Header" = "Test Time!";
+//"Wallet.Splash.TestWords.Title" = "Test Time!";
+//"Wallet.Splash.TestWords.Desc" = "Let's check that you wrote them down correctly. Please enter words %d, %d and %d below.";
+//"Wallet.Splash.TestWords.Button" = "Continue";
+//"Wallet.Splash.TestWords.IncorrectHeader" = "Incorrect words!";
+//"Wallet.Splash.TestWords.IncorrectText" = "The secret words you have entered do not match the ones in the list.";
+//"Wallet.Splash.TestWords.Incorrect.OK" = "Try Again";
+//"Wallet.Splash.TestWords.Incorrect.Thrid" = "View Words";
+//
+//"Wallet.Splash.Import.Header" = "24 Secret Words";
+//"Wallet.Splash.Import.Title" = "24 Secret Words";
+//"Wallet.Splash.Import.Desc" = "Please restore access to your wallet by entering the 24 secret words you wrote down when creating the wallet.";
+//"Wallet.Splash.Import.Button" = "Import Wallet";
+//"Wallet.Splash.Import.Button.Sub" = "[I don't have those.](HaventWords)";
+//"Wallet.Splash.Import.Error.Title" = "Incorrect Words";
+//"Wallet.Splash.Import.Error.Text" = "Sorry, you have entered incorrect secret words. Please double check and try again.";
+//"Wallet.Splash.Import.FromClipboard" = "Import From Clipboard";
+//
+//
+//"Wallet.Splash.SecurityChanged.Header" = "Wallet";
+//"Wallet.Splash.SecurityChanged.Title" = "Wallet is Unavailable";
+//
+//"Wallet.Splash.SecurityChanged.Desc" = "Unfortunately, the wallet you connected to this app couldn't be accessed. To restore your wallet, click \"Import Existing Wallet.\".\n\n[Create New Wallet](CreateNew)";
+//"Wallet.Splash.SecurityChanged.Button" = "Import Existing Wallet";
+//
+//"Wallet.Info.WalletCreated.Header" = "Wallet Created";
+//"Wallet.Info.WalletCreated.Text" = "your wallet address";
+//
+//
+//"Wallet.TerminateApp.Title" = "Gram Wallet";
+//"Wallet.TerminateApp.Text" = "You are on the way of creation new Wallet. Are you sure you have finished with it and want to terminate Telegram?";
+//"Wallet.TerminateApp.OK" = "YES";
+//"Wallet.TerminateApp.Cancel" = "NO";
+//
+//"Wallet.Splash.CloseConfirm.Header" = "Gram Wallet";
+//"Wallet.Splash.CloseConfirm.Text" = "Please sure you have written secret words before do this action. Otherwise you will not be able to restore you wallet.";
+//"Wallet.Splash.CloseConfirm.OK" = "OK";
+//"Wallet.Splash.CloseConfirm.Thrid" = "Close Anyway";
+//
+//
+//"Wallet.Receive.Title" = "Receive Grams";
+//"Wallet.Receive.YourWalletAddress" = "YOUR WALLET ADDRESS";
+//"Wallet.Receive.CopyWalletAddress" = "Copy Wallet Address";
+//"Wallet.Receive.ShareWalletAddress" = "Share Wallet Address";
+//"Wallet.Receive.ShareWalletDesc" = "Share this link with other Gram wallet owners to receive Grams from them.";
+//
+//"Wallet.Receive.CreateInvoice" = "Create Invoice";
+//"Wallet.Receive.CreateInvoiceDesc" = "You can specify amount and purpose of the payment to save the sender some time.";
+//
+//"Wallet.CreateInvoice.Title" = "Create Invoice";
+//"Wallet.CreateInvoice.AmoutTitle" = "AMOUNT";
+//"Wallet.CreateInvoice.AmoutPlaceholder" = "Grams to receive";
+//"Wallet.CreateInvoice.CommentTitle" = "COMMENT (OPTIONAL)";
+//"Wallet.CreateInvoice.CommentPlaceholder" = "Description of the payment";
+//"Wallet.CreateInvoice.InvoiceTitle" = "INVOICE URL";
+//"Wallet.CreateInvoice.CopyURL" = "Copy Invoice URL";
+//"Wallet.CreateInvoice.ShareURL" = "Share Invoice URL";
+//"Wallet.CreateInvoice.ShareDesc" = "Share this link with other Gram wallet owners to receive Grams from them.";
+//
+//"Wallet.Send.Title" = "Send Grams";
+//"Wallet.Send.RecipientHeader" = "RECIPIENT WALLET ADDRESS";
+//"Wallet.Send.RecipientPlaceholder" = "Enter wallet address...";
+//"Wallet.Send.RecipientDesc" = "Copy the 48-letter address of the recipient here or ask them to send you a ton:// link.";
+//"Wallet.Send.AmountHeader" = "AMOUNT";
+//"Wallet.Send.AmountBalance" = "BALANCE:     %@";
+//"Wallet.Send.AmountPlaceholder" = "Grams to send";
+//"Wallet.Send.CommentPlaceholder" = "Optional description of the payment";
+//
+//"Wallet.Send.Confirmation.Header" = "Confirmation";
+//"Wallet.Send.Confirmation.Text" = "Do you want to send %@ Grams to %@?\n\nFees: ~%@ grams";
+//"Wallet.Send.Confirmation.OK" = "Send Grams";
+//
+//
+//"Wallet.Send.ErrorTitle" = "Wallet";
+//"Wallet.Send.ErrorInvalidAddress" = "Invalid wallet address. Please correct and try again.";
+//"Wallet.Send.ErrorNetwork" = "Couldn't send grams. Please make sure your internet connection is working and try again.";
+//"Wallet.Send.ErrorDecryptionFailed" = "Encryption error. If you will see this error again, please delete wallet and import your secret words again.";
+//"Wallet.Send.ErrorNotEnoughFundsText" = "Unfortunately, your transfer couldn't be completed. You don't have enough grams.";
+//"Wallet.Send.Error.DestinationIsNotInitialized" = "This address belongs to an empty wallet. Are you sure you want to transfer grams to it?";
+//"Wallet.Send.SendAnyway" = "Send Anyway";
+//
+//
+//"Wallet.Send.SendingTitle" = "Sending Grams";
+//"Wallet.Send.SendingText" = "Please wait few seconds for your transaction to be processed...";
+//
+//"Wallet.Send.SentTitle" = "Done";
+//"Wallet.Send.SentText" = "**%@** Grams have been sent.";
+//"Wallet.Send.SentViewMyWallet" = "View My Wallet";
+//"Wallet.Send.Process.Tranfer" = "Transfer";
+//
+//"Wallet.Send.Confirm.Title" = "Send Grams";
+//"Wallet.Send.SelfConfirm.Text" = "Sending Grams from a wallet to the same wallet doesn't make sense, you will simply waste a portion of the value on blockchain fees.";
+//"Wallet.Send.SelfConfirm.OK" = "Send Anyway";
+//
+//"Wallet.TonLink.Empty.Title" = "Gram Wallet";
+//"Wallet.TonLink.Empty.Text" = "This link can be used to send money on the TON Blockchain. To do this, you need to set up a Gram wallet first.";
+//"Wallet.TonLink.Empty.Thrid" = "Set up Gram Wallet";
+//
+//"Wallet.TransactionPreview.Title" = "Transaction";
+//"Wallet.TransactionPreview.Recipient" = "RECIPIENT";
+//"Wallet.TransactionPreview.Sender" = "SENDER";
+//"Wallet.TransactionPreview.CopyAddress" = "Copy Address";
+//"Wallet.TransactionPreview.SendGrams" = "Send Grams";
+//"Wallet.TransactionPreview.CommentHeader" = "COMMENT";
+//"Wallet.TransactionPreview.StorageFee" = "%@ storage fee";
+//"Wallet.TransactionPreview.TransactionFee" = "%@ transaction fee";
+//
+//
+//"Wallet.BalanceInfo.Title" = "Wallet";
+//"Wallet.BalanceInfo.Send" = "Send";
+//"Wallet.BalanceInfo.Receive" = "Receive";
+//"Wallet.BalanceInfo.YouBalance" = "your balance";
+//"Wallet.BalanceInfo.Updating1" = "updating.";
+//"Wallet.BalanceInfo.Updating2" = "updating..";
+//"Wallet.BalanceInfo.Updating3" = "updating...";
+//
+//"Wallet.BalanceInfo.Syncing" = "%@ syncing...";
+//
+//"Wallet.BalanceInfo.Transaction.Fees" = "-%@ blockchain fees";
+//
+//"Wallet.BalanceInfo.RetrieveError" = "The wallet state can not be retrived at this time.";
+//
+//"Wallet.Transaction.To" = "to:";
+//"Wallet.Transaction.From" = "from:";
+//"Wallet.Transaction.EmptyTransaction" = "Empty Transaction";
+//"Wallet.Transaction.EmptyAddress" = "No Address";
+//
+//"Wallet.Settings.DeleteWallet" = "Delete Wallet";
+//"Wallet.Settings.DeleteWallet.Desc" = "This will disconnect the wallet from this app. You will be able to restore your wallet using 24 secret words – or import another wallet.\n\nWallets are located in the TON Blockchain, which is not controlled by Telegram. If you want a wallet to be deleted, simply transfer all the grams from it and leave it empty.";
+//"Wallet.Settings.Title" = "Wallet Settings";
+//"Wallet.Settings.Delete.Confirm.Header" = "Delete Wallet";
+//"Wallet.Settings.Delete.Confirm.Text" = "Are you sure you want to delete the wallet?\n\nNote: This will disconnect the wallet from this app. You will be able to restore your wallet using 24 secret words – or import another wallet.";
+//"Wallet.Settings.Delete.Confirm.OK" = "Delete";
+//
+//
+//
+//
+//"Wallet.ProcessTransaction.Passcode.Title" = "Passcode";
+//"Wallet.ProcessTransaction.Passcode.Text" = "Enter your passcode for transfer Grams.";
+//"Wallet.ProcessTransaction.Passcode.Placeholder" = "Enter your passcode";
+//"Wallet.ProcessTransaction.Passcode.TextError" = "Try again in: %@";
+//"Wallet.ProcessTransaction.Passcode.TitleError" = "Passcode Disabled";
+//
+//
+//"Updated.JustNow" = "updated just now";
+//"Updated.MinutesAgo_countable" = "%d";
+//"Updated.MinutesAgo_zero" = "updated %d minutes ago";
+//"Updated.MinutesAgo_one" = "updated %d minute ago";
+//"Updated.MinutesAgo_two" = "updated %d minutes ago";
+//"Updated.MinutesAgo_few" = "updated %d minutes ago";
+//"Updated.MinutesAgo_many" = "updated %d minutes ago";
+//"Updated.MinutesAgo_any" = "updated %d minutes ago";
+//
+//"Updated.HoursAgo_countable" = "%d";
+//"Updated.HoursAgo_zero" = "updated %d hours ago";
+//"Updated.HoursAgo_one" = "updated %d hour ago";
+//"Updated.HoursAgo_two" = "updated %d hours ago";
+//"Updated.HoursAgo_few" = "updated %d hours ago";
+//"Updated.HoursAgo_many" = "updated %d hours ago";
+//"Updated.HoursAgo_any" = "updated %d hours ago";
+//"Updated.YesterdayAt" = "updated yesterday at %@";
+//"Updated.AtDate" = "updated %@";
+//"Updated.TodayAt" = "updated today at %@";
+//
+//
+//
+//
+
+
+/* new from translations.telegram.org */
+
+"Admins.Creator" = "Creador";
+"AppearanceSettings.ColorTheme.dark" = "Fosc";
+"AppearanceSettings.ColorTheme.day_classic" = "Dia clàssic";
+"AppearanceSettings.ColorTheme.mojave" = "Fosc Mojave";
+"AppearanceSettings.ColorTheme.night_blue" = "Blau nocturn";
+"Channel.EditAdmin.Permission.InviteUsers" = "Convida usuaris";
+"ChannelBlacklist.AddMember" = "Afegeix un membre";
+"Chat.Confirm.DeleteMessages" = "Voleu eliminar tots els missatges?";
+"Chat.Input.SecretChat.WaitingToOnline" = "S'està esperant que l'usuari es connecti...";
+"Chat.Message.UnsendMessages" = "Retira els meus missatges";
+"Chat.Poll.TotalVotes_one" = "%d vot";
+"Chat.Poll.TotalVotes_other" = "%d vots";
+"Chat.Poll.TotalVotes_countable" = "%d";
+"ChatList.Context.PinErrorNew" = "Només podeu fixar a dalt 5 xats.";
+"Discussion.Set.Modal.Text.Private" = "Voleu convertir **%@** en el tauler de debat de **%@**?\n\nQualsevol membre del grup podrà veure tots els missatges del canal.";
+"Discussion.Set.Modal.Text.Public" = "Voleu convertir **%@** en el tauler de debat de **%@**?";
+"Gallery.Counter" = "%d de %d";
+"GalleryView.FastSave.Gif" = "S'ha desat el GIF a la carpeta de [Baixades]()";
+"GalleryView.FastSave.Image" = "La imatge s'ha desat a la carpeta [Baixades]()";
+"GalleryView.FastSave.Video" = "S'ha desat el vídeo a la carpeta de [Baixades]()";
+"GeneralSettings.LargeFonts" = "Mida de lletra gran";
+"InAppLinks.Confirm.OpenExternal" = "voleu obrir %@?";
+"Notification.ScheduledTitle" = "📆 Jo";
+"NotificationSettings.IncludePublicGroups" = "Inclou els grups públics";
+"PeerInfo.Admins" = "Administradors";
+"PeerInfo.SetAdmins" = "Tria els administradors";
+"TwoStepAuth.ConfirmationText" = "Per a completar la configuració de la verificació en dos passos, reviseu el vostre correu. Si no heu rebut res, reviseu també el correu brossa.";
+"TwoStepAuth.RecoveryEmailUnavailable" = "No podeu accedir a la vostra adreça %@?";
+"TwoStepAuth.SetupHint" = "Creeu una pista per la contrasenya";
+"WallpaperPreview.Plain" = "Pla";
+"_NS:103.title" = "Edita";
+"_NS:167.title" = "Finestra";
+"_NS:81.title" = "Visualitza";
