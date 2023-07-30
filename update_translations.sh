@@ -27,6 +27,13 @@ mkdir -p ./translations/tdesktop/en.lproj
 mkdir -p ./translations/tdesktop/ca.lproj
 mkdir -p ./translations/androidx/res/values
 mkdir -p ./translations/androidx/res/values-ca
+mkdir -p ./translations/webk/en
+mkdir -p ./translations/webk/ca
+mkdir -p ./translations/weba/en
+mkdir -p ./translations/weba/ca
+mkdir -p ./translations/unigram/en
+mkdir -p ./translations/unigram/ca
+
 
 
 
@@ -43,9 +50,38 @@ backupdir="./backups"
 mkdir -p ${backupdir}
 
 # Data from Telegram translations site
-projects=(android ios tdesktop macos android_x)
-files=(android/res/values/strings.xml ios/en.lproj/Localizable.strings tdesktop/en.lproj/Localizable.strings macos/en.lproj/Localizable.strings androidx/res/values/strings.xml)
-filesca=(android/res/values-ca/strings.xml ios/ca.lproj/Localizable.strings tdesktop/ca.lproj/Localizable.strings macos/ca.lproj/Localizable.strings androidx/res/values-ca/strings.xml)
+projects=(
+   android
+   ios
+   tdesktop
+   macos
+   android_x
+   webk
+   weba
+   unigram
+)
+
+files=(
+   android/res/values/strings.xml
+   ios/en.lproj/Localizable.strings
+   tdesktop/en.lproj/Localizable.strings
+   macos/en.lproj/Localizable.strings
+   androidx/res/values/strings.xml
+   webk/en/webk.strings
+   weba/en/weba.strings
+   unigram/en/unigram.xml
+)
+
+filesca=(
+   android/res/values-ca/strings.xml
+   ios/ca.lproj/Localizable.strings
+   tdesktop/ca.lproj/Localizable.strings
+   macos/ca.lproj/Localizable.strings
+   androidx/res/values-ca/strings.xml
+   webk/ca/webk.strings
+   weba/ca/weba.strings
+   unigram/ca/unigram.xml
+)
 
 
 url=(
@@ -54,6 +90,9 @@ url=(
    https://translations.telegram.org/en/tdesktop/export
    https://translations.telegram.org/en/macos/export
    https://translations.telegram.org/en/android_x/export
+   https://translations.telegram.org/en/webk/export
+   https://translations.telegram.org/en/weba/export
+   https://translations.telegram.org/en/unigram/export
 )
 
 urlca=(
@@ -62,6 +101,10 @@ urlca=(
    https://translations.telegram.org/ca/tdesktop/export
    https://translations.telegram.org/ca/macos/export
    https://translations.telegram.org/ca/android_x/export
+   https://translations.telegram.org/ca/webk/export
+   https://translations.telegram.org/ca/weba/export
+   https://translations.telegram.org/ca/unigram/export
+
 )
 
 
@@ -83,7 +126,7 @@ tar --create --gzip --file=${backupdir}/${backupfile} ./translations/
 
 
 # For each project
-for i in 0 1 2 3 4;
+for i in 0 1 2 3 4 5 6 7;
 do
    echo "$(date --iso-8601)|${projects[$i]}" >> ${logging}/check_telegram.log
    # Download current upstream source "en" file from translations.telegram.org
