@@ -31,6 +31,7 @@ mkdir -p ./translations/androidx/res/values-ca
 
 
 # Cookies mandatory file. Nestcape format. It must contain translations.telegram.org cookies
+# See: https://github.com/rotemdan/ExportCookies
 cookies="./cookies.txt"
 
 # Loggin directory
