@@ -44,8 +44,8 @@ mkdir -p ${backupdir}
 
 # Data from Telegram translations site
 projects=(android ios tdesktop macos android_x)
-files=(android/res/values/strings.xml ios/en.lproj/Localizable.strings tdekstop/en.lproj/Localizable.strings macos/en.lproj/Localizable.strings androidx/res/values/strings.xml)
-filesca=(android/res/values-ca/strings.xml ios/ca.lproj/Localizable.strings tdekstop/ca.lproj/Localizable.strings macos/ca.lproj/Localizable.strings androidx/res/values-ca/strings.xml)
+files=(android/res/values/strings.xml ios/en.lproj/Localizable.strings tdesktop/en.lproj/Localizable.strings macos/en.lproj/Localizable.strings androidx/res/values/strings.xml)
+filesca=(android/res/values-ca/strings.xml ios/ca.lproj/Localizable.strings tdesktop/ca.lproj/Localizable.strings macos/ca.lproj/Localizable.strings androidx/res/values-ca/strings.xml)
 
 
 url=(
