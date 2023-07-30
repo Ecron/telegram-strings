@@ -1,0 +1,1424 @@
+"Month1" = "Gener";
+"Month2" = "Febrer";
+"Month3" = "Març";
+"Month4" = "Abril";
+"Month5" = "Maig";
+"Month6" = "Juny";
+"Month7" = "Juliol";
+"Month8" = "Agost";
+"Month9" = "Setembre";
+"Month10" = "Octubre";
+"Month11" = "Novembre";
+"Month12" = "Desembre";
+"GroupLeaveGroup" = "Abandona el grup";
+"DeleteChatUser" = "Elimina el xat";
+"AccDescrGroup" = "Grup";
+"AccDescrChannel" = "Canal";
+"ChatServiceGroupUpdatedPinnedMessage1" = "{user} ha fixat «{message}»";
+"MessagePinnedGenericMessage" = "{user} ha fixat un missatge";
+"Nothing" = "Res";
+"UserTyping" = "{user} està escrivint";
+"SendActionRecordVideo" = "està enregistrant un vídeo";
+"SendActionUploadVideo" = "està enviant un vídeo";
+"SendActionRecordAudio" = "està enregistrant un àudio";
+"SendActionUploadAudio" = "està enviant un àudio";
+"SendActionUploadPhoto" = "està enviant una foto";
+"SendActionUploadFile" = "està enviant un fitxer";
+"PlayingGame" = "està jugant";
+"SendActionRecordRound" = "està fent un missatge de vídeo";
+"SendActionUploadRound" = "està enviant un missatge de vídeo";
+"SendActionChooseSticker" = "està triant un adhesiu";
+"UserActionWatchingAnimations" = "mirant {emoji}";
+"SetUrlAvailable" = "{url} és disponible.";
+"SetUrlInUse" = "Aquest enllaç ja es troba en ús.";
+"UsernameAvailable" = "{username} és disponible.";
+"UsernameInUse" = "Aquest nom d'usuari ja està en ús.";
+"CreateGroupError" = "Sorry, you can\'t create a group with these users because of their privacy settings.";
+"PasscodeControllerErrorCurrent" = "codi d'accés no vàlid";
+"LimitReachedChatInFolders" = "Sorry, you can\'t add more than **{limit}** chats to a folder. You can increase this limit to **{limit2}** by subscribing to **Telegram Premium**.";
+"LimitReachedFileSize" = "No es pot enviar el document perquè pesa més de **{limit}**. Podeu duplicar el limit a **{limit2}** per document subscrivint-vos al **Telegram Premium**.";
+"LimitReachedFolders" = "Heu assolit el límit de **{limit}** carpetes. Podeu duplicar el límit a **{limit2}** carpetes subscrivint-vos al **Telegram Premium**.";
+"LimitReachedPinDialogs" = "You can\'t pin more than {limit} chats to the top. Unpin some that are currently pinned – or subscribe to **Telegram Premium** to double the limit to **{limit2}** chats.";
+"LimitReachedPublicLinks" = "Heu reservat massa enllaços públics. Revoqueu l'enllaç d'un grup o canal més antic, o subscriviu-vos al **Telegram Premium** per a duplicar el límit a **{limit2}** enllaços públics.";
+"LimitReachedCommunities" = "Sou membre de **{limit}** grups i canals. Abandoneu-ne algun abans d'unir-vos a un altre, o subscriviu-vos al **Telegram Premium** per a duplicar el límit a **{limit2}** grups i canals.";
+"LimitReachedChatInFoldersLocked" = "No podeu afegir més de **{limit}^* xats per carpeta. Creeu-ne una nova. Estem treballant perquè pugueu augmentar-ne el límit en un futur.";
+"LimitReachedFileSizeLocked" = "No s'ha pogut enviar el document perquè pesa més de **{limit}**. Estem treballant perquè pugueu augmentar-ne el límit en un futur.";
+"LimitReachedFoldersLocked" = "Heu assolit el límit de **{limit}** carpetes per compte. Estem treballant perquè pugueu augmentar-ne el límit en un futur.";
+"LimitReachedPinDialogsLocked" = "No podeu fixar més de {limit} xats a la part superior. Deixeu de fixar alguns dels actuals. Estem treballant perquè pugueu augmentar-ne el límit en un futur.";
+"LimitReachedPublicLinksLocked" = "Heu reservat massa enllaços públics. Proveu revocant l'enllaç d'un grup o canal més antic. Estem treballant perquè pugueu augmentar-ne el límit en un futur.";
+"LimitReachedCommunitiesLocked" = "Sou membre de **{limit}** grups i canals. Abandoneu-ne algun abans d'unir-vos a un altre. Estem treballant perquè pugueu augmentar-ne el límit en un futur.";
+"LimitReachedChatInFoldersPremium" = "No podeu afegir més de **{limit}** xats per carpeta. Creeu-ne una nova.";
+"LimitReachedFileSizePremium" = "No es pot enviar el document perquè pesa més de **{limit}**.";
+"LimitReachedFoldersPremium" = "Heu assolit el límit de **{limit}** carpetes en aquest compte.";
+"LimitReachedPinDialogsPremium" = "Sorry, you can\'t pin more than {limit} chats to the top. Unpin some that are currently pinned.";
+"LimitReachedPublicLinksPremium" = "Heu reservat massa enllaços públics. Proveu revocant l'enllaç d'un grup o canal més antic.";
+"LimitReachedCommunitiesPremium" = "Sou membre de **{limit}** grups i canals. Abandoneu-ne algun abans d'unir-vos a un altre.";
+"PremiumPreviewLimits" = "Límits duplicats";
+"PremiumPreviewReactions" = "Reaccions úniques";
+"PremiumPreviewStickers" = "Adhesius prèmium";
+"PremiumPreviewNoAds" = "Sense anuncis";
+"PremiumPreviewVoiceToText" = "Conversió de veu a text";
+"PremiumPreviewProfileBadge" = "Insígnia de perfil";
+"PremiumPreviewDownloadSpeed" = "Baixades més ràpides";
+"PremiumPreviewUploads" = "Fitxers de fins a 4 GB";
+"PremiumPreviewAdvancedChatManagement" = "Gestió de xats avançada";
+"PremiumPreviewAnimatedProfiles" = "Fotos de perfil animades";
+"PremiumPreviewLimitsDescription" = "Fins a {limit1} canals, {limit2} carpetes, {limit3} fixats, {limit4} enllaços públics, {limit5} comptes i més.";
+"PremiumPreviewReactionsDescription" = "Reaccions animades extra als missatges, disponibles només per a subscriptors.";
+"PremiumPreviewStickersDescription" = "Adhesius ampliats exclusius amb efectes extra, actualitzats cada mes.";
+"PremiumPreviewNoAdsDescription" = "Cap anunci en canals públics on el Telegram de vegades en mostra.";
+"PremiumPreviewVoiceToTextDescription" = "Capacitat de transcriure qualsevol missatge de veu que rebeu.";
+"PremiumPreviewProfileBadgeDescription" = "Una insígnia al costat del vostre nom mostrant que doneu suport al Telegram.";
+"PremiumPreviewDownloadSpeedDescription" = "Sense límits de velocitat de baixada de fitxers i documents.";
+"PremiumPreviewUploadsDescription" = "Mida màxima de fitxers ampliada de 2 a 4 GB, amb emmagatzematge il·limitat.";
+"PremiumPreviewAdvancedChatManagementDescription" = "Eines per a definir la carpeta predefinida, autoarxivar i amagar els xats nous de desconeguts.";
+"PremiumPreviewAnimatedProfilesDescription" = "Vídeos de perfil animats a la llista de xats i als xats que us donen més expressivitat.";
+"SendMessage" = "Envia un missatge";
+"ConversationDefaultRestrictedMedia" = "No es permet enviar fotos ni vídeos al grup.";
+"AccDescrVoiceMessage" = "Enregistra un missatge de veu";
+"BotSettings" = "Configuració";
+"Privacy" = "Configuració de privadesa";
+"BotHelp" = "Ajuda";
+"ContextCopyImage" = "Copia la imatge";
+"ContextCopyMessageLink" = "Copia l'enllaç";
+"ProfileCopyPhone" = "Copia el número de telèfon";
+"ContextCopySelected" = "Copia el text seleccionat";
+"ContextCopyText" = "Copia el text";
+"CallMessageVideoIncomingDeclined" = "Videotrucada rebutjada";
+"CallMessageVideoOutgoingMissed" = "Videotrucada cancel·lada";
+"CallMessageVideoIncomingMissed" = "Videotrucada perduda";
+"CallMessageVideoOutgoing" = "Videotrucada feta";
+"CallMessageVideoIncoming" = "Videotrucada rebuda";
+"CallMessageIncomingDeclined" = "Trucada rebutjada";
+"CallMessageOutgoingMissed" = "Trucada cancel·lada";
+"CallMessageIncomingMissed" = "Trucada perduda";
+"CallMessageOutgoing" = "Trucada feta";
+"CallMessageIncoming" = "Trucada rebuda";
+"FinalResults" = "Resultats finals";
+"QuizPoll" = "Concurs";
+"AnonymousQuizPoll" = "Concurs anònim";
+"PublicPoll" = "Enquesta";
+"AnonymousPoll" = "Enquesta anònima";
+"AccDescrReactionMentionDown" = "Aneu a la pròxima reacció per llegir";
+"AccDescrMentionDown" = "Vés a la menció següent";
+"AccDescrPageDown" = "Vés a sota";
+"ChannelPrivate" = "Canal privat";
+"ChannelPrivateInfo" = "Només es pot accedir als canals privats amb un enllaç d'invitació.";
+"ChannelPublic" = "Canal públic";
+"ChannelPublicInfo" = "Els canals públics es poden trobar a la cerca i qualsevol s'hi pot unir.";
+"MegaPrivate" = "Grup privat";
+"MegaPrivateInfo" = "Els grups privats només es poden accedir si us hi conviden o per enllaç d'invitació.";
+"MegaPublic" = "Grup públic";
+"MegaPublicInfo" = "Els grups públics es poden trobar a la cerca, tothom pot veure l'historial i qualsevol s'hi pot unir.";
+"ChannelType" = "Tipus de canal";
+"GroupType" = "Tipus de grup";
+"ChannelPrivateLinkHelp" = "Qualsevol pot unir-se al canal a través d'aquest enllaç. El podeu revocar quan vulgueu.";
+"MegaPrivateLinkHelp" = "Qualsevol pot unir-se al grup a través d'aquest enllaç. El podeu revocar quan vulgueu.";
+"ChannelUsernameCreatePublicLinkHelp" = "Si definiu un enllaç permanent, qualsevol podrà trobar el vostre canal i unir-s'hi.\n\nPodeu usar a–z, 0–9 i guions baixos.\nLongitud mínima: 5 caràcters.";
+"GroupUsernameCreatePublicLinkHelp" = "Qualsevol pot compartir aquest enllaç i trobar el grup mitjançant el cercador intern.";
+"UserRestrictionsNoSend" = "can\'t send messages";
+"UserRestrictionsNoSendMedia" = "ni fitxers";
+"UserRestrictionsNoSendStickers" = "ni adhesius ni GIF";
+"UserRestrictionsNoEmbedLinks" = "ni incrustar enllaços";
+"UserRestrictionsNoSendPolls" = "ni enquestes";
+"UserRestrictionsNoChangeInfo" = "can\'t change Info";
+"UserRestrictionsInviteUsers" = "Afegir usuaris";
+"UserRestrictionsPinMessages" = "Fixar missatges";
+"StatsMessageInteractionsTitle" = "INTERACCIONS";
+"StatsGroupGrowthTitle" = "CREIXEMENT";
+"StatsGroupMembersTitle" = "MEMBRES DEL GRUP";
+"StatsGroupLanguagesTitle" = "LLENGUA PRINCIPAL DELS MEMBRES";
+"StatsGroupMessagesTitle" = "MISSATGES";
+"StatsGroupActionsTitle" = "ACCIONS";
+"StatsGroupTopHoursTitle" = "HORES DE MÉS ACTIVITAT";
+"ChannelStatsGraphGrowth" = "CREIXEMENT";
+"ChannelStatsGraphFollowers" = "SEGUIDORS";
+"ChannelStatsGraphNotifications" = "NOTIFICACIONS";
+"ChannelStatsGraphViewsByHours" = "VISTES PER HORES (UTC)";
+"ChannelStatsGraphViewsBySource" = "VISTES PER ORIGEN";
+"ChannelStatsGraphNewFollowersBySource" = "SEGUIDORS PER ORIGEN";
+"ChannelStatsGraphLanguage" = "LLENGÜES";
+"ChannelStatsGraphInteractions" = "INTERACCIONS";
+"StatsMessageViews" = "Vistes";
+"StatsMessagePrivateShares" = "Compart. privades";
+"StatsMessagePublicShares" = "Compart. públiques";
+"StatsGroupMembers" = "Membres";
+"StatsGroupMessages" = "Missatges";
+"StatsGroupViewers" = "Membres que llegeixen";
+"StatsGroupPosters" = "Membres que escriuen";
+"ChannelStatsOverviewFollowers" = "Seguidors";
+"ChannelStatsOverviewEnabledNotifications" = "Notificacions actives";
+"ChannelStatsOverviewViewsPerPost" = "Vistes per publicació";
+"ChannelStatsOverviewSharesPerPost" = "Comparticions per publicació";
+"WrongNumber" = "No és correcte el número?";
+"SentAppCode" = "We\'ve sent the code to the **Telegram** app on your other device.";
+"LoginJustSentSms" = "Us hem enviat un codi per SMS. Introduïu-lo a sobre.";
+"Code" = "Codi";
+"LoginHeaderPassword" = "Introduïu la contrasenya";
+"LoginEnterPasswordDescription" = "Heu activat la verificació en dos passos. El compte està protegit amb una contrasenya addicional.";
+"StartText" = "Confirmeu el codi de país i introduïu\nel número de telèfon.";
+"LoginPhonePlaceholder" = "El vostre número de telèfon";
+"LoginNext" = "Següent";
+"LoginQRLogin" = "Inicia la sessió amb un QR";
+"LoginQRTitle" = "Inici de sessió amb codi QR";
+"LoginQRHelp1" = "Obriu el Telegram al telèfon";
+"LoginQR2Help2" = "Aneu a **Configuració** > **Dispositius** > **Enllaça un dispositiu**";
+"LoginQRHelp3" = "Escanegeu el QR per a iniciar sessió";
+"LoginQRCancel" = "Inicia amb el número";
+"YourName" = "El vostre nom";
+"LoginRegisterDesc" = "Introduïu el vostre nom i afegiu una foto de perfil.";
+"LoginRegisterFirstNamePlaceholder" = "Nom";
+"LoginRegisterLastNamePlaceholder" = "Cognoms";
+"Next" = "Següent";
+"LoginSelectCountryTitle" = "País";
+"CountryNone" = "No s'ha trobat el país";
+"VoipGroupVoiceChat" = "Xat de vídeo";
+"AccDescrMoreOptions" = "Més opcions";
+"AccExitFullscreen" = "Surt de la pantalla completa";
+"AccSwitchToFullscreen" = "Canvia a pantalla completa";
+"VoipChatStopScreenCapture" = "Deixa de compartir";
+"VoipChatStartScreenCapture" = "Comparteix la pantalla";
+"VoipGroupLeaveAlertEndChat" = "Finalitza el xat de vídeo";
+"VoipSpeaker" = "Altaveu";
+"VoipCamera" = "Càmera";
+"VoipGroupLeave" = "Surt";
+"VoipGroupEndAlertTitle" = "Fi del xat de vídeo";
+"VoipGroupLeaveAlertTitle" = "Abandona el xat";
+"VoipGroupEndAlertText" = "Segur que voleu finalitzar aquest xat de vídeo?";
+"VoipGroupLeaveAlertText" = "Segur que voleu sortir del xat de vídeo?";
+"VoipGroupEndChat" = "Finalitza el xat de vídeo";
+"VoipGroupEnd" = "Finalitza";
+"Cancel" = "Cancel·la";
+"ThisIsYou" = "sou vós";
+"VoipGroupMutedForMe" = "silenciat per a mi";
+"WantsToSpeak" = "vol parlar";
+"SpeakingWithVolume" = "parlant al {volume}%";
+"Speaking" = "està parlant";
+"Listening" = "està escoltant";
+"VoipGroupInviteMember" = "Convida membres";
+"VoipGroupCancelRaiseHand" = "Cancel·la la sol·licitud";
+"VoipGroupOpenProfile" = "Obre el perfil";
+"VoipGroupAllowToSpeak" = "Permet-li parlar";
+"VoipMute" = "Silencia";
+"VoipGroupUnmuteForMe" = "Activa-li el so";
+"VoipGroupMuteForMe" = "Silencia per a mi";
+"VoipGroupUserRemove" = "Elimina";
+"Back" = "Enrere";
+
+"Participants_one" = "{count} participant";
+
+
+
+"Participants_other" = "{count} participants";
+"VoipChatJoin" = "Entra";
+"CallStatusHanging" = "s'està penjant...";
+"CallStatusRequesting" = "s'està sol·licitant...";
+"CallStatusRinging" = "està sonant...";
+"CallStatusIncoming" = "us està trucant...";
+"CallStatusWaiting" = "s'està esperant...";
+"CallStatusExchanging" = "s'estan intercanviant les claus de xifratge...";
+"CallEmojiKeyTooltip" = "Si els emojis són iguals a la pantalla de {user}, la trucada és 100% segura.";
+"CallMuteAudio" = "Silencia";
+"CallUnmuteAudio" = "Activa";
+"CallStopVideo" = "Sense vídeo";
+"CallStartVideo" = "Activa";
+"VoipFlip" = "Canvia";
+"CallScreencast" = "Pantalla";
+"CallAccept" = "Accepta";
+"CallDecline" = "Rebutja";
+"CallEndCall" = "Penja";
+"CallRateLabel" = "Valoreu la qualitat de la trucada";
+"CallRateComment" = "Comentari (opcional)";
+"Send" = "Envia";
+"SponsoredMessageInfo" = "Què són els missatges\npatrocinats?";
+"SponsoredMessageInfoDescription1" = "A diferència d'altres aplicacions, el Telegram no usa mai les vostres dades privades per a suggerir anuncis. Els missatges patrocinats en el Telegram es basen únicament en el tema dels canals públics on es mostren. Això vol dir que no s'extreu ni s'analitza cap dada d'usuari per a mostrar anuncis, i tothom qui veu un canal al Telegram veu els mateixos missatges patrocinats.";
+"SponsoredMessageInfoDescription2" = "Unlike other apps, Telegram doesn\'t track whether you tapped on a sponsored message and doesn\'t profile you based on your activity. We also prevent external links in sponsored messages to ensure that third parties can’t spy on our users. We believe that everyone has the right to privacy, and technological platforms should respect that.";
+"SponsoredMessageInfoDescription3" = "El Telegram ofereix un servei gratuït i il·limitat a centenars de milions d’usuaris, i això suposa costos importants de servidors i trànsit. Per tal de romandre independent i mantenir-se fidel als seus valors, Telegram ha desenvolupat una eina de pagament per a promocionar missatges tenint present la privadesa dels usuaris. Donem la benvinguda a anunciants responsables a:";
+"SponsoredMessageAlertLearnMoreUrl" = "https://promote.telegram.org";
+"SponsoredMessageInfoDescription4" = "Els missatges patrocinats estan en proves. Una vegada s'hagin llançat del tot i permetin que Telegram cobreixi els seus costos bàsics, començarem a compartir els ingressos publicitaris amb els propietaris dels canals públics en els quals es mostren els missatges patrocinats.\n\nEls anuncis no haurien de ser sinònim d’abús de la privadesa dels usuaris. Redefinim com hauria d'operar una empresa tecnològica: fem-ho junts.";
+"Close" = "Tanca";
+"ConversationScheduleMessageSendToday" = "Envia avui a les {time}";
+"ConversationScheduleMessageSendOn" = "Envia el {date} a les {time}";
+"Phone" = "Telèfon";
+"Username" = "Nom d'usuari";
+"UserBio" = "Biografia";
+"Info" = "Informació";
+"SetUrlPlaceholder" = "Enllaç";
+"Notifications" = "Notificacions";
+"SavedMessagesInfo" = "Reenvieu aquí per a desar";
+"BlockedListNotFound" = "No s'ha trobat cap usuari.";
+"TextCopied" = "S'ha copiat el text al porta-retalls.";
+"Copy" = "Copia";
+"ChatListDeleteAndLeaveGroupConfirmation" = "Segur que voleu abandonar i eliminar {chat}?";
+"ChannelLeaveAlertWithName" = "Segur que voleu abandonar **{chat}**?";
+"ChatListDeleteChatConfirmation" = "Segur que voleu eliminar el xat\namb {chat}?";
+"DeleteAndStop" = "Elimina i bloca";
+"ChatListDeleteForEveryone" = "Elimina per a mi i {user}";
+"DeleteForAll" = "Elimina per a tothom";
+"DeleteSingleMessagesTitle" = "Elimina el missatge";
+"AreYouSureDeleteSingleMessage" = "Segur que voleu eliminar aquest missatge?";
+
+"DeleteForMeChatHint_one" = "S'eliminarà només del vostre historial, no del dels altres membres.";
+
+
+
+"DeleteForMeChatHint_other" = "S'eliminaran només del vostre historial, no del dels altres membres.";
+
+"DeleteForEveryoneHint_one" = "S'eliminarà per a tothom en aquest xat.";
+
+
+
+"DeleteForEveryoneHint_other" = "S'eliminaran per a tothom en aquest xat.";
+"ConversationDeleteMessagesFor" = "Elimina per a mi i {user}";
+"ConversationDeleteMessagesForEveryone" = "Elimina per a tothom";
+"ChatListDeleteForCurrentUser" = "Elimina només per a mi";
+"Delete" = "Elimina";
+"FakeMessage" = "FALS";
+"ScamMessage" = "ESTAFA";
+"SendWithoutSound" = "Envia-ho sense so";
+"SetReminder" = "Estableix un recordatori";
+"ScheduleMessage" = "Programa el missatge";
+"Updating" = "S'està actualitzant...";
+
+"OnlineCount_one" = "{count} en línia";
+
+
+
+"OnlineCount_other" = "{count} en línia";
+
+"Subscribers_one" = "{count} subscriptor";
+
+
+
+"Subscribers_other" = "{count} subscriptors";
+
+"NMembers_one" = "{count} membre";
+
+
+
+"NMembers_other" = "{count} membres";
+"SelectChat" = "Trieu un xat";
+"PinMessageAlertChannel" = "Voleu fixar aquest missatge en el canal?";
+"PinMessageAlert" = "Voleu fixar aquest missatge?";
+"PinMessageAlertChat" = "Voleu fixar aquest missatge a dalt del xat?";
+"PinMessageAlertTitle" = "Fixa el missatge";
+"DialogPin" = "Fixa";
+"ConversationPinMessagesFor" = "Fixa per a mi i {user}";
+"ConversationPinMessageAlertPinAndNotifyMembers" = "Fixa i notifica tots els membres";
+"SavedMessages" = "Missatges desats";
+"AccDescrPrevious" = "Anterior";
+"ReportReasonSpam" = "Brossa";
+"ReportReasonViolence" = "Violència";
+"ReportReasonPornography" = "Pornografia";
+"ReportReasonChildAbuse" = "Abús de menors";
+"ReportPeerReasonCopyright" = "Drets d'autor";
+"ReportReasonOther" = "Altres";
+"ReportMessageTitle" = "Informa del missatge";
+"ReportPeerReport" = "Denuncia";
+"ReportReasonDescription" = "Descripció";
+"ReportButton" = "Denuncia";
+"StickersRemoveFromFavorites" = "Elimina'l dels preferits";
+"StickersAddToFavorites" = "Afegeix-lo als preferits";
+"ViewPackPreview" = "Mostra el paquet";
+"DeleteFromRecent" = "Elimina dels recents";
+"AccDescrStickerSet" = "Paquet d'adhesius";
+"ChatPanelUnpinAllMessages" = "No fixis cap missatge";
+
+"ChatUnpinAllMessagesConfirmation_one" = "Voleu deixar de fixar el missatge del xat?";
+
+
+
+"ChatUnpinAllMessagesConfirmation_other" = "Voleu deixar de fixar els {count} missatges del xat?";
+"DialogUnpin" = "No fixis";
+"ArchivedChats" = "Xats arxivats";
+"FilterAddTo" = "Afegeix a la carpeta";
+"Draft" = "Esborrany";
+"FilterAllChatsShort" = "Tots";
+"FilterAllChats" = "Tots els xats";
+"CreateNewContact" = "Crea un contacte nou";
+"FilterNoChatsToDisplay" = "La carpeta és buida";
+"ChatListEmptyChatListFilterText" = "No hi ha cap xat que pertanyi a aquesta carpeta.";
+"ChatEmptyChat" = "Encara no hi ha cap missatge...";
+"ChatListEmptyChatListEditFilter" = "Edita la carpeta";
+"UpdateTelegram" = "Actualitza el Telegram";
+"AccDescrOpenMenu2" = "Obre el menú";
+"SettingsTipsUsername" = "TelegramTips";
+"SearchFriends" = "Cerqueu contactes";
+"Search" = "Cerca";
+"Contacts" = "Contactes";
+"Settings" = "Configuració";
+"MenuNightMode" = "Mode nocturn";
+"SettingsDisableNightTheme" = "Desactiva el mode nocturn";
+"SettingsEnableNightTheme" = "Activa el mode nocturn";
+"TelegramPremium" = "Telegram Premium";
+"New" = "Nou";
+"TelegramFeatures" = "Funcions del Telegram";
+"ShortcutsControllerOthersLockByPasscode" = "Bloca amb un codi";
+"GroupAddMembers" = "Afegeix membres";
+"SendMessageTo" = "Envia el missatge a…";
+"NewChannel" = "Crea un canal";
+"NewGroup" = "Crea un grup";
+"AddPhoto" = "Estableix una foto";
+"EnterChannelName" = "Nom del canal";
+"GroupName" = "Nom del grup";
+"DescriptionOptionalPlaceholder" = "Descripció (opcional)";
+"DescriptionInfo" = "Podeu establir una descripció opcional per al canal.";
+
+
+"GroupInfoParticipantCount_one" = "1 member";
+
+
+"GroupInfoParticipantCount_other" = "{count} membres";
+"ChannelIntroCreateChannel" = "Crea un canal";
+"NewMessageTitle" = "Missatge nou";
+"ChatListSearchNoResults" = "Cap resultat";
+"ChatListSearchNoResultsDescription" = "No s'ha trobat res.\nFeu una altra cerca.";
+"ChatListSearchShowLess" = "Mostra'n menys";
+"ChatListSearchShowMore" = "Mostra'n més";
+"DialogListSearchSectionDialogs" = "Xats i contactes";
+"DialogListSearchSectionGlobal" = "Cerca global";
+"SearchMessages" = "Missatges";
+"Recent" = "Recent";
+"BlockedUsersBlockUser" = "Bloca l'usuari...";
+"FilterChatTypes" = "Tipus de xats";
+"FilterChats" = "Xats";
+"FilterIncludeInfo" = "Trieu els xats o tipus de xats que apareixeran a la carpeta.";
+"FilterNameHint" = "Nom de la carpeta";
+"FilterInclude" = "Xats inclosos";
+"FilterAddChats" = "Afegeix-hi xats";
+"FilterExclude" = "Xats exclosos";
+"CreateNewFilterInfo" = "Creeu carpetes per a diferents grups de xats i canvieu ràpidament entre elles.";
+"CreateNewFilter" = "Crea una carpeta";
+"Filters" = "Carpetes de xats";
+"FilterRecommended" = "Carpetes recomanades";
+"Add" = "Afegeix";
+"EnterNewPasscode" = "Introduïu un codi d'accés nou";
+"Continue" = "Continua";
+"ReEnterYourPasscode" = "Torneu a introduir el codi d'accés nou";
+"PasscodeControllerCurrentPlaceholder" = "Introduïu el codi d'accés actual";
+"PleaseEnterNewFirstPassword" = "Introduïu una contrasenya nova";
+"PasscodeControllerReEnterPasscodePlaceholder" = "Torneu a introduir el codi d'accés nou";
+"PasscodeChange" = "Canvia el codi d'accés";
+"PasscodeTurnOff" = "Desactiva el codi d'accés";
+"EnablePasscode" = "Activa el codi d'accés";
+"SessionPreviewTitle" = "Sessió";
+"SessionPreviewTerminateSession" = "Tanca la sessió";
+"PrivacySettingsLastSeen" = "Última connexió";
+"SessionPreviewApp" = "Aplicació";
+"SessionPreviewIp" = "Adreça IP";
+"SessionPreviewLocation" = "Ubicació";
+"SessionPreviewIpDesc" = "L'estimació d'aquesta ubicació es basa en l'adreça IP, i podria no ser precisa.";
+"AuthSessionsViewAcceptTitle" = "Accepta en aquest dispositiu";
+"SessionPreviewAcceptSecret" = "Xats secrets nous";
+"SessionPreviewAcceptCalls" = "Trucades rebudes";
+
+"Weeks_one" = "{count} setmana";
+
+
+
+"Weeks_other" = "{count} setmanes";
+
+"Months_one" = "{count} mes";
+
+
+
+"Months_other" = "{count} mesos";
+"AuthSessionsCurrentSession" = "AQUEST DISPOSITIU";
+"TerminateAllSessions" = "Tanca les altres sessions";
+"OtherSessions" = "Sessions actives";
+"TerminateOldSessionHeader" = "Tanca les sessions automàticament";
+"IfInactiveFor" = "Si són inactives durant";
+"AreYouSureSessions" = "Segur que voleu tancar totes les altres sessions?";
+"WebSessionsTitle" = "Sessions iniciades amb el Telegram";
+"AuthSessionsLogOut" = "Tanca-la";
+"AuthSessionsViewBrowser" = "Navegador";
+"AuthSessionsViewLocationInfo" = "L'estimació d'aquesta ubicació es basa en l'adreça IP, i podria no ser precisa.";
+"AuthSessionsLogOutApplications" = "Desconnecta tots els llocs web";
+"ClearOtherWebSessionsHelp" = "Podeu iniciar sessió en llocs web que usen l'inici de sessió de Telegram.";
+"AreYouSureWebSessions" = "Segur que voleu desconnectar de tots els llocs web on heu usat Telegram per a iniciar sessió?";
+"AutodownloadSizeLimitUpTo" = "fins a {limit}";
+"FileSizeMB" = "{count} MB";
+"AutoDownloadMaxFileSize" = "Mida màxima dels fitxers";
+"AutoDownloadSettingsContacts" = "Contactes";
+"AutoDownloadSettingsPrivateChats" = "Altres xats privats";
+"AutoDownloadSettingsGroupChats" = "Grups";
+"AutoDownloadSettingsChannels" = "Canals";
+"AutoDownloadPhotosTitle" = "Baixada automàtica de fotos";
+"AutoDownloadVideosTitle" = "Baixada automàtica de vídeos i GIF";
+"AutoDownloadFilesTitle" = "Baixada automàtica de fitxers";
+"AutoplayMedia" = "Reproducció automàtica";
+"GifsTab2" = "GIF";
+"DataAndStorageAutoplayVideos" = "Vídeos";
+"FirstName" = "Nom (necessari)";
+"LastName" = "Cognoms";
+"SettingsAboutBio" = "Detalls com l'edat, la professió o la vostra ciutat.\nExemple: Tinc 23 anys, dissenyador de Menorca.";
+"UsernameHelp" = "Podeu triar un nom d'usuari al **Telegram**. Si ho feu, els usuaris us podran trobar per aquest nom i enviar-vos missatges sense que coneguin el vostre número.\n\nPodeu usar **a–z**, **0–9** i guions baixos.\nLongitud mínima: **5** caràcters.";
+"UsernameLink" = "Aquest enllaç obre el vostre xat:";
+"SettingsExperimentalAbout" = "Atenció! Aquestes opcions són experimentals. Algunes poden fallar, altres poden trencar l'aplicació. Qualsevol d'elles pot desaparèixer completament en futures versions. Utilitzeu-les sota el vostre risc.";
+"EmptyChatAppearanceLight" = "Clar";
+"EmptyChatAppearanceDark" = "Fosc";
+"EmptyChatAppearanceSystem" = "Sistema";
+"SettingsSendEnter" = "Envia en prémer «Retorn»";
+"SettingsSendCmdenter" = "Envia en prémer Cmd+Retorn";
+"SettingsSendCtrlenter" = "Envia en prémer Ctrl+Retorn";
+"TextSize" = "Mida de la lletra dels missatges";
+"ChatBackground" = "Fons del xat";
+"Theme" = "Tema";
+"VoiceOverKeyboard" = "Teclat";
+"AccDescrStickers" = "Adhesius";
+"DoubleTapSetting" = "Reacció ràpida";
+"SuggestStickers" = "Suggereix adhesius amb un emoji";
+"LoopAnimatedStickers" = "Repeteix els adhesius animats";
+"UploadImage" = "Puja una imatge";
+"SetColor" = "Estableix un color";
+"ThemeResetToDefaults" = "Restableix el tema";
+"BackgroundBlurred" = "Difuminat";
+"SettingsInformation" = "Edita el perfil";
+"General" = "General";
+"DataSettings" = "Dades i emmagatzematge";
+"PrivacySettings" = "Privadesa i seguretat";
+"Language" = "Llengua";
+"SettingsExperimental" = "Opcions experimentals";
+"PrivacyPhone" = "Número de telèfon";
+"PrivacyLastSeen" = "Última connexió";
+"PrivacyProfilePhoto" = "Foto de perfil";
+"PrivacyForwards" = "Missatges reenviats";
+"AutodownloadGroupChats" = "Grups";
+"AlwaysShareWith" = "Comparteix-la sempre amb";
+"NeverShareWith" = "No comparteixis mai amb";
+"SessionsTitle" = "Sessions actives";
+"OtherWebSessions" = "Llocs web connectats";
+"BlockedUsers" = "Usuaris blocats";
+"TwoStepVerification" = "Verificació en dos passos";
+"PleaseEnterCurrentPassword" = "Introduïu la contrasenya";
+"PleaseReEnterPassword" = "Introduïu la contrasenya de nou";
+"PasswordHint" = "Pista de la contrasenya";
+"RecoveryEmailTitle" = "Adreça de recuperació";
+"TwoStepVerificationPasswordSet" = "S'ha definit la contrasenya!";
+"Passcode" = "Codi d'accés";
+"PasscodeControllerDisableTitle" = "Desactiva el codi d'accés";
+"PasscodeControllerChangeTitle" = "Canvia el codi d'accés";
+"FilterNew" = "Carpeta nova";
+"FilterEdit" = "Edita la carpeta";
+"AutoDeleteConfirm" = "Confirma";
+"LogOutTitle" = "Tanca la sessió";
+"AccDescrGoBack" = "Vés enrere";
+"SureLogout" = "Segur que voleu tancar la sessió?";
+"AccountSettingsLogout" = "Tanca la sessió";
+"TelegramGeneralSettingsViewController" = "Configuració general";
+"UserInfoNotificationsEnabled" = "Activades";
+"UserInfoNotificationsDisabled" = "Desactivades";
+"AutodownloadPrivateChats" = "Xats privats";
+"NotificationsForPrivateChats" = "Notificacions dels xats privats";
+"MessagePreview" = "Vista prèvia dels missatges";
+"FilterGroups" = "Grups";
+"NotificationsForGroups" = "Notificacions dels grups";
+"FilterChannels" = "Canals";
+"NotificationsForChannels" = "Notificacions dels canals";
+"PhoneOther" = "Altres";
+"ContactJoined" = "Un contacte s'uneix al Telegram";
+"P2PEverybody" = "Tothom";
+"P2PContacts" = "Contactes";
+"P2PNobody" = "Ningú";
+
+"Users_one" = "{count} usuari";
+
+
+
+"Users_other" = "{count} usuaris";
+"PrivacySettingsWebSessions" = "Llocs web actius";
+"PasswordOn" = "Activada";
+"PasswordOff" = "Desactivada";
+"PrivacyTitle" = "Privadesa";
+"PrivacyPhoneTitle" = "Qui pot veure el meu número?";
+"LastSeenTitle" = "Qui pot veure la vostra última connexió?";
+"PrivacyProfilePhotoTitle" = "Qui pot veure les meves fotos de perfil?";
+"WhoCanCallMe" = "Qui us pot trucar?";
+"PrivacyP2P" = "Trucades d'igual a igual";
+"PrivacyForwardsTitle" = "Qui pot enllaçar el meu compte quan reenviïn els meus missatges?";
+"WhoCanAddMe" = "Qui pot afegir-me als grups?";
+"NewChatsFromNonContacts" = "Xats nous d'usuaris desconeguts";
+"ArchiveAndMute" = "Arxiva i silencia";
+"ArchiveAndMuteInfo" = "Arxiva i silencia de manera automàtica xats, grups i canals de desconeguts.";
+"SettingsSensitiveTitle" = "Contingut sensible";
+"SettingsSensitiveDisableFiltering" = "Desactiva el filtratge";
+"SettingsSensitiveAbout" = "Mostra el contingut sensible dels canals públics en tots els dispositius amb Telegram.";
+"BlockedUsersInfo" = "Blocked users can\'t send you messages or add you to groups. They will not see your profile pictures, online and last seen status.";
+"NoBlocked" = "Encara no hi ha cap usuari blocat";
+"BlockContact" = "Bloca";
+"CustomHelp" = "You won\'t see Last Seen or Online statuses for people with whom you don\'t share yours. Approximate times will be shown instead (recently, within a week, within a month).";
+"PrivacyExceptions" = "Excepcions";
+"AlwaysAllow" = "Permet-ho sempre";
+"EditAdminAddUsers" = "Afegir usuaris";
+"NeverAllow" = "No ho permetis mai a...";
+"AlwaysAllowPlaceholder" = "Permet-ho sempre...";
+"NeverAllowPlaceholder" = "No ho permetis mai a...";
+
+
+"StickerPackStickerCount_one" = "1 adhesiu";
+
+
+"StickerPackStickerCount_other" = "{count} adhesius";
+"PleaseEnterPassword" = "Introduïu la contrasenya nova";
+"PasswordHintPlaceholder" = "Pista";
+"TwoStepVerificationPasswordSetInfo" = "Se us demanarà la contrasenya quan inicieu sessió en un dispositiu nou, a més del codi que rebeu per SMS.";
+"TwoStepVerificationPasswordReturnSettings" = "Torna a la configuració";
+"YourEmailCode" = "El codi del vostre correu";
+"EnabledPasswordText" = "You have enabled Two-Step verification.\nYou\'ll need the password you set up here to log in to your Telegram account.";
+"ChangePassword" = "Canvia la contrasenya";
+"TurnPasswordOff" = "Desactiva la contrasenya";
+"SetRecoveryEmail" = "Estableix una adreça de recuperació";
+"YourEmailSkip" = "Omet";
+"YourEmailSkipWarning" = "Atenció";
+"YourEmailSkipWarningText" = "No, de debò.\n\nSi oblideu la contrasenya, perdreu l'accés al vostre compte de Telegram. No hi haurà cap manera de restaurar-lo.";
+"SetAdditionalPasswordInfo" = "Podeu establir una contrasenya que se us demanarà en iniciar sessió en un dispositiu nou, a més del codi que rebreu per SMS.";
+"EditAdminTransferSetPassword" = "Estableix la contrasenya";
+"WebAppAddToAttachmentText" = "El {bot} demana permís per a afegir-se com a opció al vostre menú d'adjunts, perquè el pugueu fer servir des de qualsevol xat.";
+"BotOpenPageTitle" = "Obre la pàgina";
+"BotPermissionGameAlert" = "Permeteu al {bot} enviar el vostre nom i ID del Telegram (no el vostre número) a les pàgines que obriu amb ell?";
+"BotOpenPageMessage" = "El **{bot}** voldria obrir el seu web per a continuar.\n\nPodrà accedir a la vostra **adreça IP** i a informació bàsica del dispositiu.";
+"FilterDeleteAlert" = "Segur que voleu eliminar aquesta carpeta? Els xats no s'eliminaran.";
+"RequestToJoinChannelSentDescription" = "Us unireu al canal una vegada un administrador aprovi la sol·licitud.";
+"RequestToJoinGroupSentDescription" = "Us unireu al grup quan l'administració aprovi la sol·licitud.";
+"ChannelJoin" = "AFEGEIX-M'HI";
+"JoinGroup" = "AFEGEIX-M'HI";
+"MemberRequestsRequestToJoinChannel" = "Sol·licita accés al canal";
+"MemberRequestsRequestToJoinGroup" = "Sol·licita accés al grup";
+"MemberRequestsRequestToJoinDescriptionChannel" = "Aquest canal accepta subscriptors nous només després que l'administració ho aprovi.";
+"MemberRequestsRequestToJoinDescriptionGroup" = "Aquest grup accepta membres nous només després que l'administració ho aprovi.";
+"ShareYouPhoneNumberTitle" = "Voleu compartir el vostre número?";
+"AreYouSureShareMyContactInfoBot" = "El bot coneixerà el vostre número de telèfon. Això pot ser útil per a la integració amb altres serveis.";
+"OK" = "D'acord";
+"ForwardTo" = "Reenvia a...";
+"AttachGame" = "Joc";
+"JumpToDate" = "Vés a la data";
+"FloodWait" = "Heu fet massa intents, torneu a provar-ho més tard.";
+"PasscodeWrong" = "Codi d'accés incorrecte";
+"PasscodeEnterPasscodePlaceholder" = "Introduïu un codi d'accés";
+"MobileHidden" = "Mòbil ocult";
+"NewContactPhoneHiddenText" = "El número serà **visible** quan {user} us afegeixi com a contacte.";
+"NewContactShare" = "Comparteix el meu número";
+"AddContactSharedContactExceptionInfo" = "Podeu mostrar a {user} el vostre telèfon.";
+"ContactPhone" = "Número de telèfon";
+"NewContact" = "Contacte nou";
+"Done" = "Fet";
+"FileSizeGB" = "{count} GB";
+"LimitReached" = "S'ha assolit el límit";
+"IncreaseLimit" = "Augmenta el límit";
+"LimitFree" = "Gratuït";
+"LimitPremium" = "Premium";
+"SubscribeToPremium" = "Subscriu-me per {price} al mes";
+"TelegramPremiumUserDialogTitle" = "**{user}** és subscriptor del Telegram Premium.";
+"TelegramPremiumSubscribedTitle" = "Tot a punt!";
+"AboutPremiumDescription" = "Mentre que la versió gratuïta del Telegram ja ofereix als usuaris més que cap altra aplicació de missatgeria, el **Telegram Premium** va més enllà.";
+"AboutPremiumDescription2" = "El **Telegram Premium** és una opció de pagament, ja que la majoria de les funcionalitats prèmium requereixen despeses extra de tercers, com ara proveïdors de centres de dades i fabricants de servidors. Les contribucions dels usuaris del **Telegram Premium** ens permeten cobrir els costos i també ajuden el Telegram a mantenir-se gratuït per a tothom.";
+"OpenUrlTitle" = "Obre l'enllaç";
+"OpenUrlAlert2" = "Voleu obrir {url}?";
+"ConversationOpenBotLinkLogin" = "Inicia la sessió a **{url}** com a{user}";
+"ConversationOpenBotLinkAllowMessages" = "Permet que el **{bot}** m'enviï missatges";
+"BotWebViewOpenBot" = "Obre el bot";
+"WebAppReloadPage" = "Actualitza";
+"WebAppRemoveBot" = "Elimina'l del menú";
+"WebAppAddToAttachmentAdd" = "Afegeix";
+"AccActionDownload" = "Baixa";
+"Forward" = "Reenvia";
+"MediaZoomOut" = "Allunya";
+"MediaZoomIn" = "Apropa";
+"PeerInfoReportProfileVideo" = "Denuncia la foto de perfil";
+"PeerInfoReportProfilePhoto" = "Denuncia la foto de perfil";
+"MediaviewProfilePhoto" = "Foto de perfil";
+"AccActionPlay" = "Reprodueix";
+"AttachAudio" = "Missatge de veu";
+"NewContactAdd" = "Afegeix contacte";
+"NewContactBlock" = "Bloca l'usuari";
+"ReportSpamAndLeave" = "Denuncia brossa i surt";
+"BlockUserTitle" = "Bloca {user}";
+"UserInfoBlockConfirmationTitle" = "Voleu blocar {user} perquè no us enviï missatges o us truqui per Telegram?";
+"ChatConfirmReportSpamChannel" = "Voleu denunciar com a brossa el canal i abandonar-lo?";
+"Block" = "BLOCA";
+"DeleteThisChat" = "Elimina aquest xat";
+"ReportChat" = "Denuncia {peer}";
+
+"PreviewSenderSendPhoto_one" = "Envia la foto";
+
+
+
+"PreviewSenderSendPhoto_other" = "Envia {count} fotos";
+
+"PreviewSenderSendVideo_one" = "Envia el vídeo";
+
+
+
+"PreviewSenderSendVideo_other" = "Envia {count} videos";
+
+"PreviewSenderSendAudio_one" = "Envia l'àudio";
+
+
+
+"PreviewSenderSendAudio_other" = "Envia {count} àudios";
+
+"PreviewSenderSendFile_one" = "Envia el fitxer";
+
+
+
+"PreviewSenderSendFile_other" = "Envia {count} fitxers";
+
+"PreviewDraggingAddItems_one" = "Afegeix l'ítem";
+
+
+
+"PreviewDraggingAddItems_other" = "Afegeix els ítems";
+"Caption" = "Llegenda";
+"AttachmentMenuPhotoOrVideo" = "Foto o vídeo";
+"AttachDocument" = "Fitxer";
+"Poll" = "Enquesta";
+"SlowModeHint" = "El mode lent està activat. Podeu enviar\nun altre missatge en {time}.";
+"SendMessageAsTitle" = "Escriu com a...";
+"Message" = "Missatge";
+"RecentStickers" = "Utilitzats fa poc";
+"PollsChooseQuestion" = "Introduïu una pregunta.";
+"PollsChooseAnswers" = "Introduïu al menys dues opcions.";
+"NewPoll" = "Enquesta nova";
+"Create" = "Crea";
+"OptionHint" = "Opció";
+"CreatePollAddOption" = "Afegeix una opció";
+"PollsChooseCorrect" = "Trieu la resposta correcta.";
+"AskAQuestion" = "Cap dubte?";
+"PollOptions" = "Opcions de l'enquesta";
+"PollAnonymous" = "Enquesta anònima";
+"PollMultiple" = "Resposta múltiple";
+"PollQuiz" = "Mode concurs";
+"PollsSolutionTitle" = "Explicació";
+"CreatePollExplanationInfo" = "Els usuaris veuran aquest text en triar una resposta incorrecta. Útil en àmbits educatius.";
+"VoipGroupPersonalAccount" = "compte personal";
+"FavoriteStickers" = "Preferits";
+"PremiumStickers" = "Adhesius prèmium";
+"GroupStickers" = "Adhesius del grup";
+"ErrorSendRestrictedStickersAll" = "No es permet enviar adhesius al grup.";
+"NoStickers" = "Encara no hi ha cap adhesiu";
+"ClearRecentEmoji" = "Voleu esborrar els emojis recents?";
+"TextFormatAddLinkTitle" = "Afegeix un enllaç";
+"Save" = "Desa";
+"ConversationEmptyPlaceholder" = "Encara no hi ha cap missatge...";
+"ConversationGreetingText" = "Envieu un missatge o toqueu la salutació de sota.";
+"ConversationDeleteManyMessages" = "Elimina els missatges";
+"AreYouSureDeleteFewMessages" = "Segur que voleu eliminar aquests missatges?";
+"ProfileJoinChannel" = "Afegeix-m'hi";
+"ProfileJoinGroup" = "Afegeix-m'hi";
+"ChannelJoinRequest" = "SOL·LICITA ACCÉS AL GRUP";
+"BotStart" = "INICIA";
+"BotRestart" = "Reinicia el bot";
+"SubscribeRequests" = "Sol·licituds d'unió";
+"MemberRequests" = "Sol·licituds d'unió";
+"AddContact" = "Afegeix als contactes";
+"Call" = "Truca";
+"VideoCall" = "Videotrucada";
+"ChatsUnmute" = "Activa el so";
+"ChatsMute" = "Silencia";
+"StartVoipChat" = "Inicia un xat de vídeo";
+"VoipGroupJoinCall" = "Entra al xat de vídeo";
+"ViewDiscussion" = "Mostra el debat";
+"ProfileViewChannel" = "Mostra el canal";
+"ReportSelectMessages" = "Seleccioneu missatges";
+"Statistics" = "Estadístiques";
+"EventLogFilterPinnedMessages" = "Missatges fixats";
+"UnpinMessageAlertTitle" = "No fixis el missatge";
+"PinnedMessage" = "Missatge fixat";
+
+"Comments_one" = "{count} comentari";
+
+
+
+"Comments_other" = "{count} comentaris";
+"LeaveAComment" = "Deixa un comentari";
+"PollsStopWarning" = "Si tanqueu l'enquesta, ningú ja no hi podrà votar. Aquesta acció no es pot desfer.";
+"PollsStopSure" = "Tanca-la";
+"PaymentTestInvoice" = "FACTURA DE PROVA";
+"AttachLiveLocation" = "Ubicació en directe";
+"NoWordsRecognized" = "No s'ha reconegut cap paraula.";
+"ViaBot" = "via";
+"DiscussChannel" = "canal";
+"ForwardedMessage" = "Missatge reenviat";
+"ContextForwardMsg" = "Reenvia";
+"ShareLinkCopied" = "S'ha copiat al porta-retalls";
+"MessageScheduleSend" = "Envia ara";
+"MessageScheduleEditTime" = "Reprograma";
+"Reply" = "Respon";
+"Edit" = "Edita";
+"AddToFavorites" = "Afegeix-lo als preferits";
+"ContextSaveGif" = "Desa el GIF";
+"PollsRetract" = "Retira el vot";
+"PollsStop" = "Tanca l'enquesta";
+"ContextCancelDownload" = "Cancel·la la baixada";
+"MediaDownload" = "Baixa";
+"CommonSelect" = "Selecció";
+"ContextReportMsg" = "Denuncia";
+
+
+"ChatContextReactionCount_one" = "1 reacció";
+
+
+"ChatContextReactionCount_other" = "{count} reaccions";
+
+
+"ConversationContextMenuSeen_one" = "Vist";
+
+
+"ConversationContextMenuSeen_other" = "Vist per: {count}";
+"ConversationContextMenuNoViews" = "Vist per: ningú";
+"HideAd" = "Amaga";
+"EditedDate" = "Edició: {date}";
+"ForwardedDate" = "Original: {date}";
+"EditedMessage" = "editat";
+"CallAgain" = "Torna a trucar";
+"CallBack" = "Torna la trucada";
+"CallMessageWithDuration" = "{time} ({duration})";
+"PollSubmitVotes" = "VOTA";
+"PollViewResults" = "RESULTATS";
+"ChatQuizTotalVotesEmpty" = "Sense respostes";
+"ChatPollTotalVotesResultEmpty" = "Sense vots";
+
+"Answer_one" = "{count} resposta";
+
+
+
+"Answer_other" = "{count} respostes";
+"Vote" = "Vota";
+"MessageRecommendedLabel" = "recomanat";
+"SponsoredMessage" = "patrocinat";
+"PremiumStickerTooltip" = "El paquet conté adhesius prèmium com aquest.";
+"ViewAction" = "Mostra";
+"Loading" = "S'està carregant...";
+"NoMessages" = "Encara no hi ha cap missatge…";
+"BotInfoTitle" = "Què pot fer aquest bot?";
+"UnreadMessages" = "Missatges per llegir";
+"DiscussionStarted" = "S'ha iniciat el debat";
+"MessageScheduledUntilOnline" = "Programat fins que es connecti";
+"MessageScheduledOn" = "Programat per al {date}";
+
+
+"VoiceOverChatMessagesSelected_one" = "{count} missatge seleccionat";
+
+
+"VoiceOverChatMessagesSelected_other" = "{count} missatges seleccionats";
+"ChatForwardActionHeader" = "Missatges reenviats";
+"ConversationReportMessages" = "Denuncia missatges";
+"ContextCopySelectedItems" = "Copia-ho com a text";
+"EditAdminGroupDeleteMessages" = "Eliminar missatges";
+
+"ChatPinnedUnpinAll_one" = "No fixis el missatge";
+
+
+
+"ChatPinnedUnpinAll_other" = "No fixis els {count} missatges";
+
+"CommentsCount_one" = "{count} comentari";
+
+
+
+"CommentsCount_other" = "{count} comentaris";
+
+"PinnedMessagesCount_one" = "Missatge fixat";
+
+
+
+"PinnedMessagesCount_other" = "{count} missatges fixats";
+"Reminders" = "Recordatoris";
+
+"Messages_one" = "{count} missatge";
+
+
+
+"Messages_other" = "{count} missatges";
+"ScheduledMessagesEmptyPlaceholder" = "Encara no hi ha cap missatge programat...";
+"ConversationCloudStorageInfoTitle" = "El vostre magatzem al núvol";
+"ConversationClousStorageInfoDescription1" = "• Reenvieu aquí missatges importants";
+"ConversationClousStorageInfoDescription2" = "• Emmagatzemeu fitxers i multimèdia";
+"ConversationClousStorageInfoDescription3" = "• Disponible a tots els dispositius";
+"ConversationClousStorageInfoDescription4" = "• Useu la cerca per a trobar-ho tot";
+"EmptyGroupInfoTitle" = "Heu creat un grup";
+"EmptyGroupInfoSubtitle" = "Els grups poden tenir:";
+"EmptyGroupInfoLine1" = "• Fins a {count} membres";
+"EmptyGroupInfoLine2" = "• Historial persistent";
+"EmptyGroupInfoLine3" = "• Enllaços públics, com t.me/títol";
+"EmptyGroupInfoLine4" = "Administradors amb rols diferents";
+"Reactions" = "Reaccions";
+"MarkAllAsRead" = "Marca-ho tot com a llegit";
+"PaymentCardNumber" = "Número de la targeta";
+"PaymentCheckoutAcceptRecurrent" = "Accepto les *Condicions de Privadesa* del {bot}.";
+"CheckoutTotalAmount" = "Total";
+"PaymentCheckoutMethod" = "Mètode de pagament";
+"PaymentCheckoutProvider" = "Proveïdor del pagament";
+"PaymentShippingAddress" = "Adreça d'enviament";
+"PaymentCheckoutName" = "Nom";
+"PaymentCheckoutPhoneNumber" = "Número de telèfon";
+"PaymentCheckoutShippingMethod" = "Mètode d'enviament";
+"CheckoutWebConfirmationTitle" = "Pagament completat";
+"PaymentCardExpireDate" = "MM/AA";
+"PaymentCardTitle" = "Targeta";
+"CheckoutNewCardCardholderNamePlaceholder" = "Nom del titular";
+"PaymentsCardCvc" = "CVV";
+"PaymentBillingAddress" = "Adreça de facturació";
+"PaymentShippingCountry" = "País";
+"PaymentShippingZipPlaceholder" = "Codi postal";
+"PaymentCardSavePaymentInformation" = "Desa la informació de pagament";
+"PaymentShippingInfo" = "Informació d'enviament";
+"PaymentShippingMethod" = "Mètodes d'enviament";
+"PaymentCardInfo" = "Informació de pagament";
+"PaymentCheckout" = "Pagament final";
+"CheckoutPayPrice" = "Paga {amount}";
+"PaymentReceipt" = "Rebut";
+"PaymentShippingAddress1Placeholder" = "Adreça 1 (Carrer)";
+"PaymentShippingAddress2Placeholder" = "Adreça 2 (Carrer)";
+"PaymentShippingCityPlaceholder" = "Ciutat";
+"PaymentShippingStatePlaceholder" = "Estat";
+"PaymentShippingReceiver" = "Destinatari";
+"PaymentShippingName" = "Nom complet";
+"PaymentShippingEmailPlaceholder" = "Adreça electrònica";
+"PaymentShippingPhoneNumber" = "Número de telèfon";
+"PaymentShippingSave" = "Desa la informació d'enviament";
+"PaymentShippingSaveInfo" = "Deseu la informació per a usar-la més endavant.";
+"ChannelAddUsers" = "Afegeix usuaris";
+"GroupRemovedRemove" = "Expulsa un usuari";
+"PeerInfoConfirmRemovePeer" = "Voleu expulsar {user} del grup?";
+"BoxRemove" = "Elimina";
+"NoGIFsFound" = "No s'ha trobat cap GIF";
+"ChannelAddToChannel" = "Afegeix al canal";
+"ChannelAddToGroup" = "Afegeix al grup";
+"DismissRequest" = "Descarta la sol·licitud";
+"DescriptionPlaceholder" = "Descripció";
+"TypePublic" = "Públic";
+"TypePrivate" = "Privat";
+"Discussion" = "Debat";
+"DiscussionUnlink" = "Desenllaça'l";
+"GroupInfoInviteLinks" = "Enllaços d'invitació";
+"ChannelSignMessages" = "Signa els missatges";
+"ChannelAdministrators" = "Administradors";
+"ChannelSubscribers" = "Subscriptors";
+"ChannelBlockedUsers" = "Usuaris expulsats";
+"ChannelDelete" = "Elimina el canal";
+"LeaveChannel" = "Abandona el canal";
+"ChannelDeleteAlert" = "En eliminar el canal, s'expulsaran els subscriptors i els missatges es perdran. Segur que voleu continuar?";
+"ChannelLeaveAlert" = "Segur que voleu abandonar el canal?";
+"ChannelCreator" = "Propietari";
+"EditAdminPromotedBy" = "Promogut per {user}";
+"ChannelAdmin" = "Administrador";
+"EventLog" = "Accions recents";
+"EventLogInfoDetailChannel" = "És una llista de les accions destacades de l'administració en les últimes 48 hores.";
+"EventLogInfoDetail" = "És una llista de les accions destacades dels membres i l'administració en les últimes 48 hores.";
+"ChannelManagementAddModerator" = "Afegeix un administrador";
+"ChannelVisibilityForwardingEnabled" = "Permet desar el contingut";
+"ChannelVisibilityForwardingDisabled" = "No permetis desar el contingut";
+"RevokeLink" = "Revoca l'enllaç";
+"RevokeAlert" = "Segur que voleu revocar l'enllaç? Una vegada fet, ningú no podrà usar l'enllaç per a unir-se al grup.";
+"RevokeButton" = "Revoca";
+"ChannelVisibilityForwardingChannelTitle" = "Reenviaments des del canal";
+"ChannelVisibilityForwardingGroupTitle" = "Reenviaments des del grup";
+"ChannelVisibilityForwardingChannelInfo" = "Els subscriptors podran copiar, desar i reenviar el contingut d'aquest canal.";
+"ChannelVisibilityForwardingGroupInfo" = "Els membres podran copiar, desar i reenviar el contingut d'aquest grup.";
+"UserRemovedBy" = "Expulsat per {user}";
+"Unblock" = "Desbloca";
+"NoBlockedChannel2" = "Users removed from the channel by admins can\'t rejoin via invite links.";
+"NoBlockedGroup2" = "Users removed from the group by admins can\'t rejoin via invite links.";
+"ChannelEditAdminPermissionBanUsers" = "Bandejar usuaris";
+"DiscussionUnlinkGroup" = "Desenllaça'l";
+"DiscussionUnlinkChannel" = "Desenllaça'l";
+"ChannelDiscussionGroupLinkGroup" = "Enllaça'l";
+"DiscussionUnlinkChannelAlert" = "Segur que voleu deixar d'enllaçar **{chat}** del canal?";
+"DiscussionUnlinkGroupAlert" = "Segur que voleu deixar d'enllaçar **{channel}** del grup?";
+"DiscussionChannelHelp" = "Seleccioneu un grup per a debatre que es mostrarà al vostre canal.";
+"DiscussionCreateGroup" = "Crea un grup";
+"DiscussionChannelHelp2" = "Tot el que envieu al canal es reenviarà a aquest grup.";
+"DiscussionLinkGroup" = "ENLLAÇA'L";
+"ChannelSettingsJoinTitle" = "Qui pot enviar missatges?";
+"ChannelSettingsJoinToSend" = "Només els membres";
+"ChannelSettingsJoinRequest" = "Aprova els membres nous";
+"ChannelSettingsJoinRequestInfo" = "Activeu-ho si voleu que els usuaris entrin al grup només quan l'administració ho aprovi.";
+"ChannelSettingsJoinToSendInfo" = "Activeu-ho si voleu que els usuaris només puguin enviar missatges si un administrador ho aprova.";
+"LinkedChannel" = "Canal enllaçat";
+"ChannelPermissions" = "Permisos";
+"GroupMembers" = "Membres";
+"ChatHistory" = "Historial per als membres nous";
+"DeleteMega" = "Elimina el grup";
+"AreYouSureDeleteAndExit" = "Segur que voleu eliminar i abandonar el grup?";
+"AreYouSureDeleteThisChatWithGroup" = "Segur que voleu eliminar el xat **{chat}**?";
+"DeleteGroupForAll" = "Elimina el grup per a tothom";
+"EditAdminWhatCanDo" = "Què pot fer aquest administrador?";
+"EditAdminChangeChannelInfo" = "Canviar la informació del canal";
+"EditAdminChangeGroupInfo" = "Canviar la informació del grup";
+"EditAdminPostMessages" = "Publicar missatges";
+"EditAdminEditMessages" = "Editar els missatges dels altres";
+"EditAdminDeleteMessages" = "Eliminar els missatges dels altres";
+"EditAdminBanUsers" = "Bandejar usuaris";
+"EditAdminPinMessages" = "Fixar missatges";
+"EditAdminAddAdmins" = "Afegir administradors";
+"StartVoipChatPermission" = "Gestionar xats de vídeo";
+"EditAdminSendAnonymously" = "Enviar anònimament";
+"ChannelEditAdminCannotEdit" = "No podeu editar els permisos d'aquest admin.";
+"EditAdminRank" = "Títol personalitzat";
+"EditAdminRemoveAdmin" = "Cessa l'administrador";
+"ChannelAdminDismiss" = "Cessa l'administrador";
+"ChannelPermissionsHeader" = "Què poden fer els membres del grup?";
+"UserRestrictionsSend" = "Enviar missatges";
+"UserRestrictionsSendMedia" = "Enviar fitxers";
+"UserRestrictionsSendStickers" = "Enviar adhesius i GIF";
+"UserRestrictionsSendPolls" = "Enviar enquestes";
+"UserRestrictionsEmbedLinks" = "Incrustar enllaços";
+"UserRestrictionsChangeInfo" = "Canviar la informació del xat";
+"ChannelAddException" = "Afegeix una excepció";
+"EventLogAllEvents" = "Totes les accions";
+"EventLogFilterNewAdmins" = "Drets d’administradors";
+"EventLogFilterNewMembers" = "Membres nous";
+"EventLogFilterChannelInfo" = "Informació del canal";
+"EventLogFilterDeletedMessages" = "Missatges eliminats";
+"EventLogFilterEditedMessages" = "Missatges editats";
+"EventLogFilterLeavingMembers" = "Membres sortints";
+"ChannelManagementTitle" = "Admins";
+"EventLogAllAdmins" = "Tots els administradors";
+"UserRestrictionsCanDo" = "Què pot fer aquest usuari?";
+"UserRestrictionsBlock" = "Bandeja'l i elimina'l del grup";
+"ApproveNewMembers" = "Sol·licita aprovació";
+"ApproveNewMembersDescription" = "Activeu-ho si voleu que els usuaris entrin només quan els administradors ho aprovin.";
+"LinkNameHint" = "Nom de l'enllaç (opcional)";
+"LinkNameHelp" = "Només els administradors el veuran.";
+"LimitByPeriod" = "Límit per temps";
+
+"Hours_one" = "{count} hora";
+
+
+
+"Hours_other" = "{count} hores";
+
+"Days_one" = "{count} dia";
+
+
+
+"Days_other" = "{count} dies";
+"NoLimit" = "∞";
+"GroupInviteExpireCustom" = "Personalitzat";
+"TimeLimitHelp" = "Podeu fer que l'enllaç caduqui després d'un temps.";
+"LimitNumberOfUses" = "Límit per nombre d'usuaris";
+"GroupInviteUsageCustom" = "Personalitzat";
+"UsesLimitHelp" = "Podeu fer que l'enllaç funcioni només per a un nombre d'usuaris.";
+"SaveLink" = "Desa l'enllaç";
+"CreateLink" = "Crea un enllaç";
+"LinkCopied" = "S'ha copiat l'enllaç al porta-retalls.";
+
+"PeopleJoined_one" = "{count} persona s'ha unit";
+
+
+
+"PeopleJoined_other" = "{count} persones s'han unit";
+"NoOneJoined" = "No es va usar";
+
+"PeopleCanJoinViaLinkCount_one" = "{count} persona s'hi pot unir via l'enllaç.";
+
+
+
+"PeopleCanJoinViaLinkCount_other" = "{count} persones s'hi poden unir via l'enllaç.";
+"NoOneJoinedYet" = "No l'ha usat ningú";
+"CopyLink" = "Copia l'enllaç";
+"ExpiredLink" = "Enllaç caducat";
+"LinkExpiresIn" = "L'enllaç venç {time}";
+"LinkCreatedeBy" = "Enllaç creat per";
+
+"CanJoin_one" = "{count} ús";
+
+
+
+"CanJoin_other" = "{count} usos";
+"Revoked" = "Revocat";
+
+"JoinRequests_one" = "{count} sol·licitud d'unió";
+
+
+
+"JoinRequests_other" = "{count} sol·licituds d'unió";
+"LinkLimitReached" = "Límit assolit";
+"InviteLinkExpiresIn" = "caduca en {time}";
+"InviteLinkExpired" = "caducat";
+"Permanent" = "Enllaç principal";
+"DeleteLink" = "Elimina l'enllaç";
+"PrimaryLinkHelpChannel" = "Qualsevol al Telegram podrà unir-se al canal amb aquest enllaç.";
+"PrimaryLinkHelp" = "Qualsevol al Telegram podrà unir-se al grup amb aquest enllaç.";
+"PublicLink" = "Enllaç públic";
+"CreatePermanentLinkTitle" = "Enllaç principal";
+"CreateNewLink" = "Crea un enllaç";
+"ManageLinksInfoHelp" = "Podeu crear enllaços addicionals amb límit de temps o de nombre d'usuaris.";
+"RevokedLinks" = "Enllaços revocats";
+"DeleteAllRevokedLinks" = "Elimina els enllaços revocats";
+"DeleteAllRevokedLinkHelp" = "Això eliminarà tots els enllaços revocats.";
+"DeleteAll" = "Elimina-ho tot";
+"DeleteLinkHelp" = "Això eliminarà l'enllaç.";
+"NoMemberRequests" = "Sense sol·licituds";
+"NoSubscribeRequestsDescription" = "No hi ha pendent cap sol·licitud\nd'unió.";
+"NoMemberRequestsDescription" = "No hi ha pendent cap sol·licitud\nd'unió.";
+"EnableReactions" = "Activa les reaccions";
+"UserInfoFirstNamePlaceholder" = "Nom";
+"UserInfoLastNamePlaceholder" = "Cognoms";
+"DeleteContact" = "Elimina el contacte";
+"AreYouSureDeleteContact" = "Segur que voleu eliminar aquest contacte?";
+"ChannelBlockUser" = "Expulsa un usuari";
+"ContextRemoveFromGroup" = "Expulsa del grup";
+"NoGroupsInCommon" = "No hi ha grups en comú";
+"MediaFileEmpty" = "Encara no hi ha cap fitxer";
+"MediaLinkEmpty" = "Encara no hi ha cap enllaç compartit";
+"MediaSongEmpty" = "Encara no hi ha cap cançó";
+"MediaAudioEmpty" = "Encara no hi ha cap missatge de veu";
+"SharedMediaEmptyTitle" = "Encara no hi ha cap fitxer";
+"PollResults" = "Resultats finals";
+"ChannelAddSubscribers" = "Addició de subscriptors";
+"ChannelTypeHeader" = "Tipus de canal";
+"GroupTypeHeader" = "Tipus de grup";
+"GroupInfoAdminLog" = "Accions recents";
+"EditAdminRights" = "Edita els drets d'administrador";
+"SetAsAdmin" = "Promou a administrador";
+"UserRestrictions" = "Permisos de l'usuari";
+"GroupInviteTitle" = "Enllaços d'invitació";
+"EditLink" = "Edita l'enllaç";
+"NewLink" = "Enllaç nou";
+"InviteLink" = "Enllaç d'invitació";
+"SearchStickersHint" = "Cerca paquets d'adhesius";
+"SearchGifsTitle" = "Cerqueu GIF";
+"ChannelStatsTitle" = "Estadístiques del canal";
+"GroupStatsTitle" = "Estadístiques del grup";
+"StatsMessageTitle" = "Estadístiques";
+"SharedMedia" = "Fitxers compartits";
+"CommonBack" = "Enrere";
+"CommonClose" = "Tanca";
+"DlgSearchForMessages" = "Cerca missatges";
+"SearchNoResults" = "No s'ha trobat cap missatge";
+"GraphZoomOut" = "Allunya";
+"ChannelStatsRecentHeader" = "PUBLICACIONS RECENTS";
+"StatisticOverview" = "Resum";
+
+"ChannelStatsViewsCount_one" = "{count} vista";
+
+
+
+"ChannelStatsViewsCount_other" = "{count} vistes";
+
+"ChannelStatsSharesCount_one" = "{count} compartició";
+
+
+
+"ChannelStatsSharesCount_other" = "{count} comparticions";
+"Stickers" = "Adhesius";
+"StickersInstalled" = "AFEGIT";
+"StickersInstall" = "AFEGEIX";
+"CropImage" = "Retalla la imatge";
+"ReportPeerAlertSuccess" = "Gràcies.\nEl nostre equip revisarà la denúncia.";
+"UsernameByPhoneNotFound" = "No s'ha trobat l'usuari {phone}.";
+"WebAppAddToAttachmentUnavailableError" = "Aquest bot no es pot afegir al menú d'adjunts.";
+"LimitReachedFavoriteGifs" = "S'ha assolit el límit de {count} GIF";
+"LimitReachedFavoriteGifsSubtitlePremium" = "Aquest GIF n'ha substituït un altre més antic.";
+"LimitReachedFavoriteGifsSubtitle" = "Aquest GIF n'ha substituït un altre més antic. Podeu **augmentar el límit** a {count} GIF.";
+"LimitReachedFavoriteStickers" = "S'ha assolit el límit de {count} adhesius";
+"LimitReachedFavoriteStickersSubtitlePremium" = "Aquest adhesiu n'ha substituït un de més antic.";
+"LimitReachedFavoriteStickersSubtitle" = "Aquest adhesiu n'ha substituït un altre més antic. Podeu **augmentar el límit** a {count} adhesius.";
+"StickerPackErrorNotFound" = "Sembla que el paquet d'adhesius no existeix.";
+"ContactsPhoneNumberNotRegistred" = "La persona amb aquest telèfon encara no està registrada al Telegram.";
+"VoipPeerIncompatible" = "**{user}**\'s app is using an incompatible protocol. They need to update their app before you can call them.";
+"NoUsernameFound" = "No s'ha trobat el nom d'usuari.";
+"HiddenName" = "Compte eliminat";
+"ChannelPersmissionDeniedSendMessagesForever" = "L'administració del grup us ha restringit l'enviament de missatges.";
+"ChannelPersmissionDeniedSendMessagesDefaultRestrictedText" = "No es permet enviar missatges al grup.";
+"Chats" = "Xats";
+"FilterBots" = "Bots";
+"FilterContacts" = "Contactes";
+"FilterNonContacts" = "Altres usuaris";
+"FromYou" = "Vós";
+"InDlgAlbum" = "Àlbum";
+"AttachPhoto" = "Foto";
+"AttachGif" = "GIF";
+"AttachVideo" = "Vídeo";
+"AttachSticker" = "Adhesiu";
+"AttachMusic" = "Música";
+"AttachContact" = "Contacte";
+"PaymentInvoice" = "FACTURA";
+"MessageLocation" = "Ubicació";
+"MessageLiveLocation" = "Ubicació en directe";
+"ServiceNotifications" = "notificacions del servei";
+"Bot" = "bot";
+"ALongTimeAgo" = "vist fa molt de temps";
+"WithinAMonth" = "vist fa unes setmanes";
+"WithinAWeek" = "vist fa uns dies";
+"LastSeenOffline" = "vist fa molt de temps";
+"LastSeenJustNow" = "vist ara mateix";
+
+
+"LastSeenMinutesAgo_one" = "vist fa 1 minut";
+
+
+"LastSeenMinutesAgo_other" = "vist fa {count} minuts";
+
+"LastSeenHoursAgo_one" = "vist fa {count} hora";
+
+
+
+"LastSeenHoursAgo_other" = "vist fa {count} hores";
+"LastSeenTodayAt" = "vist avui a les {time}";
+"LastSeenYesterdayAt" = "vist ahir a les {time}";
+"LastSeenAtDate" = "vist el {date}";
+"Online" = "en línia";
+"Lately" = "vist fa poc";
+"VoipMutedTapedForSpeak" = "Heu demanat parlar";
+"VoipMutedByAdmin" = "Silenciat per l'administrador";
+"VoipUnmute" = "Activa el micro";
+"VoipTapToMute" = "You\'re live";
+"Weekday1" = "dl.";
+"Weekday2" = "dt.";
+"Weekday3" = "dc.";
+"Weekday4" = "dj.";
+"Weekday5" = "dv.";
+"Weekday6" = "ds.";
+"Weekday7" = "dg.";
+"WeekdayMonday" = "Dilluns";
+"WeekdayTuesday" = "Dimarts";
+"WeekdayWednesday" = "Dimecres";
+"WeekdayThursday" = "Dijous";
+"WeekdayFriday" = "Divendres";
+"WeekdaySaturday" = "Dissabte";
+"WeekdaySunday" = "Diumenge";
+"WeekdayToday" = "Avui";
+"WeekdayYesterday" = "Ahir";
+"User" = "Usuari";
+"SecretChat" = "Xat secret";
+"ChannelPermissionDeniedSendMessagesUntil" = "L'administració del grup us ha restringit l'escriptura fins al dia {date}.";
+"FormatDateAtTime" = "{date} a les {time}";
+"StickerPackRemoveStickerCount_one" = "Elimina {count} adhesiu";
+"StickerPackRemoveStickerCount_other" = "Elimina {count} adhesius";
+"StickerPackAddStickerCount_one" = "Afegeix {count} adhesiu";
+"StickerPackAddStickerCount_other" = "Afegeix {count} adhesius";
+"ChatListFilterErrorEmpty" = "Afegiu alguns xats o tipus de xat a la carpeta.";
+"ChatListFilterErrorTitleEmpty" = "Introduïu un títol per a aquesta carpeta.";
+"FilterMuted" = "Silenciats";
+"FilterRead" = "Llegits";
+"FilterArchived" = "Arxivats";
+"GroupsAndChannelsLimitTitle" = "Grups i canal";
+"PinChatsLimitTitle" = "Xats fixats";
+"PublicLinksLimitTitle" = "Enllaços públics";
+"SavedGifsLimitTitle" = "GIF desats";
+"FavoriteStickersLimitTitle" = "Adhesius preferits";
+"BioLimitTitle" = "Biografia";
+"CaptionsLimitTitle" = "Llegendes";
+"FoldersLimitTitle" = "Carpetes";
+"ChatPerFolderLimitTitle" = "Xats per carpeta";
+"GroupsAndChannelsLimitSubtitle" = "Uniu-vos fins a {count} canals i grups grans";
+"PinChatsLimitSubtitle" = "Fixeu fins a {count} xats a la llista de xats";
+"PublicLinksLimitSubtitle" = "Reserveu fins a {count} enllaços t.me/nom";
+"SavedGifsLimitSubtitle" = "Deseu fins a {count} GIF als preferits";
+"FavoriteStickersLimitSubtitle" = "Deseu fins a {count} adhesius als preferits";
+"BioLimitSubtitle" = "Afegiu més caràcters i utilitzeu enllaços en la biografia";
+"CaptionsLimitSubtitle" = "Utilitzeu descripcions més llarges a les fotos i vídeos";
+"FoldersLimitSubtitle" = "Organitzeu els xats en {count} carpetes";
+"ChatPerFolderLimitSubtitle" = "Afegiu fins a {count} xats per carpeta";
+"TelegramPremiumUserDialogSubtitle" = "Els propietaris de comptes del **Telegram Premium** tenen accés exclusiu a funcions extra.";
+"TelegramPremiumSubscribedSubtitle" = "Gràcies per subscriure-vos al **Telegram Premium**.\nAixò és el que heu desblocat.";
+"TelegramPremiumSubtitle" = "**Supereu els límits**, obteniu **funcions exclusives** i doneu-nos suport subscrivint-vos al **Telegram Premium**.";
+"EditMessageAriaLabel" = "Desa el missatge";
+"Emoji1" = "Emojis i persones";
+"Emoji2" = "Animals i natura";
+"Emoji3" = "Menjar i beguda";
+"Emoji4" = "Activitats";
+"Emoji5" = "Viatges i llocs";
+"Emoji6" = "Objectes";
+"Emoji7" = "Símbols";
+"Emoji8" = "Banderes";
+"GroupInfoDeleteAndExit" = "Elimina i abandona";
+"HidAccount" = "L'usuari ha amagat el seu compte";
+"ChatOutgoingContextMixedReactionCount" = "{count}/{total} han reaccionat";
+"ConversationViewBot" = "MOSTRA EL BOT";
+"ConversationViewPost" = "MOSTRA LA PUBLICACIÓ";
+"ConversationViewChannel" = "MOSTRA EL CANAL";
+"Telegram" = "Telegram";
+"ChatListFilterAddToFolder" = "Afegeix a la carpeta...";
+"UnpinFromTop" = "Deixa de fixar-lo";
+"PinToTop" = "Fixa'l a dalt";
+"MarkAsRead" = "Marca-ho com a llegit";
+"MarkAsUnread" = "Marca-ho per llegir";
+"Unarchive" = "Restaura'l";
+"Archive" = "Arxiva";
+"WaitingForNetwork" = "Esperant una connexió...";
+"ScheduleSendWhenOnline" = "Envia'l en connectar-se";
+"VoipIncoming" = "Trucada entrant";
+"FileSizeB" = "{count} B";
+"FileSizeKB" = "{count} KB";
+
+"Years_one" = "{count} any";
+
+
+
+"Years_other" = "{count} anys";
+"MessageTimerShortHours" = "{count} h";
+"MessageTimerShortDays" = "{count} d";
+"LiveLocationUpdatedJustNow" = "actualitzada ara mateix";
+"LiveLocationUpdatedMinutesAgo_one" = "actualitzada fa 1 minut";
+"LiveLocationUpdatedMinutesAgo_other" = "actualitzada fa {count} minuts";
+"LiveLocationUpdatedTodayAt" = "actualitzada el {time}";
+
+"Seconds_one" = "{count} segon";
+
+
+
+"Seconds_other" = "{count} segons";
+
+"Minutes_one" = "{count} minut";
+
+
+
+"Minutes_other" = "{count} minuts";
+"AudioPause" = "Pausa l'àudio";
+"AudioPlay" = "Reprodueix";
+"ToggleUserNotifications" = "Commuta les notificacions d'usuaris";
+"ToggleChatNotifications" = "Commuta les notificacions del xat";
+"ChannelInaccessible" = "no es pot accedir al canal";
+"GroupInaccessible" = "no es pot accedir al grup";
+"AriaPasswordToggle" = "Commuta la visibilitat";
+"NothingFound" = "No s'ha trobat res";
+"SetUrlShort" = "L'enllaç és massa curt";
+"SetUrlLong" = "L'enllaç és massa llarg";
+"SetUrlInvalid" = "L'enllaç conté caràcters no vàlids";
+"UsernameShort" = "El nom d'usuari és massa curt";
+"UsernameLong" = "El nom d'usuari és massa llarg";
+"UsernameInvalid" = "El nom d'usuari conté caràcters no vàlids";
+"AriaCodeWordWrap" = "Frases per línia";
+"AriaBackToChatList" = "Torna a la llista de xats";
+"NoContactsFound" = "No s'ha trobat cap contacte";
+"ContactListEmpty" = "La llista de contactes és buida";
+"AriaNewChannelContinue" = "Continua a la informació del canal";
+"AriaNewGroupContinue" = "Continua a la informació del grup";
+"NewChatTitleEmptyError" = "El títol no pot estar buit";
+"NewChannelTitleEmptyError" = "El títol no pot estar buit";
+"NewChatTooManyUsers" = "Encara no és possible crear supergrups";
+"AriaCreateGroup" = "Crea un grup";
+"SearchAllMessagesTab" = "Tots els missatges";
+"SearchMediaTab" = "Fotos";
+"SearchLinksTab" = "Enllaços";
+"SearchGifsTab" = "GIF";
+"SearchFilesTab" = "Fitxers";
+"SearchMusicTab" = "Música";
+"SearchVoiceTab" = "Veu";
+"SearchGroupsTab" = "Grups";
+"RecentChatsClear" = "Esborra els xats recents";
+"EditProfileNoFirstName" = "Introduïu abans el vostre nom";
+"AriaEditProfilePhoto" = "Edita l'avatar";
+"LaunchConfetti" = "Llança confeti!";
+"SettingsAnimations" = "Nivell d'animació";
+"SettingsAnimationsDescription" = "Trieu quantes animacions voleu";
+"SettingsAnimationsLow" = "Estable i tranquil";
+"SettingsAnimationsMedium" = "Bonic i ràpid";
+"SettingsAnimationsHigh" = "Un munt de coses";
+"Settings12HourFormat" = "12 hores";
+"Settings24HourFormat" = "24 hores";
+"SettingsSendEnterDescription" = "Línia nova amb Majús. + Retorn";
+"SettingsSendCtrlEnterDescription" = "Línia nova amb Retorn";
+"AriaMoreButton" = "Més accions";
+"RecoveryEmailCode" = "Codi de recuperació de l'adreça";
+"NotificationsWeb" = "Notificacions web";
+"NotificationsOffline" = "Notificacions fora de línia";
+"NotificationsSound" = "Volum del so";
+"SettingsPasswordEqual" = "Les contrasenyes haurien de ser iguals";
+"SettingsSaveChanges" = "Desa els canvis";
+"SettingsFolderCreate" = "Crea una carpeta";
+"SettingsFoldersEmpty" = "Encara no teniu cap carpeta";
+"SettingsPasscodeSuccess" = "L'enhorabona!\nAra podeu blocar l'aplicació amb un codi perquè ningú no la pugui obrir.";
+"SettingsPasscodeEnabled" = "El codi d'accés és actiu";
+"SettingsPasscodeStart1" = "En establir un codi d'accés, apareixerà un cadenat sobre la llista de xats. Toqueu-lo per a blocar i desblocar el Telegram WebZ.";
+"SettingsPasscodeStart2" = "Nota: si oblideu el codi d'accés, haureu de tancar la sessió al Telegram WebZ i tornar a iniciar-la.";
+"CurrentPasswordPlaceholder" = "Contrasenya actual";
+"TooManyTabsTitle" = "Error, massa pestanyes";
+"TooManyTabsDescription" = "El Telegram només es pot fer servir en una pestanya activa alhora. Recarregueu aquesta per a continuar usant-lo aquí, o tanqueu-la.";
+"TooManyTabsReload" = "Recarrega l'aplicació";
+"SlowmodeEnabled" = "Mode lent actiu";
+"SomethingWentWrong" = "Quelcom ha anat malament";
+"MediaViewDownloading" = "{count}% baixat...";
+"VideoPlayerBuffering" = "S'està precarregant...";
+"VideoPlayerFullscreen" = "Pantalla completa";
+"PlayerVolume" = "Volum";
+"PlayerPlaybackRate" = "Ràtio de reproducció";
+"AudioPlayerPrevious" = "Tema anterior";
+"AudioPlayerNext" = "Tema següent";
+"AudioPlayerClose" = "Tanca";
+"DeleteForMeDescription" = "Això ho eliminarà només del vostre historial, no del de la resta de membres";
+"DeleteForEveryoneDescription" = "Això ho eliminarà per a tothom en aquest xat";
+"AriaSearchInChat" = "Cerca al xat";
+"PinnedConfirmUnpin" = "Voldríeu deixar de fixar el missatge?";
+"RestictionReasonPrivateChat" = "Això és un xat privat";
+"RestictionReasonPrivateChannel" = "Això és un canal privat";
+"BotInfoImageAlt" = "Informació";
+"AriaExitMessageSelection" = "Surt del mode de selecció";
+"AriaSearchByDate" = "Cerca per data";
+"AriaCloseAttachmentModal" = "Descarta els adjunts";
+"AriaAddAttachment" = "Afegeix un adjunt";
+"AttachMenuMediaBlocked" = "No es permet enviar contingut multimèdia al grup.";
+"AriaOpenBotMenu" = "Obre el menú del bot";
+"AriaOpenSymbolMenu" = "Trieu un emoji, adhesiu o GIF";
+"AriaComposerOpenScheduled" = "Obre els missatges programats";
+"AriaComposerCancelVoice" = "Cancel·la l'enregistrament";
+"PreviewForwardedMessage_one" = "{count} missatge a reenviar";
+"PreviewForwardedMessage_other" = "{count} missatges a reenviar";
+"PreviewEditMessage" = "Edició del missatge";
+"FileDropZoneTitle" = "Deixeu anar els fitxers per a enviar-los";
+"FileDropZoneQuick" = "de manera ràpida";
+"FileDropZoneNoCompression" = "sense compressió";
+"GifPickerBlocked" = "No es permet enviar GIF al xat";
+"GifPickerEmpty" = "No hi ha cap GIF desat";
+"AriaCancelPollCreation" = "Cancel·la l'enquesta";
+"AriaLabelSearchStickers" = "Cerca adhesius";
+"AriaLabelSearchGifs" = "Cerqueu GIF";
+"FormattingSpoilerAria" = "Espòiler";
+"FormattingBoldAria" = "Negreta";
+"FormattingItalicAria" = "Cursiva";
+"FormattingMonospaceAria" = "Amplada fixa";
+"FormattingUnderlineAria" = "Subratllat";
+"FormattingStrikethroughAria" = "Ratllat";
+"FormattingEnterUrl" = "Introduïu un URL...";
+"PreviewWebPageClose" = "Esborra la vista prèvia";
+"MediaLocaltionImageAlt" = "Ubicació en un mapa";
+"MediaPollSolutionAria" = "Mostra la solució";
+"GeneralError" = "S'ha produït un error";
+"PaymentsProvidesNotSupported" = "El Telegram WebZ no és compatible amb aquest proveïdor de pagaments.\nUseu una de les nostres aplicacions mòbils per a completar el pagament.";
+"ChatMemberListNoAccess" = "No teniu accés a la llista de membres";
+"NoMembersFound" = "No s'ha trobat cap membre";
+"Profile" = "Perfil";
+"SearchMessagesFound_one" = "S'ha trobat 1 missatge";
+"SearchMessagesFound_other" = "S'han trobat {count} missatges";
+"ChannelManagementAddAdminDescription" = "Podeu afegir administradors que us ajudin a gestionar el canal.";
+"GroupManagementAddAdminDescription" = "Podeu afegir administradors que us ajudin a gestionar el grup.";
+"ChannelManagementLinkDiscussion" = "Voleu convertir el **{group}** en el grup de debat del **{channel}**?";
+"ChannelManagementLinkPrivate" = "Qualsevol subscriptor podrà veure els missatges d'aquest grup";
+"NoDiscussionsLinked" = "No s'ha trobat cap grup de debat";
+"ManagementRemoveAdminConfirm" = "Segur que voleu demetre l'administrador?";
+"NoSubscribersFound" = "No s'ha trobat cap subscriptor";
+"GroupManagementBanUserConfirm" = "Segur que voleu bandejar i expulsar del grup aquest usuari?";
+"NoLinksFound" = "No s'ha trobat cap enllaç";
+"JoinRequestAcceptAllTitle" = "Accepteu les sol·licituds?";
+"JoinRequestAcceptAllDescription" = "Segur que voleu acceptar totes les sol·licituds?";
+"JoinRequestRejectAllTitle" = "Rebutgeu les sol·licituds?";
+"JoinRequestRejectAllDescription" = "Segur que voleu rebutjar totes les sol·licituds?";
+"StatsNoShares" = "Cap compartició";
+"AvatarChangeTitle" = "Canvieu la foto de perfil";
+"PleaseWait" = "Espereu...";
+"GeneralConfirm" = "Confirma";
+"ImageCropTitle" = "Arrossegueu per a ordenar";
+"NewChatReturnBackAria" = "Torna a la selecció de membres";
+"FoldersAllChatsDesc" = "Tots els xats no arxivats";
+"RemoveSymbol" = "Elimina l'emoji";
+"FocusMessage" = "Vés al missatge";
+"ShowMoreChats_one" = "Mostra 1 xat més";
+"ShowMoreChats_other" = "Mostra {count} xats més";
+"ShowMoreVoters_one" = "Mostra 1 votant més";
+"ShowMoreVoters_other" = "Mostra {count} votants més";
+"HiddenSendersNameDescription" = "S'han eliminat els remitents";
+"ShowSenderNames" = "Mostra els remitents";
+"ShowSendersName" = "Mostra el remitent";
+"HideSenderNames" = "Amaga els remitents";
+"HideSendersName" = "Amaga el remitent";
+"ConversationForwardOptionsShowCaption" = "Mostra les llegendes";
+"ShowCaption" = "Mostra la llegenda";
+"ConversationForwardOptionsHideCaption" = "Amaga la llegenda";
+"HideCaption" = "Amaga la llegenda";
+"ChangeRecipient" = "Canvia el destinatari";
+"DragToSortAria" = "Arrossegueu per a ordenar";
+"SettingsTimeFormat" = "Format d'hora";
